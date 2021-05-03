@@ -36,19 +36,25 @@ When Choosing VibrateTrigger state, you need to set a value for VibrateTrigger 0
 - Apply Hard State
 
 LeftTrigger=Hard
+
 RightTrigger=Hard
+
 VibrateTrigger=0
 
 - Apply Rigid State
 
 LeftTrigger=Rigid
+
 RightTrigger=Rigid
+
 VibrateTrigger=0
 
 - Apply VibrateTrigger State for right Trigger
 
 LeftTrigger=Normal
+
 RightTrigger=VibrateTrigger
+
 VibrateTrigger=40
 
 You can mix and match between states to get the desired effect for your game.
