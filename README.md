@@ -13,7 +13,9 @@ To get this working with your game, you just have to write to a text file.
 There are 3 things this App will look for when reading this text file to apply the triggers:
 
 LeftTrigger=s
+
 RightTrigger=s
+
 VibrateTrigger=s
 
 Download the zip file and attach the .Bat file with your game.
