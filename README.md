@@ -4,7 +4,7 @@ Bring your DualSense Controller to life on PC!
 
 
 
-## For Game Devs
+# For Game Devs
 
 Support your game with DualSense Trigger Capabilities
 
