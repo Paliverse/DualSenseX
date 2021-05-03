@@ -12,11 +12,11 @@ To get this working with your game, you just have to write to a text file.
 
 There are 3 things this App will look for when reading this text file to apply the triggers:
 
--LeftTrigger=
+- LeftTrigger=
 
--RightTrigger=
+- RightTrigger=
 
--VibrateTrigger=
+- VibrateTrigger=
 
 Download the zip file and attach the .Bat file with your game.
 Upon launching the game, you should execute this batch file which will open a new window
