@@ -63,13 +63,19 @@ You can mix and match between states to get the desired effect for your game.
 From previous testing, i believe you can write to text file every frame as the App will only read from that file.
 
 ### **Batch File:**
-Download the zip file and attach the .Bat file with your game.
+For best results i recommend you include the batch file with your game and have it execute when loading your game.
+
+This batch file will open the DualSenseX App and auto connect to the controller, and begin applying the trigger states from the text file.
+
+To get started download the zip file from aboove and attach the .Bat file in the directory of your game.
+Edit the batch file accordingly to your Game Title and the name of the text file that your game will write to.
+
 Upon launching the game, you should execute this batch file which will open a new window
-of DualSenseX that take in 2 paramaters from the batch file explained below and inside the batch file:
+of DualSenseX that takes in 2 paramaters from the batch file explained below and inside the batch file:
 
 Both the batch file and the text file must be in the same directory with your game, the batch file gets the location of the 
 textfile depending on where the batch file is located.
 
-- Replace GAMENAME with your Game Name.
-- Replace TEXTFILENAME.txt with your text file name, while also including .txt extension
+- Replace GAMENAME with your Game Title.
+- Replace TEXTFILENAME.txt with your text file name, while also including the .txt extension at the end
 
