@@ -31,7 +31,7 @@ For the LeftTrigger and RightTrigger, there are 8 different state possibilites t
 
 When Choosing VibrateTrigger state, you need to set a value for VibrateTrigger 0-255 for it to work. Recommened 0-40 for guns in a game.
 
-### Batch File
+### **Batch File**
 Download the zip file and attach the .Bat file with your game.
 Upon launching the game, you should execute this batch file which will open a new window
 of DualSenseX that take in 2 paramaters from the batch file explained below and inside the batch file:
