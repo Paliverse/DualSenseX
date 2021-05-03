@@ -16,7 +16,7 @@ There are 3 things this App will look for when reading this text file to apply t
 
 - RightTrigger=
 
-- VibrateTrigger=
+- VibrateTrigger= a value between 0-255
 
 For the LeftTrigger and RightTrigger, there are 8 different state possibilites that you can set:
 
@@ -28,6 +28,8 @@ For the LeftTrigger and RightTrigger, there are 8 different state possibilites t
 - Hardest
 - Rigid
 - VibrateTrigger
+
+When Choosing VibrateTrigger state, you need to set a value for VibrateTrigger 0-255 for it to work. Recommened 0-40 for guns in a game.
 
 ### Batch File
 Download the zip file and attach the .Bat file with your game.
