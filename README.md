@@ -19,7 +19,7 @@ There are 3 things this App will look for when reading this text file to apply t
 
 - VibrateTrigger= a value between 0-255
 
-For the LeftTrigger and RightTrigger, there are 8 different state possibilites that you can set:
+For the LeftTrigger and RightTrigger, there are 8 different state possibilites that you can set which are **CASE SENSITIVE**:
 
 - Normal
 - VerySoft
@@ -59,6 +59,8 @@ RightTrigger=VibrateTrigger
 VibrateTrigger=40
 ___________________
 You can mix and match between states to get the desired effect for your game.
+
+From previous testing, i believe you can write to text file every frame as the App will only read from that file.
 
 ### **Batch File:**
 Download the zip file and attach the .Bat file with your game.
