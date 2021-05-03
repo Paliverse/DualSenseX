@@ -34,16 +34,19 @@ When Choosing VibrateTrigger state, you need to set a value for VibrateTrigger 0
 
 ### **Examples of trigger States:**
 - Apply Hard State
+
 LeftTrigger=Hard
 RightTrigger=Hard
 VibrateTrigger=0
 
 - Apply Rigid State
+
 LeftTrigger=Rigid
 RightTrigger=Rigid
 VibrateTrigger=0
 
 - Apply VibrateTrigger State for right Trigger
+
 LeftTrigger=Normal
 RightTrigger=VibrateTrigger
 VibrateTrigger=40
