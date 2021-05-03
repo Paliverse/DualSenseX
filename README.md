@@ -20,10 +20,11 @@ VibrateTrigger=
 
 Download the zip file and attach the .Bat file with your game.
 Upon launching the game, you should execute this batch file which will open a new window
-of DualSenseX that take in 2 paramaters from the batch file explained below:
+of DualSenseX that take in 2 paramaters from the batch file explained below and inside the batch file:
 
-- @ECHO OFF and /B will stop the command prompt from opening a window when executing this batch file.
-- %~dp0 will get the directory of where this batch file is located on user's PC.
-- Replace GAMENAME with your game name.
-- Replace TEXTFILENAME.txt with your text file name, while also including .txt extension. DONT put a space after the 0!
+Both the batch file and the text file must be in the same directory with your game, the batch file gets the location of the 
+textfile depending on where the batch file is located.
+
+- Replace GAMENAME with your Game Name.
+- Replace TEXTFILENAME.txt with your text file name, while also including .txt extension
 
