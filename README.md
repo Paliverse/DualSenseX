@@ -10,8 +10,7 @@ Support your game with DualSense Trigger Capabilities
 
 ### **Trigger State**
 To get this working with your game, you just have to write to a text file.
-
-There are 3 things this App will look for when reading this text file to apply the triggers:
+ There are 3 things this App will look for when reading this text file to apply the triggers:
 
 - LeftTrigger=
 
