@@ -8,7 +8,7 @@ Bring your DualSense Controller to life on PC!
 
 Support your game with DualSense Trigger Capabilities
 
-#### Trigger State
+### Trigger State
 To get this working with your game, you just have to write to a text file.
 There are 3 things this App will look for when reading this text file to apply the triggers:
 
@@ -19,6 +19,7 @@ There are 3 things this App will look for when reading this text file to apply t
 - VibrateTrigger=
 
 For the LeftTrigger and RightTrigger, there are 8 different state possibilites that you can set:
+
 - Normal
 - VerySoft
 - Soft
@@ -28,7 +29,7 @@ For the LeftTrigger and RightTrigger, there are 8 different state possibilites t
 - Rigid
 - VibrateTrigger
 
-#### Batch File
+### Batch File
 Download the zip file and attach the .Bat file with your game.
 Upon launching the game, you should execute this batch file which will open a new window
 of DualSenseX that take in 2 paramaters from the batch file explained below and inside the batch file:
