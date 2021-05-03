@@ -57,7 +57,7 @@ LeftTrigger=Normal
 RightTrigger=VibrateTrigger
 
 VibrateTrigger=40
-
+___________________
 You can mix and match between states to get the desired effect for your game.
 
 ### **Batch File**
