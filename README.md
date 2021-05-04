@@ -2,7 +2,8 @@
 
 Bring your DualSense Controller to life on PC!
 
-
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 # For Game Devs
 
