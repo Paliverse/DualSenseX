@@ -24,7 +24,7 @@ Wheather you're using steam or a different platform, you will be able to use dua
 - [ ] Finish Sense2Key Tab  
 - [ ] Add support for DualShock 4 Controller
 
-## Join [**Discord**](https://discord.gg/deDkBZmcEQ) Community!
+## Join [**Discord**](https://discord.gg/HknYZ5qr7R) Community!
 
 # **For Game Devs**
 
