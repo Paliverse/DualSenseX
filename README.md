@@ -20,7 +20,8 @@ Wheather you're using steam or a different platform, you will be able to use dua
 ![Screenshot 1](https://user-images.githubusercontent.com/4289084/116958233-7fbe9880-ac5f-11eb-8d9e-b0b3435d172e.png)
 
 ## **TO-DO:**
-- Finish Games Tab - [ ]
+- [ ]
+- Finish Games Tab 
 - Finish Sense2Key Tab  - [ ]
 - Add support for DualShock 4 Controller - [ ]
 
