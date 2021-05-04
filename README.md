@@ -1,4 +1,4 @@
-# DualSenseX
+# **DualSenseX**
 
 Bring your DualSense Controller to life on PC!
 
