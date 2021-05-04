@@ -2,12 +2,11 @@
 
 Bring your DualSense Controller to life on PC!
 
-## Join [**Discord**](https://discord.gg/gRkTMgHxe6) Community!
 This app will emulate an Xbox360 Controller, while also getting the functionality of a DualSense Controller.
 
 Wheather you're using steam or a different platform, you will be able to use the dualsense with all Games!
 
-
+## Join [**Discord**](https://discord.gg/gRkTMgHxe6) Community!
 
 # For Game Devs
 
