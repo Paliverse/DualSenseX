@@ -19,7 +19,7 @@ Wheather you're using steam or a different platform, you will be able to use the
 
 # For Game Devs
 
-Support your game with DualSense Trigger Capabilities
+Support your game with DualSense Trigger Capabilities With DualSenseX App, find out below how to get it setup!
 
 ### **Trigger State**
 To get this working with your game, you just have to write to a text file.
