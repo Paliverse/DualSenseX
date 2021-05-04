@@ -6,7 +6,7 @@ This app will emulate an Xbox360 Controller, while also getting the functionalit
 
 Wheather you're using steam or a different platform, you will be able to use dualsense with all Games!
 
-## Features:
+## **Features:**
 - Test out the controller to make sure all the buttons and joysticks function as inteded
 - Get Battery life status of controller (Connecting throught USB cable will show 100% needs to be tweaked)
 - Configure Controller LED to your liking
@@ -16,10 +16,11 @@ Wheather you're using steam or a different platform, you will be able to use dua
 - Auto connected controller when app launches, with ability to also kill steam if it's running.
 - Change between different hand selected backgrounds for the App
 
-## TODO:
-- Add support for DualShock 4 Controller
-  
+## **Screenshot:**
 ![Screenshot 1](https://user-images.githubusercontent.com/4289084/116958233-7fbe9880-ac5f-11eb-8d9e-b0b3435d172e.png)
+
+## **TODO:**
+- Add support for DualShock 4 Controller
 
 ## Join [**Discord**](https://discord.gg/gRkTMgHxe6) Community!
 
