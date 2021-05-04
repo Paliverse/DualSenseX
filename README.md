@@ -16,6 +16,13 @@ Wheather you're using steam or a different platform, you will be able to use dua
 - Auto connected controller when app launches, with ability to also kill steam if it's running.
 - Change between different hand selected backgrounds for the App
 
+<details>
+  <summary>The title of the image group</summary><details>
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+</details>
+  
 ![Screenshot 1](https://user-images.githubusercontent.com/4289084/116958233-7fbe9880-ac5f-11eb-8d9e-b0b3435d172e.png)
 
 ## Join [**Discord**](https://discord.gg/gRkTMgHxe6) Community!
