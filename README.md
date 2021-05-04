@@ -17,7 +17,6 @@ Wheather you're using steam or a different platform, you will be able to use dua
 - Change between different hand selected backgrounds for the App
 
 <details>
-  <summary>The title of the image group</summary><details>
   <img src="image-url" name="image-name">
   <img src="image-url" name="image-name">
   <img src="image-url" name="image-name">
