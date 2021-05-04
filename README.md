@@ -2,7 +2,7 @@
 
 Bring your DualSense Controller to life on PC!
 
-[Discord]()
+[Discord](https://discord.gg/gRkTMgHxe6)
 
 # For Game Devs
 
