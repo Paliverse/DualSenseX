@@ -8,6 +8,7 @@ Wheather you're using steam or a different platform, you will be able to use dua
 
 ## Features:
 - Test out the controller to make sure all the buttons and joysticks function as inteded
+- Get Battery life status of controller (Connecting throught USB cable will show 100% needs to be tweaked)
 - Configure Controller LED to your liking
 - Test out different Trigger Modes and controller vibration
 - See a list of supported games in the "Games" Tab (Work in progress)
