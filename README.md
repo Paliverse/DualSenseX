@@ -15,12 +15,6 @@ Wheather you're using steam or a different platform, you will be able to use dua
 - Game doesnt support controller? Map keyboard button clicks to controller buttons to simulate key pressess.
 - Auto connected controller when app launches, with ability to also kill steam if it's running.
 - Change between different hand selected backgrounds for the App
-
-<details>
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
-</details>
   
 ![Screenshot 1](https://user-images.githubusercontent.com/4289084/116958233-7fbe9880-ac5f-11eb-8d9e-b0b3435d172e.png)
 
