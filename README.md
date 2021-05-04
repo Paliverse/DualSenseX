@@ -54,7 +54,7 @@ For the LeftTrigger and RightTrigger, there are 8 different state possibilites t
 
 When Choosing VibrateTrigger state, you need to set a value for VibrateTriggerIntensity 0-255 for it to work. Recommened 0-40 for guns in a game.
 
-### **Examples of trigger States:**
+### **Examples of Trigger States:**
 ____
 **Apply Hard State:**
 
