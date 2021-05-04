@@ -24,13 +24,9 @@ Wheather you're using steam or a different platform, you will be able to use dua
 - [ ] Finish Sense2Key Tab  
 - [ ] Add support for DualShock 4 Controller
 
-
-
 ## Join [**Discord**](https://discord.gg/gRkTMgHxe6) Community!
 
-
-
-# For Game Devs
+# **For Game Devs**
 
 Support your game with DualSense Trigger Capabilities With DualSenseX App, find out below how to get it setup, and get your game added within the App for all to see and play!
 
