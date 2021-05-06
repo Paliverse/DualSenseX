@@ -106,3 +106,4 @@ textfile depending on where the batch file is located.
 * [BLE Inputs](https://gist.github.com/Ryochan7/91a9759deb5dff3096fc5afd50ba19e2)
 * [DualSense-Windows](https://github.com/Ohjurot/DualSense-Windows)
 * [DS4Windows](https://github.com/Ryochan7/DS4Windows)
+* [DS4Windows](https://github.com/Ryochan7/DS4Windows)
