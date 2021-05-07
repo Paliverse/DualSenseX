@@ -34,8 +34,9 @@ To install, double-click `DualSenseX-Setup.exe`.
 - [ ] Finish Games Tab 
 - [ ] Finish Sense2Key Tab  
 - [ ] Add support for DualShock 4 Controller
-- [ ] Support for more languages
+- [ ] Support for multiple Controllers
 - [ ] Ability to remap Controller buttons
+- [ ] Support for more languages
 
 ## Join [**Discord**](https://discord.gg/HknYZ5qr7R) Community!
 
