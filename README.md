@@ -24,6 +24,7 @@ Wheather you're using steam or a different platform, you will be able to use Dua
 - [ ] Finish Sense2Key Tab  
 - [ ] Add support for DualShock 4 Controller
 - [ ] Support for more languages
+- [ ] Ability to remap Controller buttons
 
 ## Join [**Discord**](https://discord.gg/HknYZ5qr7R) Community!
 
