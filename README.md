@@ -10,7 +10,7 @@ Wheather you're using steam or a different platform, you will be able to use Dua
 
 To use DualSenseX,
 
-* Download the **setup** from the [latest release](https://github.com/Paliverse/DualSenseX/releases/latest).  
+* Download the ** DualSenseX-Setup.zip** in Assets from the [latest release](https://github.com/Paliverse/DualSenseX/releases/latest).  
 To install, double-click `DualSenseX-Setup.exe`.
 
 * Very important and required install ViGEmBus Driver:
