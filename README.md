@@ -6,6 +6,8 @@ This app will emulate an Xbox360 Controller, while also getting the functionalit
 
 Wheather you're using steam or a different platform, you will be able to use DualSenseX with all Games!
 
+## Join [**Download the App**](https://github.com/Paliverse/DualSenseX/releases) Community!
+
 ## **Features:**
 - Test out the controller to make sure all the buttons and joysticks function as inteded
 - Get Battery life status of controller (Connecting throught USB cable will show 100% needs to be tweaked)
