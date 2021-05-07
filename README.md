@@ -6,7 +6,16 @@ This app will emulate an Xbox360 Controller, while also getting the functionalit
 
 Wheather you're using steam or a different platform, you will be able to use DualSenseX with all Games!
 
-### [**Get App**](https://github.com/Paliverse/DualSenseX/releases)
+## Download and Install
+
+To use DualSenseX,
+
+* Download the **setup** from the [latest release](https://github.com/Paliverse/DualSenseX/releases/latest).  
+To install, double-click `DualSenseX-Setup.exe`.
+
+* Very important and required install ViGEmBus Driver:
+    * Download and install the latest `ViGEmBus` drivers from the [ViGEmBus release page](https://github.com/ViGEm/ViGEmBus/releases/latest).  
+    To install, double-click `ViGEmBus_Setup_{version}.exe` and follow the instructions presented.
 
 ## **Features:**
 - Test out the controller to make sure all the buttons and joysticks function as inteded
