@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-show_downloads: ["true"]
+github:
+  zip_url: http://example.com/download.zip
