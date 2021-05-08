@@ -18,6 +18,7 @@ To install, double-click `DualSenseX-Setup.exe`.
     To install, double-click `ViGEmBus_Setup_{version}.exe` and follow the instructions presented.
 
 ## **Features:**
+- Self updating App, we will always strive to make the experience easy and hassle free
 - Test out the controller to make sure all the buttons and joysticks function as inteded
 - Get Battery life status of controller (Connecting throught USB cable will show 100% needs to be tweaked)
 - Configure Controller LED to your liking
