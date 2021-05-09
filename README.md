@@ -25,7 +25,7 @@ To install, double-click `DualSenseX-Setup.exe`.
 - Test out different Trigger Modes and controller vibration
 - See a list of supported games in the "Games" Tab (Work in progress)
 - Game doesnt support controller? Map keyboard button clicks to controller buttons to simulate key pressess.
-- Auto connected controller when app launches, with ability to also kill steam if it's running.
+- Auto connect controller when app launches, with ability to also kill steam if it's running.
 - Change between different hand selected backgrounds for the App
 
 ## **Screenshot:**
