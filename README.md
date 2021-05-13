@@ -15,7 +15,7 @@ To use DualSenseX,
 
 * Very important and required install ViGEmBus Driver:
     * Download and install the latest `ViGEmBus` drivers from the [ViGEmBus release page](https://github.com/ViGEm/ViGEmBus/releases/latest).  
-    To install, double-click `ViGEmBus_Setup_{version}.exe` and follow the instructions presented.
+    * To install, double-click `ViGEmBus_Setup_{version}.exe` and follow the instructions presented.
 
 ## **Features:**
 - Self updating App, we will always strive to make the experience easy and hassle free
