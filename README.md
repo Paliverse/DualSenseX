@@ -13,7 +13,7 @@ To use DualSenseX,
 * Download the **DualSenseX-Setup.zip** in Assets from the [latest release](https://github.com/Paliverse/DualSenseX/releases/latest).  
     * To install, double-click `DualSenseX-Setup.exe`.
 
-* Very important and required install ViGEmBus Driver:
+* Very important and required get ViGEmBus Driver:
     * Download the latest `ViGEmBus` drivers from the [ViGEmBus release page](https://github.com/ViGEm/ViGEmBus/releases/latest).  
     * To install, double-click `ViGEmBus_Setup_{version}.exe` and follow the instructions presented.
 
