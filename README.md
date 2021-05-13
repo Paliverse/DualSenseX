@@ -32,7 +32,7 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - Change between different hand selected backgrounds for the App
 
 ## **Screenshot:**
-![Screenshot 1](https://user-images.githubusercontent.com/4289084/116958233-7fbe9880-ac5f-11eb-8d9e-b0b3435d172e.png)
+![Screenshot 2021-05-12 205945](https://user-images.githubusercontent.com/4289084/118066856-11678d80-b365-11eb-9739-e12dcfbac3c0.png)
 
 ## **TO-DO:**
 - [ ] Finish Games Tab 
