@@ -38,6 +38,7 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - [X] Finish Sense2Key Tab 
 - [ ] Finish Games Tab 
 - [ ] Add support for DualShock 4 Controller
+- [ ] Add support for Xbox Controllers
 - [ ] Support for multiple Controllers
 - [ ] Ability to remap Controller buttons
 - [ ] Support for more languages
