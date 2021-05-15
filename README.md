@@ -109,7 +109,7 @@ From previous testing, i believe you can write to text file every frame as the A
 
 For best results i recommend you include the batch file with your game and have it execute when loading your game which is explained below.
 
-### **Batch File:**
+## **Batch File:**
 This batch file will open the DualSenseX App and auto connect to the controller, and begin applying the trigger states from the text file.
 
 To get started download the zip file from aboove and attach the .Bat file in the directory of your game.
