@@ -43,7 +43,6 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - [ ] Add support for DualShock 4 Controller
 - [ ] Add support for Xbox Controllers
 - [ ] Support for multiple Controllers
-- [ ] Ability to remap Controller buttons
 - [ ] Support for more languages
 
 ## Join [**Discord**](https://discord.gg/HknYZ5qr7R) Community!
