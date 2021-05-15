@@ -63,9 +63,10 @@ There are 3 things this App will look for when reading this text file to apply t
 
 - VibrateTriggerIntensity= a value between 0-255
 
-For the LeftTrigger and RightTrigger, there are 8 different state possibilites that you can set which are **CASE SENSITIVE**:
+For the LeftTrigger and RightTrigger, there are 9 different state possibilites that you can set which are **CASE SENSITIVE**:
 
 - Normal
+- GameCube
 - VerySoft
 - Soft
 - Hard
