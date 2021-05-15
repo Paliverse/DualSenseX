@@ -1,6 +1,6 @@
 # **DualSenseX**
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C43E4IB)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/paliverse)
 
 
 Bring your DualSense Controller to life on PC!
