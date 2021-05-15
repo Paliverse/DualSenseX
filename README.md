@@ -1,3 +1,6 @@
+# Delfinovin 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C43E4IB)
+
 # **DualSenseX**
 
 Bring your DualSense Controller to life on PC!
