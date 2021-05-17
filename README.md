@@ -112,7 +112,7 @@ For best results i recommend you include the batch file with your game and have 
 This batch file will open the DualSenseX App and auto connect to the controller, and begin applying the trigger states from the text file.
 
 To get started download the zip file from aboove and attach the .Bat file in the directory of your game.
-Edit the batch file accordingly to your Game Title and the name of the text file that your game will write to.
+Edit the batch file according to your Game Title and the name of the text file that your game will write to.
 
 Upon launching the game, you should execute this batch file which will open a new window
 of DualSenseX that takes in 2 paramaters from the batch file explained below and inside the batch file:
