@@ -9,6 +9,8 @@ This app will emulate an Xbox360 Controller, while also getting the functionalit
 
 Wheather you're using steam or a different platform, you will be able to use DualSenseX with all Games!
 
+100% Bluetooth Functionality supported!
+
 ## Download and Install
 
 To use DualSenseX,
