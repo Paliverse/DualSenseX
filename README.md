@@ -36,13 +36,13 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - Auto connect controller when app launches, with ability to also kill steam if it's running.
 - Change between different hand selected backgrounds for the App
 
-## **Game Demo**
-[View on Itch.io](https://paliverse.itch.io/dualsensex-game-demo)
-
-![Screenshot 2021-05-12 205945](https://img.itch.zone/aW1nLzYwMTU0NzcucG5n/original/KQkDLv.png)
-
 ## **Screenshot:**
 ![Screenshot 2021-05-12 205945](https://user-images.githubusercontent.com/4289084/118066856-11678d80-b365-11eb-9739-e12dcfbac3c0.png)
+
+## **Game Demo**
+###[**View on Itch.io**](https://paliverse.itch.io/dualsensex-game-demo)
+
+![Screenshot 2021-05-12 205945](https://img.itch.zone/aW1nLzYwMTU0NzcucG5n/original/KQkDLv.png)
 
 ## **TO-DO:**
 - [X] Finish Sense2Key Tab 
