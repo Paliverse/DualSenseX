@@ -42,7 +42,7 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 # **Game Demo**
 ### [**View on Itch.io**](https://paliverse.itch.io/dualsensex-game-demo)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT]((https://img.itch.zone/aW1nLzYwMTU0NzcucG5n/original/KQkDLv.png)](http://www.youtube.com/watch?v=VQABnviCeRw"DualSense Adaptive Triggers Game Demo on PC")
 
 ![Screenshot 2021-05-12 205945](https://img.itch.zone/aW1nLzYwMTU0NzcucG5n/original/KQkDLv.png)
 
