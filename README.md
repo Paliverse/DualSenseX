@@ -41,6 +41,7 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 
 # **Game Demo**
 ### [**View on Itch.io**](https://paliverse.itch.io/dualsensex-game-demo)
+### [**Watch Video on YouTube**](https://www.youtube.com/watch?v=VQABnviCeRw)
 
 ![Screenshot 2021-05-12 205945](https://img.itch.zone/aW1nLzYwMTU0NzcucG5n/original/KQkDLv.png)
 
