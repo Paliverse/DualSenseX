@@ -70,16 +70,19 @@ There are 3 things this App will look for when reading this text file to apply t
 
 - VibrateTriggerIntensity= a value between 0-255
 
-For the LeftTrigger and RightTrigger, there are 9 different state possibilites that you can set which are **CASE SENSITIVE**:
+For the LeftTrigger and RightTrigger, there are 12 different state possibilites that you can set which are **CASE SENSITIVE**:
 
 - Normal
 - GameCube
+- Choppy
 - VerySoft
 - Soft
+- Medium
 - Hard
 - VeryHard
 - Hardest
 - Rigid
+- VibrateTriggerPulse
 - VibrateTrigger
 
 When Choosing VibrateTrigger state, you need to set a value for VibrateTriggerIntensity 0-255 for it to work. Recommened 0-40 for guns in a game.
