@@ -151,4 +151,4 @@ I thank all of you!
 
 [![Paypal.me](https://3.bp.blogspot.com/-8ebAKPD8I84/XKGZxo1IG3I/AAAAAAAAQ1M/cWq0ecuHUy0p4z6A56x32Hz2EycZR5mfwCLcBGAs/s1600/paypal_me-copy-300x140.png)](https://www.paypal.com/paypalme/paliverse)
 
-<a href='https://ko-fi.com/supportkofi' target='_blank'><img height='100' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+<a href='https://ko-fi.com/supportkofi' target='_blank'><img height='50' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
