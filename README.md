@@ -149,3 +149,4 @@ I thank all of you!
 # **Support Me**
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L14MUFI)
 
+[![Paypal.me](https://how2db.com/wp-content/uploads/2017/04/PayPal-ME-300x300.jpg.png)](https://www.paypal.com/paypalme/paliverse)
