@@ -1,4 +1,7 @@
  [![Github All Releases](https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg)]()
+ 
+ [![Paliverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paliverse)](https://github.com/Paliverse/github-readme-stats)
+
  # **DualSenseX**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L14MUFI)
