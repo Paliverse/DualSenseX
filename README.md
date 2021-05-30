@@ -1,6 +1,8 @@
  [![**Github All Releases**](https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg)](https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg)
  
  # **DualSenseX**
+ 
+ <iframe src="https://discord.com/widget?id=836790685784211486&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 Bring your DualSense Controller to life on PC!
 
