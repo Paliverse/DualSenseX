@@ -2,9 +2,6 @@
  
  # **DualSenseX**
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L14MUFI)
-
-
 Bring your DualSense Controller to life on PC!
 
 This app will emulate an Xbox360 Controller, while also getting the functionality of a DualSense Controller.
@@ -148,3 +145,7 @@ This App would not be possible without:
 * [DualSenseSupport](https://github.com/Mxater/DualSenseSupport)
 
 I thank all of you!
+
+# **Support Me**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L14MUFI)
+
