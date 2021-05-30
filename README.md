@@ -52,7 +52,7 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - [ ] Support for multiple Controllers
 - [ ] Support for more languages
 
-## Join [**Discord**](https://discord.gg/HknYZ5qr7R) Community!
+## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
 
 # **For Game Devs**
 
