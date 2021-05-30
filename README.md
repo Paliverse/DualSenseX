@@ -1,4 +1,4 @@
- [![Github All Releases](https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg)](https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg)
+ [![**Github All Releases**](https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg)](https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg)
  
  # **DualSenseX**
 
