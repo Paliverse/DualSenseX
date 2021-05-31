@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">DualSenseX</h1>
-<font size="7">
+<font size="36">
 text</font>
 </p>
 </p>
