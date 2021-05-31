@@ -99,25 +99,19 @@ ____
 **Apply Normal State:**
 
 LeftTrigger=Normal
-
 RightTrigger=Normal
-
 VibrateTriggerIntensity=0
 ___________________
 **Apply Rigid State:**
 
 LeftTrigger=Rigid
-
 RightTrigger=Rigid
-
 VibrateTriggerIntensity=0
 ___________________
 **Apply VibrateTrigger State for right Trigger:**
 
 LeftTrigger=Normal
-
 RightTrigger=VibrateTrigger
-
 VibrateTriggerIntensity=40
 ___________________
 You can mix and match between states to get the desired effect for your game.
