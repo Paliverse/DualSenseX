@@ -1,5 +1,7 @@
 </p>
 <h1 align="center">DualSenseX</h1>
+<font size="7">
+text</font>
 </p>
 </p>
   <p align="center">
