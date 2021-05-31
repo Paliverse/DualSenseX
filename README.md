@@ -1,10 +1,10 @@
 </p>
-<p align="center">
-  <a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
-        <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg" /></a>
+  <p align="center">
+    <a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
+          <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg" /></a>
     <a href="https://discord.gg/PUThpCFByn">
-        <img src="https://img.shields.io/discord/836790685784211486?logo=discord"
-            alt="chat on Discord"></a>
+          <img src="https://img.shields.io/discord/836790685784211486?logo=discord"
+           alt="chat on Discord"></a>
 </p>
  
  # **DualSenseX**
