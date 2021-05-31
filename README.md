@@ -1,5 +1,5 @@
 </p>
- # **DualSenseX**
+<h1 align="center">DualSenseX</h1>
 </p>
 </p>
   <p align="center">
