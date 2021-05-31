@@ -10,7 +10,7 @@
            alt="chat on Discord"></a>
 </p>
 
-Bring your DualSense Controller to life on PC!
+Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
 This app will emulate an Xbox360 Controller, while also getting the functionality of a DualSense Controller.
 
@@ -37,7 +37,7 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - Test out the controller to make sure all the buttons and joysticks function as inteded
 - Get Battery life status of controller (Connecting throught USB cable will show 100% needs to be tweaked)
 - Configure Controller LED to your liking
-- Test out different Trigger Modes and controller vibration
+- Test out different Adaptive Trigger Modes and controller vibration
 - See a list of supported games in the "Games" Tab (Work in progress)
 - Game doesnt support controller? Map keyboard button clicks to controller buttons to simulate key pressess.
 - Auto connect controller when app launches, with ability to also kill steam if it's running.
@@ -64,7 +64,7 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 
 # **For Game Devs**
 
-Support your game with DualSense Trigger Capabilities With DualSenseX App, find out below how to get it setup, and get your game added within the App for all to see and play!
+Support your game with DualSense Adaptive Trigger Capabilities With DualSenseX App, find out below how to get it setup, and get your game added within the App for all to see and play!
 
 ### **Trigger State**
 To get this working with your game, you just have to write to a text file.
