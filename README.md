@@ -1,6 +1,8 @@
 </p>
+ # **DualSenseX**
+</p>
+</p>
   <p align="center">
-  DualSenseX
     <a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
           <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg" /></a>
     <a href="https://discord.gg/PUThpCFByn">
