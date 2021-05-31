@@ -1,7 +1,7 @@
- [![**Github All Releases**](https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg)](https://github.com/Paliverse/DualSenseX)
- 
- </p>
+</p>
 <p align="center">
+  <a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
+        <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg" /></a>
     <a href="https://discord.gg/HjJCwm5">
         <img src="https://img.shields.io/discord/836790685784211486?logo=discord"
             alt="chat on Discord"></a>
