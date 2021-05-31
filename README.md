@@ -1,6 +1,5 @@
 </p align="center">
-<font size="36">
-DualSenseX</font>
+<h1 align="center"></h1>
 </p>
 </p>
   <p align="center">
@@ -10,7 +9,13 @@ DualSenseX</font>
           <img src="https://img.shields.io/discord/836790685784211486?logo=discord"
            alt="chat on Discord"></a>
 </p>
- <h1 align="center"></h1>
+
+</p align="center">
+<font size="7">hello</font>
+</p>
+
+
+ 
  # **DualSenseX**
 
 Bring your DualSense Controller to life on PC!
