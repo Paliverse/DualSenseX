@@ -97,10 +97,12 @@ When Choosing VibrateTrigger state, you need to set a value for VibrateTriggerIn
 ### **Examples of Trigger States:**
 ____
 **Apply Normal State:**
+</p>
+<h3>LeftTrigger=Normal</h3>
+<h3>RightTrigger=Normal</h3>
+<h3>VibrateTriggerIntensity=0</h3>
+</p>
 
-LeftTrigger=Normal
-RightTrigger=Normal
-VibrateTriggerIntensity=0
 ___________________
 **Apply Rigid State:**
 
