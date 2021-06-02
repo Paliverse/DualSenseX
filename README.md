@@ -98,23 +98,21 @@ When Choosing VibrateTrigger state, you need to set a value for VibrateTriggerIn
 ____
 **Apply Normal State:**
 </p>
-<h4>LeftTrigger=Normal<br>RightTrigger=Normal</h4>
-<h3></h3>
-<h3>VibrateTriggerIntensity=0</h3>
+<h4>LeftTrigger=Normal<br>RightTrigger=Normal<br>VibrateTriggerIntensity</h4>
 </p>
 
 ___________________
 **Apply Rigid State:**
+</p>
+<h4>LeftTrigger=Rigid<br>RightTrigger=Rigid<br>VibrateTriggerIntensity=0</h4>
+</p>
 
-LeftTrigger=Rigid
-RightTrigger=Rigid
-VibrateTriggerIntensity=0
 ___________________
 **Apply VibrateTrigger State for right Trigger:**
+</p>
+<h4>LeftTrigger=Normal<br>RightTrigger=VibrateTrigger<br>VibrateTriggerIntensity=40</h4>
+</p>
 
-LeftTrigger=Normal
-RightTrigger=VibrateTrigger
-VibrateTriggerIntensity=40
 ___________________
 You can mix and match between states to get the desired effect for your game.
 
