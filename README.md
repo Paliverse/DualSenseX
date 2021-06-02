@@ -98,17 +98,17 @@ When Choosing VibrateTrigger state, you need to set a value for VibrateTriggerIn
 ____
 ### **Apply Normal State:**
 </p>
-<h4>LeftTrigger=Normal<br>RightTrigger=Normal<br>VibrateTriggerIntensity</h4>
+<h4>LeftTrigger=Normal<br>RightTrigger=Normal<br>VibrateTriggerIntensity=0</h4>
 </p>
 
 ___________________
-**Apply Rigid State:**
+## **Apply Rigid State:**
 </p>
 <h4>LeftTrigger=Rigid<br>RightTrigger=Rigid<br>VibrateTriggerIntensity=0</h4>
 </p>
 
 ___________________
-**Apply VibrateTrigger State for right Trigger:**
+## **Apply VibrateTrigger State for right Trigger:**
 </p>
 <h4>LeftTrigger=Normal<br>RightTrigger=VibrateTrigger<br>VibrateTriggerIntensity=40</h4>
 </p>
