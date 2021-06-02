@@ -114,6 +114,9 @@ ___________________
 </p>
 
 ___________________
+
+Best is to not leave spaces or extra unnecessary lines except for these 3 lines to reduce the delay in reading the text file.
+
 You can mix and match between states to get the desired effect for your game.
 
 From previous testing, i believe you can write to text file every frame as the App will only read from that file.
