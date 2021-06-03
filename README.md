@@ -152,6 +152,7 @@ This App would not be possible without:
 I thank all of you!
 
 # **Support Me**
+To help support the project and devleopment of DualSenseX
 [![Paypal.me](https://3.bp.blogspot.com/-8ebAKPD8I84/XKGZxo1IG3I/AAAAAAAAQ1M/cWq0ecuHUy0p4z6A56x32Hz2EycZR5mfwCLcBGAs/s1600/paypal_me-copy-300x140.png)](https://www.paypal.com/paypalme/paliverse)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L14MUFI)
