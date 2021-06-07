@@ -10,6 +10,11 @@
            alt="chat on Discord"></a>
 </p>
 
+<div align="center">
+          <img src="imgs/dualsensex.png"
+           alt="dualsensex image">
+</div>
+           
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
 This app will emulate an Xbox360 Controller, while also getting the functionality of a DualSense Controller.
