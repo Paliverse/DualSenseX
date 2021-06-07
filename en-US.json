@@ -1,0 +1,218 @@
+{
+  "MenuGames_Label": {
+    "Value": "Games"
+  },
+  "MenuHome_Label": {
+    "Value": "Home"
+  },
+  "MenuInput_Label": {
+    "Value": "Controller"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_Label": {
+    "Value": "Settings"
+  },
+  "MenuInfo_Label": {
+    "Value": "Info"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Searching for Controller..."
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Connected to Controller!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Auto Connecting to Controller"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Failed to auto connect, please check the connection!"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Auto Connected to Controller!"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Connection lost, Searching for Controller..."
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Reconnected to Controller!"
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "Connection lost, attempting to reconnect"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Failed to reconnect, please check the connection!"
+  },
+  "AppNotificationLabel_Empty": {
+    "Value": ""
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "Controller LED"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Text File"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "Connection Status"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Game"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Controller Mode"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Apply Mode"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "Touchpad LED"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Brightness"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Rainbow Speed"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "Mic LED"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "Player LED"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Color Mode"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Static Color"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Rainbow"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "ON"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "PULSE"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "OFF"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "One"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "Two"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Three"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Four"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Five"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "All ON"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "All OFF"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Low"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "Medium"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "High"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Select Text File Location"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Stop Reading Text File"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Status:"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Active"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Not Active"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Active - No matching Trigger values found in text file!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Not Active - This is not a text file, please try again!"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Not Active - The selected file does not exist!"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Not Active - No file Selected!"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "File Location:"
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Shutting Down Application..."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Controller Connected"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Searching for Controller..."
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Auto Connecting to Controller..."
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Connection lost, attempting to reconnect..."
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Failed to connect, please check the connection!"
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Connecting..."
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Emulating Xbox 360"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating_Empty": {
+    "Value": ""
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Connect Controller"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Intensity"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Vibration Duration (Sec)"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Left Trigger/Motor"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Right Trigger/Motor"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Both Trigger/Motor"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Apply"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "GAMES"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Search Games by Name or Tag"
+  },
+  "MenuSettings_Label": {
+    "Value": "Settings"
+  }
+}
