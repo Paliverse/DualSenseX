@@ -10,6 +10,11 @@
            alt="chat on Discord"></a>
 </p>
 
+<div align="center">
+          <img src="imgs/dualsensex.png"
+           alt="dualsensex image">
+</div>
+           
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
 This app will emulate an Xbox360 Controller, while also getting the functionality of a DualSense Controller.
@@ -71,51 +76,61 @@ To get this working with your game, you just have to write to a text file.
 
 There are 3 things this App will look for when reading this text file to apply the triggers:
 
-- LeftTrigger=
+- `LeftTrigger=`
 
-- RightTrigger=
+- `RightTrigger=`
 
-- VibrateTriggerIntensity= a value between 0-255
+- `VibrateTriggerIntensity=` a value between 0-255
 
 For the LeftTrigger and RightTrigger, there are 12 different state possibilites that you can set which are **CASE SENSITIVE**:
 
-- Normal
-- GameCube
-- Choppy
-- VerySoft
-- Soft
-- Medium
-- Hard
-- VeryHard
-- Hardest
-- Rigid
-- VibrateTriggerPulse
-- VibrateTrigger
+- `Normal`
+- `GameCube`
+- `Choppy`
+- `VerySoft`
+- `Soft`
+- `Medium`
+- `Hard`
+- `VeryHard`
+- `Hardest`
+- `Rigid`
+- `VibrateTriggerPulse`
+- `VibrateTrigger`
 
 When Choosing VibrateTrigger state, you need to set a value for VibrateTriggerIntensity 0-255 for it to work. Recommened 0-40 for guns in a game.
 
 ## **Examples of Trigger States:**
 ____
 ### **Apply Normal State:**
-</p>
-<h4>LeftTrigger=Normal<br>RightTrigger=Normal<br>VibrateTriggerIntensity=0</h4>
-</p>
+```
+LeftTrigger=Normal
+RightTrigger=Normal
+VibrateTriggerIntensity=0
+```
 
 ___________________
 ### **Apply Rigid State:**
-</p>
-<h4>LeftTrigger=Rigid<br>RightTrigger=Rigid<br>VibrateTriggerIntensity=0</h4>
-</p>
+```
+LeftTrigger=Rigid
+RightTrigger=Rigid
+VibrateTriggerIntensity=0
+```
+
+
 
 ___________________
 ### **Apply VibrateTrigger State for right Trigger:**
-</p>
-<h4>LeftTrigger=Normal<br>RightTrigger=VibrateTrigger<br>VibrateTriggerIntensity=40</h4>
-</p>
+```
+LeftTrigger=Normal
+RightTrigger=VibrateTrigger
+VibrateTriggerIntensity=40
+```
+
+
 
 ___________________
 
-Best is to not leave spaces or extra unnecessary lines except for these 3 lines to reduce the delay in reading the text file.
+`Note` : Best is to not leave spaces or extra unnecessary lines except for these 3 lines to reduce the delay in reading the text file.
 
 You can mix and match between states to get the desired effect for your game.
 
@@ -135,8 +150,8 @@ of DualSenseX that takes in 2 paramaters from the batch file explained below and
 Both the batch file and the text file must be in the same directory with your game, the batch file gets the location of the 
 textfile depending on where the batch file is located.
 
-- Replace GAMENAME with your Game Title.
-- Replace TEXTFILENAME.txt with your text file name, while also including the .txt extension at the end
+- Replace `GAMENAME` with your Game Title.
+- Replace `TEXTFILENAME.txt` with your text file name, while also including the .txt extension at the end
 
 # Acknowledgement and Reference
 This App would not be possible without:
