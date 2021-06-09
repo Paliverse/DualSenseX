@@ -23,6 +23,8 @@ Wheather you're using steam or a different platform, you will be able to use Dua
 
 Connection type supports both USB and Bluetooth with full functionaliy!
 
+Want to contribute in trasnlating the app? visit [here](https://localazy.com/p/dualsensex). 
+
 ## Download and Install
 
 To use DualSenseX,
