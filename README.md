@@ -1,23 +1,24 @@
 </p align="center">
 
 <h1 align="center">DualSenseX</h1>
+<h3 align="center"></h3>
 </p>
 </p>
   <p align="center">
-    <a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
-          <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg?style=for-the-badge" /></a>
 <a href="https://localazy.com/p/dualsensex" alt="langs">
-          <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&content=langs&logo=true" /></a>
+          <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&content=langs&logo=true" /></a>⠀
+<a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
+          <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg?style=for-the-badge&color=ffffff" /></a>⠀
 <a href="https://discord.gg/PUThpCFByn">
-          <img src="https://img.shields.io/discord/836790685784211486?logo=discord&style=for-the-badge"
+          <img src="https://img.shields.io/discord/836790685784211486?logo=discord&label=Discord&style=for-the-badge&color=228B22"
            alt="chat on Discord"></a>
-</p>
-
-
-<div align="center">
+  
+  <div align="center">
           <img src="imgs/dualsensex.png"
            alt="dualsensex image">
 </div>
+<h1 align="center"></h1>
+</p>
 
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
@@ -175,7 +176,9 @@ I thank all of you!
 
 # **For Translators**
 
-Want to contribute in trasnlating the app? Visit   <a href="https://localazy.com/p/dualsensex" alt="langs">
+Want to contribute in trasnlating the app? Visit:
+
+<a href="https://localazy.com/p/dualsensex" alt="langs">
     <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=true" /></a>
 
 # **Support Me**
