@@ -9,7 +9,7 @@
 <a href="https://localazy.com/p/dualsensex" alt="langs">
           <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&content=langs&logo=true" /></a>
 <a href="https://discord.gg/PUThpCFByn">
-          <img src="https://img.shields.io/discord/836790685784211486?logo=discorde&style=for-the-badge&logo=discord"
+          <img src="https://img.shields.io/discord/836790685784211486?logo=discord&style=for-the-badge"
            alt="chat on Discord"></a>
 </p>
 
