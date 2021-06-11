@@ -1,20 +1,24 @@
 </p align="center">
+
 <h1 align="center">DualSenseX</h1>
 </p>
 </p>
   <p align="center">
     <a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
-          <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg" /></a>
-    <a href="https://discord.gg/PUThpCFByn">
-          <img src="https://img.shields.io/discord/836790685784211486?logo=discord"
+          <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg?style=for-the-badge" /></a>
+<a href="https://localazy.com/p/dualsensex" alt="langs">
+          <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&content=langs&logo=true" /></a>
+<a href="https://discord.gg/PUThpCFByn">
+          <img src="https://img.shields.io/discord/836790685784211486?logo=discorde&style=for-the-badge&logo=discord"
            alt="chat on Discord"></a>
 </p>
+
 
 <div align="center">
           <img src="imgs/dualsensex.png"
            alt="dualsensex image">
 </div>
-           
+
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
 This app will emulate an Xbox360 Controller, while also getting the functionality of a DualSense Controller.
@@ -23,7 +27,6 @@ Wheather you're using steam or a different platform, you will be able to use Dua
 
 Connection type supports both USB and Bluetooth with full functionaliy!
 
-Want to contribute in trasnlating the app? visit [here](https://localazy.com/p/dualsensex). 
 
 ## Download and Install
 
@@ -167,6 +170,13 @@ This App would not be possible without:
 * [DualSenseSupport](https://github.com/Mxater/DualSenseSupport)
 
 I thank all of you!
+
+
+
+## Translations
+
+Want to contribute in trasnlating the app? Visit   <a href="https://localazy.com/p/dualsensex" alt="langs">
+    <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=true" /></a>
 
 # **Support Me**
 To help support the project and devleopment of DualSenseX
