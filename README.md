@@ -10,7 +10,7 @@
 <a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
           <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg?style=for-the-badge&color=ffffff&logo=windows" /></a>⠀
 <a href="https://discord.gg/PUThpCFByn">
-          <img src="https://img.shields.io/discord/836790685784211486?logo=discord&label=Discord&style=for-the-badge&color=228B22"
+          <img src="https://img.shields.io/discord/836790685784211486?logo=discord&label=Discord&style=for-the-badge&color=5865f2"
            alt="chat on Discord"></a>
   
   <div align="center">
