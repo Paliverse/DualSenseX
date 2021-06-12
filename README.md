@@ -6,7 +6,7 @@
 </p>
   <p align="center">
 <a href="https://localazy.com/p/dualsensex" alt="langs">
-          <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&content=langs&logo=true" /></a>⠀
+          <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&content=langs&logo=ffffff" /></a>⠀
 <a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
           <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg?style=for-the-badge&color=ffffff" /></a>⠀
 <a href="https://discord.gg/PUThpCFByn">
@@ -180,7 +180,7 @@ I thank all of you!
 Want to contribute in trasnlating the app? Visit:
 
 <a href="https://localazy.com/p/dualsensex" alt="langs">
-    <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=true" /></a>
+    <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=ffffff" /></a>
 
 # **Support Me**
 To help support the project and devleopment of DualSenseX
