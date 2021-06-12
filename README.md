@@ -8,7 +8,7 @@
 <a href="https://localazy.com/p/dualsensex" alt="langs">
           <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&content=langs&logo=ffffff" /></a>⠀
 <a href="https://github.com/Paliverse/DualSenseX" alt="Contributors">
-          <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg?style=for-the-badge&color=ffffff" /></a>⠀
+          <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg?style=for-the-badge&color=ffffff&logo=windows" /></a>⠀
 <a href="https://discord.gg/PUThpCFByn">
           <img src="https://img.shields.io/discord/836790685784211486?logo=discord&label=Discord&style=for-the-badge&color=228B22"
            alt="chat on Discord"></a>
