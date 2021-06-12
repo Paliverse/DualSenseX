@@ -67,10 +67,10 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 ## **TO-DO:**
 - [X] Finish Sense2Key Tab 
 - [X] Finish Games Tab 
+- [X] Support for more languages
 - [ ] Add support for DualShock 4 Controller
 - [ ] Add support for Xbox Controllers
 - [ ] Support for multiple Controllers
-- [ ] Support for more languages
 
 ## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
 
