@@ -177,7 +177,7 @@ I thank all of you!
 
 # **For Translators**
 
-Want to contribute in trasnlating the app? Visit:
+Want to contribute in trasnlating the app? Click below:
 
 <a href="https://localazy.com/p/dualsensex" alt="langs">
     <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=ffffff" /></a>
