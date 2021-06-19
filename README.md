@@ -55,6 +55,13 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - Auto connect controller when app launches, with ability to also kill steam if it's running.
 - Change between different hand selected backgrounds for the App
 
+## **For Translators**
+
+Want to contribute in trasnlating the app? Click below:
+
+<a href="https://localazy.com/p/dualsensex" alt="langs">
+    <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=ffffff" /></a>
+
 ## **Screenshot:**
 ![Screenshot 2021-05-12 205945](https://user-images.githubusercontent.com/4289084/118066856-11678d80-b365-11eb-9739-e12dcfbac3c0.png)
 
@@ -173,14 +180,6 @@ This App would not be possible without:
 
 I thank all of you!
 
-
-
-# **For Translators**
-
-Want to contribute in trasnlating the app? Click below:
-
-<a href="https://localazy.com/p/dualsensex" alt="langs">
-    <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=ffffff" /></a>
 
 # **Support Me**
 To help support the project and devleopment of DualSenseX
