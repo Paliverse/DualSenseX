@@ -23,9 +23,16 @@
 
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
-This app will emulate an Xbox360 Controller, while also getting the functionality of a DualSense Controller.
+Emulate with the following while also getting the functionality of a DualSense Controller:
 
-Wheather you're using steam or a different platform, you will be able to use DualSenseX with all Games!
+`Xbox360`
+
+`DualShock 4`
+
+`OFF (for no Emulation, reading only inside app)`
+
+
+Wheather you're using Steam or a different platform, you will be able to use DualSenseX with all Games!
 
 Connection type supports both USB and Bluetooth with full functionaliy!
 
@@ -54,6 +61,8 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - Game doesnt support controller? Map keyboard button clicks to controller buttons to simulate key pressess.
 - Auto connect controller when app launches, with ability to also kill steam if it's running.
 - Change between different hand selected backgrounds for the App
+- Dark and Light Mode
+- Custom Border RGB Color with Transparency options
 
 ## **For Translators**
 
