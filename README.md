@@ -84,7 +84,7 @@ Want to contribute in trasnlating the app? Click below:
 - [X] Finish Sense2Key Tab 
 - [X] Finish Games Tab 
 - [X] Support for more languages
-- [ ] Add support for DualShock 4 Controller
+- [X] Add support for DualShock 4 Controller
 - [ ] Add support for Xbox Controllers
 - [ ] Support for multiple Controllers
 
