@@ -89,7 +89,7 @@ Want to contribute in trasnlating the app? Click below:
 - [ ] Support for multiple Controllers
 
 ## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
-
+[![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner2)](https://discord.gg/PUThpCFByn)
 # **For Game Devs**
 
 Support your game with DualSense Adaptive Trigger Capabilities With DualSenseX App, find out below how to get it setup, and get your game added within the App for all to see and play!
