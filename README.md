@@ -115,7 +115,6 @@ There are a few things this App will look for when reading this text file to app
 - `ForceRightTrigger=(0)(0)(0)(0)(0)(0)(0)` 
   * 7 different values that goes into each parentheses 0-255  | CustomTriggerValue Required to use this
 
-
 For the LeftTrigger= and RightTrigger=, there are 13 different state possibilites that you can set which are **CASE SENSITIVE**:
 
 - `Normal`
@@ -131,6 +130,30 @@ For the LeftTrigger= and RightTrigger=, there are 13 different state possibilite
 - `Rigid`
 - `VibrateTriggerPulse`
 - `VibrateTrigger`
+
+When using CustomTriggerValue, there are 17 different state possibilites that are **CASE SENSITIVE** you can apply for:
+
+CustomTriggerValueLeftMode= 
+
+CustomTriggerValueRightMode= 
+
+- `OFF`
+- `Rigid`
+- `Rigid A`
+- `Rigid B`
+- `Rigid AB`
+- `Pulse`
+- `Pulse A`
+- `Pulse B`
+- `Pulse AB`
+- `VibrateResistance`
+- `VibrateResistance A`
+- `VibrateResistance B`
+- `VibrateResistance AB`
+- `Vibrate Pulse`
+- `Vibrate Pulse A`
+- `Vibrate Pulse B`
+- `Vibrate Pulse AB`
 
 ## **Examples of Trigger States in Textfile:**
 ____
