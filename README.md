@@ -97,13 +97,22 @@ Support your game with DualSense Adaptive Trigger Capabilities With DualSenseX A
 ### **Trigger State**
 To get this working with your game, you just have to write to a text file.
 
-There are 3 things this App will look for when reading this text file to apply the triggers:
+There are a few things this App will look for when reading this text file to apply the triggers:
 
 - `LeftTrigger=`
 
 - `RightTrigger=`
 
 - `VibrateTriggerIntensity=` a value between 0-255
+
+- `CustomTriggerValueLeftMode=`
+
+- `CustomTriggerValueRightMode=`
+
+- `ForceLeftTrigger=(0)(0)(0)(0)(0)(0)(0)` 7 different values that goes into each parentheses 0-255
+
+- `ForceRightTrigger=(0)(0)(0)(0)(0)(0)(0)` 7 different values that goes into each parentheses 0-255
+
 
 For the LeftTrigger and RightTrigger, there are 12 different state possibilites that you can set which are **CASE SENSITIVE**:
 
@@ -138,9 +147,6 @@ LeftTrigger=Rigid
 RightTrigger=Rigid
 VibrateTriggerIntensity=0
 ```
-
-
-
 ___________________
 ### **Apply VibrateTrigger State for right Trigger:**
 ```
@@ -148,9 +154,24 @@ LeftTrigger=Normal
 RightTrigger=VibrateTrigger
 VibrateTriggerIntensity=40
 ```
-
-
-
+___________________
+### **CustomTriggerValue State for right Trigger and GameCube for left Trigger:**
+```
+LeftTrigger=GameCube
+RightTrigger=CustomTriggerValue
+CustomTriggerValueRightMode=VibrateResistance B
+ForceRightTrigger=(10)(255)(0)(0)(0)(0)(0)
+```
+___________________
+### **CustomTriggerValue State for both Triggers:**
+```
+LeftTrigger=CustomTriggerValue
+RightTrigger=CustomTriggerValue
+CustomTriggerValueLeftMode=Rigid A
+CustomTriggerValueRightMode=VibrateResistance B
+ForceLeftTrigger=(10)(255)(0)(0)(0)(0)(0)
+ForceRightTrigger=(10)(255)(0)(0)(0)(0)(0)
+```
 ___________________
 
 `Note` : Best is to not leave spaces or extra unnecessary lines except for these 3 lines to reduce the delay in reading the text file.
