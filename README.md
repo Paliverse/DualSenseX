@@ -103,18 +103,20 @@ There are a few things this App will look for when reading this text file to app
 
 - `RightTrigger=`
 
-- `VibrateTriggerIntensity=` a value between 0-255
+- `VibrateTriggerIntensity=` ⠀⠀⠀⠀⠀⠀⠀* A value between 0-255  | VibrateTrigger Required to use this *
 
-- `CustomTriggerValueLeftMode=`
+- `CustomTriggerValueLeftMode=`⠀⠀⠀⠀⠀* CustomTriggerValue Required to use this *
 
-- `CustomTriggerValueRightMode=`
+- `CustomTriggerValueRightMode=`⠀⠀⠀⠀* CustomTriggerValue Required to use this *
 
-- `ForceLeftTrigger=(0)(0)(0)(0)(0)(0)(0)` 7 different values that goes into each parentheses 0-255
+- `ForceLeftTrigger=(0)(0)(0)(0)(0)(0)(0)` 
+  * 7 different values that goes into each parentheses 0-255  | CustomTriggerValue Required to use this
 
-- `ForceRightTrigger=(0)(0)(0)(0)(0)(0)(0)` 7 different values that goes into each parentheses 0-255
+- `ForceRightTrigger=(0)(0)(0)(0)(0)(0)(0)` 
+  * 7 different values that goes into each parentheses 0-255  | CustomTriggerValue Required to use this
 
 
-For the LeftTrigger and RightTrigger, there are 13 different state possibilites that you can set which are **CASE SENSITIVE**:
+For the LeftTrigger= and RightTrigger=, there are 13 different state possibilites that you can set which are **CASE SENSITIVE**:
 
 - `Normal`
 - `CustomTriggerValue`
@@ -130,15 +132,12 @@ For the LeftTrigger and RightTrigger, there are 13 different state possibilites 
 - `VibrateTriggerPulse`
 - `VibrateTrigger`
 
-When Choosing VibrateTrigger state, you need to set a value for VibrateTriggerIntensity 0-255 for it to work. Recommened 0-40 for guns in a game.
-
-## **Examples of Trigger States:**
+## **Examples of Trigger States in Textfile:**
 ____
 ### **Apply Normal State:**
 ```
 LeftTrigger=Normal
 RightTrigger=Normal
-VibrateTriggerIntensity=0
 ```
 
 ___________________
@@ -146,7 +145,6 @@ ___________________
 ```
 LeftTrigger=Rigid
 RightTrigger=Rigid
-VibrateTriggerIntensity=0
 ```
 ___________________
 ### **Apply VibrateTrigger State for right Trigger:**
@@ -172,6 +170,15 @@ CustomTriggerValueLeftMode=Rigid A
 CustomTriggerValueRightMode=VibrateResistance B
 ForceLeftTrigger=(10)(255)(0)(0)(0)(0)(0)
 ForceRightTrigger=(10)(255)(0)(0)(0)(0)(0)
+```
+___________________
+### **VibrateTrigger State for Right Trigger and CustomTriggerValue for the left :**
+```
+LeftTrigger=CustomTriggerValue
+RightTrigger=VibrateTrigger
+VibrateTriggerIntensity= 10
+CustomTriggerValueLeftMode=Rigid A
+ForceLeftTrigger=(10)(255)(0)(0)(0)(0)(0)
 ```
 ___________________
 
