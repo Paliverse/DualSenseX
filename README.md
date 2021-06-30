@@ -114,9 +114,10 @@ There are a few things this App will look for when reading this text file to app
 - `ForceRightTrigger=(0)(0)(0)(0)(0)(0)(0)` 7 different values that goes into each parentheses 0-255
 
 
-For the LeftTrigger and RightTrigger, there are 12 different state possibilites that you can set which are **CASE SENSITIVE**:
+For the LeftTrigger and RightTrigger, there are 13 different state possibilites that you can set which are **CASE SENSITIVE**:
 
 - `Normal`
+- `CustomTriggerValue`
 - `GameCube`
 - `Choppy`
 - `VerySoft`
