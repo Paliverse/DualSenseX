@@ -85,7 +85,6 @@ Want to contribute in trasnlating the app? Click below:
 - [X] Finish Games Tab 
 - [X] Support for more languages
 - [X] Add support for DualShock 4 Controller
-- [ ] Add support for Xbox Controllers
 - [ ] Support for multiple Controllers
 
 ## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
