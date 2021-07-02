@@ -64,6 +64,13 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - Dark and Light Mode
 - Custom Border RGB Color with Transparency options
 
+## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
+[![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner2)](https://discord.gg/PUThpCFByn)
+- Report Issues
+- Report Bugs
+- Get support
+- Ask questions regarding the App and more!
+
 ## **For Translators**
 
 Want to contribute in trasnlating the app? Click below:
@@ -87,8 +94,6 @@ Want to contribute in trasnlating the app? Click below:
 - [X] Add support for DualShock 4 Controller
 - [ ] Support for multiple Controllers
 
-## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
-[![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner2)](https://discord.gg/PUThpCFByn)
 # **For Game Devs**
 
 Support your game with DualSense Adaptive Trigger Capabilities With DualSenseX App, find out below how to get it setup, and get your game added within the App for all to see and play!
