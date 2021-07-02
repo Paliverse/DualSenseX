@@ -130,7 +130,7 @@ For the LeftTrigger= and RightTrigger=, there are 13 different state possibilite
 - `VibrateTriggerPulse`
 - `VibrateTrigger`
 
-When using CustomTriggerValue, there are 17 different state possibilites that are **CASE SENSITIVE** you can apply for:
+When using CustomTriggerValue, there are 17 different mode possibilites that are **CASE SENSITIVE** you can apply for:
 
 CustomTriggerValueLeftMode= 
 
