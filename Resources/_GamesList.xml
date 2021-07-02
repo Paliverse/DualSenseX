@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGamePageGamesList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GamePageGamesList>
+    <GamesPage_Tags>
+      <string>FPS</string>
+    </GamesPage_Tags>
+    <GameName>DualSenseX Game Demo</GameName>
+    <GameImageUrl>https://img.itch.zone/aW1nLzYwMTU0NzcucG5n/original/KQkDLv.png</GameImageUrl>
+    <GameGetLink>https://paliverse.itch.io/dualsensex-game-demo</GameGetLink>
+  </GamePageGamesList>
+</ArrayOfGamePageGamesList>
