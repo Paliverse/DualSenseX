@@ -82,8 +82,9 @@ Want to contribute in trasnlating the app? Click below:
 ![Screenshot 2021-05-12 205945](https://user-images.githubusercontent.com/4289084/118066856-11678d80-b365-11eb-9739-e12dcfbac3c0.png)
 
 ## **Reviews:**
-[![Alt text](https://img.youtube.com/vi/qQVvUA7NJz4/0.jpg)](https://www.youtube.com/watch?v=qQVvUA7NJz4)
+[**AJ Bants YouTube Channel**](https://www.youtube.com/channel/UCTofyjsFVYEXwcNvzwiTWyw)
 
+[![Alt text](https://img.youtube.com/vi/qQVvUA7NJz4/0.jpg)](https://www.youtube.com/watch?v=qQVvUA7NJz4)
 
 # **Game Demo**
 ### [**View on Itch.io**](https://paliverse.itch.io/dualsensex-game-demo)
