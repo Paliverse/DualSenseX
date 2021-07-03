@@ -1,6 +1,4 @@
-(1.2.7)
-● Removed inital loading window that caused some issues
-● Added a new option to completely disable Controller Vibration 
-⠀⠀in Settings, tested with VoiceMeeter for haptic feedback
-● Added a new option to Change Motor Strength in Settings 
-● Fixed issue in settings where Border Color options were cut off
+(1.2.8)
+● Added new option to set a Custom Background with options
+● Internal changes that improves Updating, loading Languages, etc..
+● Fixed a bug that was crashing when importing profiles
