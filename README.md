@@ -98,7 +98,6 @@ Want to contribute in trasnlating the app? Click below:
 - [ ] Support for multiple Controllers
 
 # **For Game Devs**
-<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 
 Support your game with DualSense Adaptive Trigger Capabilities With DualSenseX App, find out below how to get it setup, and get your game added within the App for all to see and play!
 
@@ -235,6 +234,9 @@ textfile depending on where the batch file is located.
 
 - Replace `GAMENAME` with your Game Title.
 - Replace `TEXTFILENAME.txt` with your text file name, while also including the .txt extension at the end
+
+# **License**
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 
 # Acknowledgement and Reference
 This App would not be possible without:
