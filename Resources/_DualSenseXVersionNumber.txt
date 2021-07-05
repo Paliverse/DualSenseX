@@ -1,4 +1,4 @@
-(1.2.8)
-● Added new option to set a Custom Background with options
-● Internal changes that improves Updating, loading Languages, etc..
-● Fixed a bug that was crashing when importing profiles
+(1.2.9)
+● Fixed Button being disabled when running demo game
+● Updated UI for custom background image in settings
+● Bug fixes that caused some crashes
