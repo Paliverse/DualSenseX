@@ -8,3 +8,5 @@
 (ar)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/ar.png)(https://delivery.localazy.com/_a8620261962335798391e7acbe6e/_e0/f34eaa2b1bb78b40944c8ab094515626cdcdff74/ar/file.json)
 (sv)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/sv.png)(https://delivery.localazy.com/_a8620261962335798391e7acbe6e/_e0/f34eaa2b1bb78b40944c8ab094515626cdcdff74/sv/file.json)
 (ru)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/ru.png)(https://delivery.localazy.com/_a8620261962335798391e7acbe6e/_e0/f34eaa2b1bb78b40944c8ab094515626cdcdff74/ru/file.json)
+
+///////(es)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/es.png)(https://delivery.localazy.com/_a8620261962335798391e7acbe6e/_e0/f34eaa2b1bb78b40944c8ab094515626cdcdff74/es/file.json)
