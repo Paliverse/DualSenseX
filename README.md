@@ -212,7 +212,7 @@ ForceLeftTrigger=(10)(255)(0)(0)(0)(0)(0)
 ```
 ___________________
 
-`Note` : Best is to not leave spaces or extra unnecessary lines except for these 3 lines to reduce the delay in reading the text file.
+`Note` : Best is to not leave spaces or extra unnecessary lines except for the lines you need to reduce the delay in reading the text file.
 
 You can mix and match between states to get the desired effect for your game.
 
