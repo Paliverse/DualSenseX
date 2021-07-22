@@ -1,3 +1,3 @@
-(1.3.0)
-● Bug fixes that caused some crashes
-● Other improvements
+(1.3.1)
+● Fixed a big issue with Sense2Key giving an Error
+● Other minor improvements
