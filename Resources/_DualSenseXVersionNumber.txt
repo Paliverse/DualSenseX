@@ -1,4 +1,4 @@
 (1.3.2)
 ● Added 2 Controller Colors to the Controller Tab
 ● Added option to sync button colors with Controller Color
-● Addeed option to skip setup and use English after 15 seconds
+● Added option to skip setup and use English after 15 seconds
