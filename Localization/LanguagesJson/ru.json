@@ -1,0 +1,548 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "Имя игры найдено, но местоположение файла не найдено"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "Имя игры не найдено, но местоположение файла известно"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "Параметры не найдены"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "Воспроизведение:"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Автоматическое подключение к контроллеру!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Автоматическое подключение к контроллеру\n"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Контроллер подключен! "
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Соединение потеряно, идет поиск контроллера..."
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "\nСоединение потеряно, попытка повторного подключения..."
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Не удалось автоматически подключиться, пожалуйста проверьте соединение!"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Не удалось переподключиться, проверьте соединение!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Подключитесь к контроллеру!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Идет поиск контроллера..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "Вы уверены, что хотите выйти?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "Отменить"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "Загрузка обновления…"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "Контроллер DualSense больше не будет читаться как контроллер Dualshock 4!"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "Контроллер DualSense больше не будет читаться как контроллер Xbox!"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "Выйти"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "Позже"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "Подключение к контроллеру"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "Загрузка и установка драйверов"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "Загрузка и установка драйвера..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "Пожалуйста, следуйте инструкциям ViGEmBus"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "После завершения установки драйвера, вы можете подключиться к геймпаду."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "Ой-ой!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "Похоже, у вас не установлены драйверы ViGEmBus"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "Доступно Обновление!"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "Вы хотите установить это?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "Текущая Версия:"
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "Загрузка обновления…"
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "Извлечение обновления..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "Получение Обновления..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "Установка обновления…"
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "Пожалуйста, перезапустите приложение для применения обновления"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "Перезагрузка"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "Обновление установлено. "
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "Версия Обновления:"
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "Да"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "Уровень заряда батареи:"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "Тип соединения:"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "Подключено"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "Нет подключения"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "Левый стик"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "Правый стик"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Использовать ярлыки Xbox"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "Загрузка изображения..."
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "Поиск списка игр..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "Нет Добавленных Игр"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "Пожалуйста, зайдите позже!"
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "Пожалуйста, подождите..."
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "ТЕГИ"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "Посмотреть игру"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "ИГРЫ"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Поиск игр по имени или метке"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Применить режим"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Применить"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Оба триггер/вибрация\n"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Левый триггер/вибрация"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Правый триггер/вибрация"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "Статус соединения"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Подключите контроллер"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "Эмуляция контроллера:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Эмулировать Xbox 360"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "Без эмуляции"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Автоматическое подключение к контроллеру..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Подключение…"
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Соединение потеряно, попытка повторного подключения..."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Контроллер подключен"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Не удалось подключиться, проверьте соединение!\n"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Поиск контроллера..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Выключение приложения..."
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "Световой индикатор контроллера"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Яркость"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Режим цвета"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Радуга"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Статический цвет"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "Световой индикатор микрофона"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "ВЫКЛЮЧЕНО"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "ВКЛЮЧЕНО"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "ПУЛЬСАЦИЯ"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "\nСветодиодный индикатор игрока"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "Все выключены"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "Все включены"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Пять"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Четыре"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "Высокая"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Низкая"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "Средняя"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "Один"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Три"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "Два"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Интенсивность радуги"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "Световой индикатор сенсорной панели"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Режим контроллера"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Интенсивность"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "Режим"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Случайный режим + значение"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Случайное значение"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Длительность вибрации (сек)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Игра"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Текстовый файл"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "Расположение файла:"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Выберите расположение текстового файла"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Активно"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Статус:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Активен - В текстовом файле не найдено совпадающих значений триггера!"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Не Активен - Выбранный файл не существует!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Не активно"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Не активен — файл не выбран!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Не активен - Это не текстовый файл, пожалуйста, повторите попытку!"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Прекратить Чтение Текстового Файла"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "Сбои или ошибки?"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "Присоединяйтесь к сообществу Discord"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "Более подробная информация на GitHub"
+  },
+  "MenuGames_Label": {
+    "Value": "Игры"
+  },
+  "MenuHome_Label": {
+    "Value": "Главная"
+  },
+  "MenuInfo_Label": {
+    "Value": "Информация"
+  },
+  "MenuInput_Label": {
+    "Value": "Контроллер"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "Присоединиться"
+  },
+  "MenuSettings_Label": {
+    "Value": "Настройки"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "Отправить вопрос"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "Посетить"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "Выберите из выпадающего списка или нажмите клавишу на клавиатуре"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "пока выбран раскрывающийся список"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "Сохранить конфигурацию"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "Создать профиль"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "Удалить"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "Начните с создания нового профиля"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "Отменить"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "Сохранить новый профиль"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "Профили не добавлены"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "Задержка не может быть отрицательной"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "Задержка не может быть пустой"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "Задержка обновлена"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "Профиль создан"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "Профиль уже существует"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "Имя профиля не может быть пустым"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "Имя профиля обновлено"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "ПРОФИЛИ"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "Ваш профиль отображается здесь"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "Задержка (миллисекунды)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "Сведения"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "Изменить конфигурацию"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "Введите имя профиля"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "Имя профиля"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "Статус: Профиль Активен"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "Статус: Профиль НЕ Активен"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "Начать"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "Остановить"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "Обновите задержку"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "Изменение имени"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "ПРИЛОЖЕНИЕ"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "Цвет границы"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "Альфа (прозрачность)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "Синий"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "Зеленый"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "Красный"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "Размытие"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Пользовательское фоновое изображение"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "Выберите изображение"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "Длина"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "Темная тема"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "Не закрывать приложение когда оно свернуто"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "Настройки приложения"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "Язык"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "Запускать в свернутом режиме"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "Запускать DualSensex при запуске Windows"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "Фон"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "Настройки фона"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "Выбрано"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "Контроллер"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "Автоматическое подключение при открытии DualSenseX"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Регулировка прочности вибромотора"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Отключить вибрацию контроллера"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Enable incoming Vibrations while disabled"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "Закрывать Steam при подключении"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "Настройки контроллера"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "Устроить шоу при подключении"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "Предварительный просмотр светового шоу"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "Поиск до подключения контроллера"
+  }
+}

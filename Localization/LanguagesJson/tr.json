@@ -1,0 +1,548 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "Oyun ismi bulundu ancak dosya konumu bulunamadı"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "Oyun ismi bulunamadı ancak dosya konumu bulundu"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "Parametre Bulunamadı"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "Oynatılıyor:"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Kontrolcüye otomatik olarak bağlanıldı!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Otomatik olarak Kontrolcü'ye bağlanılıyor"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Kontrolcüye bağlandı!"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Bağlantı kesildi, kontrolcü aranıyor..."
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "Bağlantı kesildi, yeniden bağlanılmaya çalışılıyor"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Otomatik bağlanma başarısız oldu, lütfen bağlantıyı kontrol ediniz!"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Yeniden bağlanma başarısız, lütfen bağlantıyı kontrol ediniz!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Kontrolcü'ye tekrar bağlanıldı!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Kontrolcü aranıyor..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "Çıkmak istediğinizden emin misiniz?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "İptal"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "Güncelleme İndiriliyor..."
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "DualSense Kontrolcü'sü artık Dualshock 4 Kontrolcü'sü olarak görünmeyecek!"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "DualSense Oyun Kumandası artık Xbox Oyun Kumandası olarak okunmayacak!"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "Çıkış"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "Daha Sonra"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "Kontrolcü'ye Bağlan"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "Sürücüleri İndir ve Yükle"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "Sürücü İndiriliyor ve Yükleniyor..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "Lütfen sunulan ViGEmBus talimatlarını takip edin"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "Sürücüyü yüklemeyi tamamladıktan sonra Kontrolcü'nüze Bağlanabilirsiniz."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "Eyvah!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "Görünüşe göre ViGEmBus Sürücüleri yüklü değil"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "Güncelleme Mevcut!"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "Yüklemek ister misiniz?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "Mevcut Sürüm: "
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "Güncelleştirme İndiriliyor..."
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "Güncelleme Ayıklanıyor..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "Güncelleme alınıyor..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "Güncelleştirme Yükleniyor..."
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "Lütfen bu güncelleştirmeyi uygulamak için yeniden başlatın"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "Yeniden Başlat"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "Güncelleme Yüklendi"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "Güncelleme Sürümü: "
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "Evet"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "Pil Düzeyi:"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "Bağlantı Türü:"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "Bağlandı"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "Bağlı Değil"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "Sol Joystick"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "Sağ Joystick"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Xbox İkonlarını Kullan"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "Görüntü yükleniyor..."
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "Oyun Listesi Alınıyor..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "Oyun Eklenmedi"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "Lütfen daha sonra yeniden kontrol edin!"
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "Lütfen Bekleyin"
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "ETİKETLER"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "Oyunu Görüntüle"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "OYUNLAR"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Oyunları İsmine veya Etiketine Göre Arama"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Uygulama Modu"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Uygula"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Her iki Tetik/Motor"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Sol Tetik/Motor"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Sağ Tetik/Motor"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "Bağlantı durumu"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Kontrolcü'ye Bağlan"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "Kontrolcü Emülasyonu:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Xbox 360 Emule Ediliyor"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "Emule Edilmiyor"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Kontrolcü'ye otomatik olarak bağlanılıyor..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Bağlanılıyor…"
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Bağlantı kesildi, yeniden bağlanılmaya çalışılıyor."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Kontrolcü Bağlandı"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Bağlantı kurulamadı, lütfen bağlantıyı kontrol ediniz!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Kontrolcü Aranıyor..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Uygulama Kapatılıyor..."
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "Kontrolcü LED"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Parlaklık"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Renk Modu"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Gökkuşağı"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Statik Renk"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "Mikrofon LED"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "KAPALI"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "AÇIK"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "Aralıklı"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "Oyuncu LED"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "Tümü KAPALI"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "Tümü AÇIK"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Beş"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Dört"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "Yüksek"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Düşük"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "Orta"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "Bir"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Üç"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "İki"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Gökkuşağı Hızı"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "Dokunmatik Yüzey LED"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Kontrolcü Modu"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Yoğunluk"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "Mod"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Rastgele Mod + Değerler"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Rastgele Değerler"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Titreşim Süresi (Sn)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Oyun"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Metin dosyası"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "Dosya Konumu:"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Metin Dosyası Konumu Seçin"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Aktif"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Durum:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Aktif - Metin dosyasında Tetik değerleri için eşleşen hiçbir değer bulunamadı!"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Aktif Değil - Seçilen dosya mevcut değil!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Aktif değil"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Aktif Değil - Dosya Seçilmedi!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Aktif Değil - Bu bir metin dosyası değil, lütfen tekrar deneyiniz!"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Metin Dosyasını Okumayı Durdur"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "Çökmeler veya Buglar?"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "Discord Topluluğuna Katıl"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "GitHub'da daha fazla bilgi"
+  },
+  "MenuGames_Label": {
+    "Value": "Oyunlar"
+  },
+  "MenuHome_Label": {
+    "Value": "Ana Sayfa"
+  },
+  "MenuInfo_Label": {
+    "Value": "Bilgi"
+  },
+  "MenuInput_Label": {
+    "Value": "Kontrolcü"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "Katıl"
+  },
+  "MenuSettings_Label": {
+    "Value": "Ayarlar"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "Sorun Gönder"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "Ziyaret et"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "Açılır menüden seçin veya klavyede bir tuşa basın"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "açılır menü seçiliyken"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "Yapılandırmayı Kaydet"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "Profil oluştur"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "Sil"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "Yeni bir Profil oluşturarak başlayın"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "İptal"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "Yeni Profili Kaydet"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "Profil Eklenmedi"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "Gecikme negatif değerde olamaz"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "Gecikme değeri boş bırakılamaz"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "Gecikme Değeri Güncellendi"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "Profil Oluşturuldu"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "Profil zaten mevcut"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "Profil Adı boş bırakılamaz"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "Profil Adı Güncellendi"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "PROFİLLER"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "Profilleriniz burada görünür"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "Gecikme (Milisaniye)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "Ayrıntılar"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "Yapılandırmayı Düzenle"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "Profil Adı Girin"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "Profil Adı"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "Durum: Profil Etkin"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "Durum: Profil Aktif DEĞİL"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "Başlat"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "Durdur"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "Gecikmeyi Güncelle"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "İsmi güncelle"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "UYGULAMA"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "Kenarlık Rengi"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "Alfa (Şeffaflık)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "Mavi"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "Yeşil"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "Kırmızı"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "Bulanıklık"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Özel Arka Plan Resmi"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "Görüntü Seçin"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "Genişlet"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "Karanlık Mod"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "Minimize edildiğinde uygulamayı simge durumuna küçült"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "Uygulama Ayarları"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "Dil"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "Küçültülmüş Başlatma"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "Windows Başlatıldığında DualSenseX'i başlat"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "Arka Plan"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "Arka Plan Ayarları"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "Seçili"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "Kontrolcü"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "DualSenseX Açıldığında Otomatik Bağlan"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Motor Gücünü Ayarla"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Kontrolcü Titreşimlerini Devre Dışı Bırak"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Devre dışıyken gelen Titreşimleri etkinleştir"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "Bağlantıda Steam'i Kapat"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "Kontrolcü Ayarları"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "Bağlantıda Işık Yansın"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "Işıklı Gösteriyi Önizle"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "Kontrolcü bağlanana kadar ara"
+  }
+}

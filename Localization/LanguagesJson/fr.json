@@ -1,0 +1,548 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "Jeu non trouvé, emplacement du fichier non plus"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "Jeu non trouvé mais le fichier à été trouvé"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "Aucun paramètre trouvé"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "Joue à:"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Manette automatiquement trouvé!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Connexion automatique à la manette"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Connecté à la manette"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Connexion perdu, recherche d'une manette"
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "Connexion perdue, tentative de reconnexion"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Impossible de se connecter automatiquement, veuillez vérifier la connexion !"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Impossible de se reconnecter, veuillez vérifier la connexion !"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Manette reconnecté"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Recherche de manette..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "Êtes-vous sûr de vouloir quitter ?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "Annuler"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "Téléchargement de la mise à jour…"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "La manette DualSense n'est plus detecté comme une manette Dualshock 4 !"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "La manette DualSense ne sera plus detecté comme une manette Xbox !"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "Sortir"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "Plus tard"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "Se connecter à la manette\n\n"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "Télécharger et installer des drivers"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "Téléchargement et installation du driver..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "Veuillez suivre les instructions que VigEMBus vous présente"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "Une fois que vous avez terminé l'installation du driver, vous pouvez vous connecter à votre manette."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "Oh-oh"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "On dirait que vous n'avez pas installé VigEMBus Drivers"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "Mise à jour disponible"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "Voulez-vous l'installer ?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "Version actuelle:"
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "Téléchargement de la mise à jour…"
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "Extraction de la mise à jour..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "Récupération de la mise à jour..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "Installation de la mise à jour…"
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "Veuillez redémarrer pour appliquer cette mise à jour"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "Redémarrer"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "Mise à jour installée"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "Version de la mise à jour : "
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "Oui"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "Niveau de la batterie :"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "Type de connexion:"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "Connecté"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "Non connecté"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "Joystick gauche"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "Joystick droit"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Utiliser les labels Xbox"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "Chargement de l’image..."
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "Récupération de la liste des jeux..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "Aucun jeu ajouté"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "Réessayez plus tard."
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "Veuillez patienter…"
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "TAGS"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "Voir le jeu"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "JEUX"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Rechercher des jeux par nom ou par tag"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Appliquer le mode"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Appliquer"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Les deux gachettes/moteurs"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Gachette/moteur gauche"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Gachette/moteur droit"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "État de la connexion"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Connecter la manette"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "Émulation de la manette:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Émulation Xbox 360"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "Pas entrain d'émuler"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Connexion automatique au contrôleur..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Connexion…"
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Connexion perdue, tentative de reconnexion..."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Manette connecté"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Impossible de se connecter, veuillez vérifier la connexion!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Recherche de manette..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Arrêt de l'application..."
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "LED de la manette"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Luminosité"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Mode de couleur"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Arc-en-ciel"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Couleur statique"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "LED micro"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "DÉSACTIVÉ"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "ACTIVÉ"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "IMPULSION"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "LED du joueur"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "Tout désactiver"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "Tout activer"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Cinq"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Quatre"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "Haut"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Bas"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "Moyen"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "Un"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Trois"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "Deux"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Vitesse arc-en-ciel"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "LED du pavé tactile"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Mode de la manette"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Intensité"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "Mode"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Mode + valeurs aléatoire"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Valeurs aléatoires"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Durée des vibrations (s)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Jeu"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Fichier de texte"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "Emplacement du fichier:"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Sélectionnez l'emplacement du fichier texte"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Actif"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Statut:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Actif - Aucune valeur de gachette correspondante n'a été trouvée dans le fichier de texte!"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Non actif - Le fichier sélectionné n'existe pas !"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Inactif"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Inactif - Aucun fichier sélectionné !"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Inactif - Il ne s'agit pas d'un fichier texte, veuillez réessayer !"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Arrêter la lecture du fichier texte"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "Des crashs ou des bugs ?"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "Rejoignez la communauté Discord"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "Plus d'infos sur GitHub"
+  },
+  "MenuGames_Label": {
+    "Value": "Jeux"
+  },
+  "MenuHome_Label": {
+    "Value": "Accueil"
+  },
+  "MenuInfo_Label": {
+    "Value": "Informations"
+  },
+  "MenuInput_Label": {
+    "Value": "Manette"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "Rejoindre"
+  },
+  "MenuSettings_Label": {
+    "Value": "Paramètres"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "Soumettre un problème"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "Visiter"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "Faites votre choix dans le menu déroulant ou appuyez sur une touche du clavier"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "pendant que la liste déroulante est sélectionnée"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "Enregistrer la configuration"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "Créer un profil"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "Supprimer"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "Commencer par créer un nouveau profil"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "Annuler"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "Sauvegarder le nouveau profile"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "Aucun profil ajouté"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "Le retard ne peut pas être négatif"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "Le délai ne peut pas être vide"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "Délai mise à jour"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "Profil créé"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "Le profil existe déjà"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "Le nom du profil ne peut pas être vide"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "Nom du profil mis à jour"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "PROFILS"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "Vos profils apparaîtront ici"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "Délai (millisecondes)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "Détails"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "Modifier la configuration"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "Saisissezr le nom du profil"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "Nom du profil"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "Statut : Profile Actif"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "Statut : Profil inactif"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "Démarrer"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "Arrêter"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "Mettre à jour le délai"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "Mettre à jour le nom"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "APPLICATION"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "Couleur du bord"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "Alpha (Transparence)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "Bleu"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "Vert"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "Rouge"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "Flou"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Image d'arrière-plan personnalisée"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "Sélectionner une image"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "Étirer"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "Mode sombre"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "Garder l'application dans le plateau lorsqu'elle est réduite"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "Paramètres de l'application"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "Langue"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "Lancement minimisé"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "Lancez DualSensex sur le démarrage de Windows"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "Arrière-plan"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "Paramètres d'arrière-plan"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "Sélectionné"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "Manette"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "Connexion automatique lorsque DualSensex s'ouvre"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Ajuster la force du moteur"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Désactiver les vibrations de la manette"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Enable incoming Vibrations while disabled"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "Fermer Steam sur Connect"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "Paramètres du contrôleur"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "Jouer à Lightshow quand connecté"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "Aperçu de Lightshow"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "Rechercher jusqu'à ce que qu'une manette soit connecté"
+  }
+}

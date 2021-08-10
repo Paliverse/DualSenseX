@@ -1,0 +1,548 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "Spelnamn hittades, men filplatsen hittades inte"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "Spelnamnet hittades inte, men filplatsen hittades"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "Inga parametrar hittades"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "Spelar:"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Ansluten till Spelkontroll Automatiskt"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Ansluter Automatiskt till Spelkontroll"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Ansluten till Spelkontrollen!"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Anslutning förlorad, Söker efter Spelkontroll..."
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "Anslutning förlorad, försöker att återansluta"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Det gick inte att ansluta automatiskt, kontrollera kopplingen!"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Det gick inte att återansluta, kontrollera kopplingen!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Återansluten till Spelkontrollen!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Söker efter Spelkontroll..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "Är du säker på att du vill avsluta?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "Avbryt"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "Hämtar uppdatering..."
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "DualSense-kontrollen kommer inte längre att fungera som en Dualshock 4-kontroll!"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "DualSense-kontrollen kommer inte längre att fungera som en Xbox-kontroll!"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "Avsluta"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "Senare"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "Anslut till Spelkontroll"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "Hämta och installera drivrutiner"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "Hämtar och installerar drivrutiner..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "Följ instruktionerna för ViGEmBus"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "Efter du har installerat drivrutinen kan du ansluta spelkontrollen."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "Hoppsan!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "Det verkar som att du inte har ViGEmBus-drivrutinerna installerade"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "Uppdatering tillgänglig!"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "Vill du installera den?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "Nuvarande version: "
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "Uppdateringen hämtas"
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "Extraherar uppdatering..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "Hämtar uppdatering..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "Installerar uppdatering..."
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "Starta om för att installera den här uppdateringen"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "Starta om"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "Uppdatering installerad"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "Uppdateringens version: "
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "Ja"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "Batterinivå:"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "Anslutningstyp:"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "Ansluten"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "Ej ansluten"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "Vänster styrspak"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "Höger styrspak"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Använd Xbox-etiketter"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "Läser in bild ..."
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "Hämtar spellista..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "Inga spel tillagda"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "Kom tillbaka senare!"
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "Var god vänta"
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "TAGGAR"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "Visa spel"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "SPEL"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Sök efter spel genom namn eller tagg"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Tillämpningsläge"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Tillämpa"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Båda Triggers/Motorer"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Vänster Trigger/Motor"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Höger Trigger/Motor"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "Anslutningsstatus"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Anslut Spelkontroll"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "Spelkontrollemulering"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Emulerar Xbox 360"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "Emulerar inte"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Ansluter Automatiskt till Spelkontroll..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Ansluter..."
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Anslutning förlorad, försöker att återansluta..."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Spelkontroll Ansluten"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Det gick inte att ansluta, kontrollera kopplingen!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Söker efter Spelkontroll..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Stänger av programmet..."
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "Spelkontrollens LED"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Ljusstyrka"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Färgläge"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Regnbåge"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Statisk färg"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "Mic LED"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "AV"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "PÅ"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "PULS"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "Spelare LED"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "Alla AV"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "Alla PÅ"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Fem"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Fyra"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "Hög"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Låg"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "Medel"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "Ett"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Tre"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "Två"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Regnbåge hastighet"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "Styrplatta LED"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Spelkontrollsläge"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Intensitet"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "Läge"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Välj Slumpmässiga Värden + Läge"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Välj Slumpmässiga Värden"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Vibrationstid (sek)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Spel"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Textfil"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "Filplats:"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Välj textfilens plats"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Aktiv"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Status:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Aktiv - Inga matchande triggervärden hittades i textfilen!"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Ej aktiv - Den valda filen finns inte!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Ej aktiv"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Ej aktiv - Ingen fil vald!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Ej aktiv - Det här är inte en textfil, försök igen!"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Sluta läsa textfil"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "Kraschar eller buggar?"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "Gå med i Discord communityn"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "Mer information på GitHub"
+  },
+  "MenuGames_Label": {
+    "Value": "Spel"
+  },
+  "MenuHome_Label": {
+    "Value": "Hem"
+  },
+  "MenuInfo_Label": {
+    "Value": "Info"
+  },
+  "MenuInput_Label": {
+    "Value": "Spelkontroll"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "Gå med"
+  },
+  "MenuSettings_Label": {
+    "Value": "Inställningar"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "Skicka problem"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "Besök"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "Välj från menyn eller tryck på en tangent på tangentbordet"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "medan menyn är markerad"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "Spara konfiguration"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "Skapa profil"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "Radera"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "Kom igång genom att skapa en ny profil"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "Avbryt"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "Spara ny profil"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "Inga profiler tillagda"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "Fördröjning kan inte vara negativ"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "Fördröjningen kan inte vara tom"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "Fördröjning uppdaterad"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "Profil skapad"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "Profilen finns redan"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "Profilnamnet kan inte vara tomt"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "Profilnamn uppdaterat"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "PROFILER"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "Dina profiler kommer att dyka upp här"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "Fördröjning (millisekunder)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "Detaljer"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "Redigera konfigurering"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "Ange profilnamn"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "Profilnamn"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "Status: Profil Aktiv"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "Status: Profil EJ Aktiv"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "Starta"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "Stoppa"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "Uppdatera fördröjning"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "Uppdatera namn"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "App"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "Bakgrundsfärg"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "Alfa (transparens)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "Blå"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "Grön"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "Röd"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "Oskärpa"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Egen Bakgrundsbild"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "Välj bild"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "Utfyllnadsläge"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "Mörkt tema"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "Behåll Appen i aktivitetsfältet när den minimeras"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "Appinställningar"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "Språk"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "Starta minimerad"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "Starta DualSenseX vid start av Windows"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "Bakgrund"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "Bakgrundsinställningar"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "Vald"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "Spelkontroll"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "Anslut automatiskt när DualSenseX öppnas"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Justera motorstyrka"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Inaktivera spelkontrollens vibrationer"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Enable incoming Vibrations while disabled"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "Stäng av Steam vid anslutning"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "Inställningar för spelkontroll"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "Visa ljusshow vid anslutning"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "Förhandsgranska ljusshow"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "Sök tills spelkontrollen ansluter"
+  }
+}

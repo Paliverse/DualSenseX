@@ -1,0 +1,548 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "Spillnavn funnet, men fant ikke filplassering"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "Finner ikke spillnavn, men filplassering funnet"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "Ingen parametere funnet"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "Spiller:"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Automatisk koblet til kontroller!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Kobler automatisk til kontroller"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Koblet til kontroller!"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Tilkobling tapt, søker etter kontroller..."
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "Mistet tilkobling, prøver å koble til på nytt"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Kan ikke automatisk koble til, vennligst sjekk tilkoblingen!"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Kan ikke koble til igjen, vennligst sjekk tilkoblingen!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Koblet til kontrolleren på nytt!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Søker etter kontroller..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "Er du sikker på at du vil avslutte?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "Avbryt"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "Laster ned oppdatering..."
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "The DualSense Controller will no longer read as a Dualshock 4 Controller!"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "DualSense-kontrolleren vil ikke lenger lese som en Xbox-kontroller!"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "Avslutt"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "Senere"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "Koble til kontroller"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "Last ned og installere drivere"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "Laster ned og installerer driver..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "Følg VigemBus-instruksjonene"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "Når du er ferdig med å installere driveren, kan du koble til kontrolleren."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "Oi da!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "Det ser ut til at du ikke har installert VigemBus drivere"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "Oppdatering tilgjengelig!"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "Vil du installere den?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "Gjeldende versjon: "
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "Laster ned oppdatering..."
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "Pakker ut oppdatering..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "Henter oppdatering..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "Installerer oppdatering..."
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "Start på nytt for å installere oppdateringen"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "Start på nytt"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "Oppdatering installert"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "Oppdater versjon: "
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "Ja"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "Batterinivå:"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "Tilkoblingstype:"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "Tilkoblet"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "Ikke tilkoblet"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "Venstre styrespak"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "Høyre styrespak"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Bruk Xbox-etiketter"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "Laster inn bilde..."
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "Henter spilleliste..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "Ingen spill lagt til"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "Vennligst sjekk senere!"
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "Vennligst vent"
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "Tagger"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "Vis spill"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "SPILL"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Søk spill etter navn eller tag"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Påfør modus"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Bruk"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Både Trigger/Motor"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Venstre Trigger/Motor"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Høyre Trigger/Motor"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "Tilkoblingsstatus"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Koble til kontroller"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "Kontrolleremulering:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Emulerer Xbox 360"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "Ikke emulere"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Automatisk tilkobling til kontroller..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Kobler til…"
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Tilkobling tapt, prøver å koble til igjen..."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Kontroller tilkoblet"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Kan ikke koble til, vennligst sjekk tilkoblingen!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Søker etter kontroller..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Avslutter programmet..."
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "Kontroller LED"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Lysstyrke"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Fargemodus"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Regnbue"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Statisk farge"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "Mic LED"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "AV"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "PÅ"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "PULS"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "Spiller LED"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "Alle AV"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "Alt på"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Fem"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Fire"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "Høy"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Lav"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "Middels"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "En"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Tre"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "To"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Regnbuefart"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "Styreflate LED"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Kontrollermodus"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Intensitet"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "Modus"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Randomize Mode + Values"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Randomize Values"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Vibrasjonsvarighet (sek)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Spill"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Tekstfil"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "Filplassering:"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Velg filplassering"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Aktiv"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Status:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Aktiv - Ingen samsvarende triggerverdier funnet i tekstfilen!"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Ikke aktiv - Den valgte filen finnes ikke!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Ikke aktiv"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Ikke aktiv - Ingen fil valgt!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Ikke aktiv - Dette er ikke en tekstfil, prøv igjen!"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Slutt å lese tekstfil"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "Krasjer eller feil?"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "Bli med i Discord"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "Mer informasjon på GitHub"
+  },
+  "MenuGames_Label": {
+    "Value": "Spill"
+  },
+  "MenuHome_Label": {
+    "Value": "Hjem"
+  },
+  "MenuInfo_Label": {
+    "Value": "Info"
+  },
+  "MenuInput_Label": {
+    "Value": "Kontroller"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "Bli med"
+  },
+  "MenuSettings_Label": {
+    "Value": "Innstillinger"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "Send feilmelding"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "Besøk"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "Velg fra rullegardinmenyen eller trykk på en tast på tastaturet"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "mens rullegardinlisten er valgt"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "Lagre konfigurasjon"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "Opprett profil"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "Slett"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "Kom i gang ved å opprette en ny profil"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "Avbryt"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "Lagre ny profil"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "Ingen profiler lagt til"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "Forsinkelse kan ikke være negativ"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "Forsinkelse kan ikke være tom"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "Forsinkelse oppdatert"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "Profil opprettet"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "Profilen finnes allerede"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "Profilnavnet kan ikke være tomt"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "Profilnavn oppdatert"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "PROFILER"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "Profilene dine vises her"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "Forsinkelse (millisekunder)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "Detaljer"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "Rediger konfigurering"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "Skriv inn profilnavn"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "Profilnavn"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "Status: Profil aktiv"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "Status: Profil IKKE aktiv"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "Start"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "Stopp"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "Oppdater forsinkelse"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "Oppdater navn"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "APP"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "Kantlinjefarge"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "Alpha (Transparency)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "Blå"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "Grønn"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "Rød"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "Uskarp"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Tilpasset bakgrunnsbilde"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "Velg bilde"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "Strekk"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "Mørk modus"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "Hold appen i skuffen når den minimeres"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "APP-innstillinger"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "Språk"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "Start minimert"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "Start DualsenSex på oppstart av Windows"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "Bakgrunn"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "Bakgrunnsinnstillinger"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "Valgt"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "Kontroller"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "Koble automatisk til når DualsenseX åpnes"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Adjust Motor Strength"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Disable Controller Vibrations"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Enable incoming Vibrations while disabled"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "Avslutt steam på tilkobling"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "Innstillinger for kontroller"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "Spill lysshow på tilkobling"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "Forhåndsvis lysshow"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "Søk til kontrolleren kobler seg til"
+  }
+}

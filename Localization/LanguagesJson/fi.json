@@ -1,0 +1,548 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "Pelin nimi löytyi, mutta tiedoston sijaintia ei löydy"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "Pelin nimeä ei löydy, mutta tiedoston sijainti löytyi"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "Parametrejä ei löytynyt"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "Pelaa peliä:"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Automaattisesti yhdistetty ohjaimeen!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Automaattinen yhdistäminen ohjaimeen"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Ohjain yhdistetty!"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Yhteys katkennut, etsitään ohjainta..."
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "Yhteys katkennut, yritetään yhdistää uudelleen"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Automaattinen yhdistäminen epäonnistui, tarkista yhteys!"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Yhteyden muodostaminen epäonnistui, tarkista yhteys!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Ohjain yhdistetty uudelleen!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Etsitään ohjainta..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "Haluatko varmasti lopettaa?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "Peruuta"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "Ladataan päivitystä…"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "DualSense-ohjainta ei enää lueta Dualshock 4 -ohjaimeksi!"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "DualSense-ohjainta ei enää lueta Xbox-ohjaimeksi!"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "Poistu"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "Myöhemmin"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "Yhdistä ohjaimeen"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "Lataa ja asenna laiteajurit"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "Ladataan ja asennetaan laiteajuria..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "Noudata esitettyjä ViGEMbus-ohjeita"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "Kun olet asentanut laiteajurin, voit muodostaa yhteyden ohjaimeesi."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "Oho!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "Näyttää siltä, että sinulla ei ole ViGEmBUS-laiteajureita asennettuna"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "Päivitys saatavilla!"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "Haluatko asentaa sen?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "Nykyinen versio: "
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "Ladataan päivitystä…"
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "Puretaan päivitystä..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "Haetaan päivitystä..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "Asennetaan päivitystä…"
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "Uudelleenkäynnistä käyttääksesi tätä päivitystä"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "Käynnistä uudelleen"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "Päivitys asennettu"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "Päivitysversio: "
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "Kyllä"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "Akun varaus:"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "Yhteystyyppi:"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "Yhdistetty"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "Ei yhdistetty"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "Vasen ohjaussauva"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "Oikea ohjaussauva"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Käytä Xbox-merkintöjä"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "Ladataan kuvaa..."
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "Haetaan pelilistaa..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "Ei lisättyjä pelejä"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "Kokeile myöhemmin uudelleen!"
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "Odota hetki"
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "TAGIT"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "Näytä peli"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "PELIT"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Etsi pelejä nimellä tai tunnisteella"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Käytä tilaa"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Käytä"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Molemmat liipaisimet/moottorit"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Vasen liipaisin/moottori"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Oikea liipaisin/moottori"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "Yhteyden tila"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Yhdistä ohjain"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "Ohjaimen emulointi:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Emuloidaan Xbox 360 -ohjainta"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "Emulointi ei käytössä"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Automaattinen yhdistäminen ohjaimeen..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Yhdistetään…"
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Yhteys katkesi, yritetään yhdistää uudelleen..."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Ohjain yhdistetty"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Yhteyden muodostaminen epäonnistui, tarkista yhteys!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Etsitään ohjainta..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Sammutetaan sovellusta..."
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "Ohjaimen LED"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Kirkkaus"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Väritila"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Sateenkaari"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Staattinen väri"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "Mikrofonin LED"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "POIS"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "PÄÄLLÄ"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "SYKE"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "Pelaajan LED"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "Kaikki POIS"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "Kaikki PÄÄLLÄ"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Viisi"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Neljä"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "Korkea"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Matala"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "Normaali"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "Yksi"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Kolme"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "Kaksi"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Sateenkaaren nopeus"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "Kosketuslevyn LED"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Ohjaimen tila"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Intensiteetti"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "Tila"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Satunnainen tila + arvot"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Satunnaiset arvot"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Värinän kesto (s)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Peli"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Tekstitiedosto"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "Tiedoston sijainti:"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Valitse tekstitiedoston sijainti"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Aktiivinen"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Tila:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Aktiivinen - Tekstitiedostosta ei löydy vastaavia Liipaisimen arvoja!"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Ei aktiivinen - Valittua tiedostoa ei ole olemassa!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Ei aktiivinen"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Ei aktiivinen - tiedostoa ei ole valittu!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Ei aktiivinen - Tämä ei ole tekstitiedosto, yritä uudelleen!"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Lopeta tekstitiedoston lukeminen"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "Kaatumisia tai Bugeja?"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "Liity Discord-yhteisöön"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "Lisätietoja GitHubissa"
+  },
+  "MenuGames_Label": {
+    "Value": "Pelit"
+  },
+  "MenuHome_Label": {
+    "Value": "Etusivu"
+  },
+  "MenuInfo_Label": {
+    "Value": "Info"
+  },
+  "MenuInput_Label": {
+    "Value": "Ohjain"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "Liity"
+  },
+  "MenuSettings_Label": {
+    "Value": "Asetukset"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "Ilmoita ongelma"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "Vieraile"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "Valitse avattavasta valikosta tai paina näppäimistön näppäintä"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "kun avattava valikko on valittu"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "Tallenna konfiguraatio"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "Luo profiili"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "Poista"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "Aloita luomalla uusi profiili"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "Peruuta"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "Tallenna uusi profiili"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "Ei lisättyjä profiileja"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "Viive ei voi olla negatiivinen"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "Viive ei voi olla tyhjä"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "Viive päivitetty"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "Profiili luotu"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "Profiili on jo olemassa"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "Profiilin nimi ei voi olla tyhjä"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "Profiilin nimi päivitetty"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "PROFIILIT"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "Profiilisi näkyvät täällä"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "Viive (millisekunteja)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "Tiedot"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "Muokkaa konfiguraatiota"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "Syötä profiilin nimi"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "Profiilin nimi"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "Tila: Profiili aktiivinen"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "Tila: Profiili EI aktiivinen"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "Aloita"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "Pysäytä"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "Päivitä viive"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "Päivitä nimi"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "SOVELLUS"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "Reunuksen väri"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "Alpha (läpinäkyvyys)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "Sininen"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "Vihreä"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "Punainen"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "Sumennus"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Mukautettu taustakuva"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "Valitse kuva"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "Venytä"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "Tumma tila"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "Pidä Sovellus tehtäväpälkissa, kun se on minimoitu"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "Sovellusasetukset"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "Kieli"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "Käynnistä minimoituna"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "Käynnistä DualSenseX Windowsin käynnistyksessä"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "Tausta"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "Taustan asetukset"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "Valittu"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "Ohjain"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "Yhdistä automaattisesti, kun DualSenseX käynnistyy"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Säädä moottorin voimakkuutta"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Poista ohjaimen tärinä käytöstä"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Enable incoming Vibrations while disabled"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "Sammuta Steam yhdistettäessä"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "Ohjaimen asetukset"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "Näytä valoshow yhdistettäessä"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "Esikatsele valoshow"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "Etsi, kunnes ohjain muodostaa yhteyden"
+  }
+}

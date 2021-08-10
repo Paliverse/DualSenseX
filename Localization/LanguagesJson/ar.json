@@ -1,0 +1,548 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "تم العثور على اسم اللعبة، ولكن لم يتم العثور على موقع الملف"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "لم يتم العثور على اسم اللعبة، ولكن تم العثور على موقع الملف"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "لم يتم العثور على متغيرات"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "تشغيل"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "تم الاتصال تلقائياً بوحدة التحكم!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "الاتصال بوحدة التحكم تلقائياً"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "وحدة التحكم متصلة"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "تم فقدان الاتصال، البحث عن وحدة تحكم..."
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "فُقد الاتصال، يتم محاولة إعادة الاتصال"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "فشلَ الاتصال التلقائي، يرجى التحقق من الاتصال"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "فشل إعادة الاتصال، يرجى التحقق من الاتصال!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "تم إعادة الاتصال بوحدة التحكم!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "جاري البحث عن وحدة تحكم..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "هل تريد بالتأكيد الإنهاء؟"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "إلغاء"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "جارٍ تنزيل التحديث…"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "لن يتم قراءة وحدة تحكم DualSense كوحدة تحكم Dualshock 4 بعد الآن!"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "لن يتم قراءة وحدة تحكم DualSense كوحدة تحكم Xbox بعد الآن!"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "خروج"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "لاحقًا"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "الاتصال بوحدة التحكم"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "تنزيل برامج التشغيل وتثبيتها"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "جاري تنزيل وتثبيت برنامج التشغيل..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "يرجى اتباع تعليمات VigemBus المقدمة"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "بمجرد الانتهاء من تثبيت برنامج التشغيل، يمكنك الاتصال بوحدة التحكم الخاصة بك."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "اه-أوه!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "يبدو أنه ليس لديك برامج تشغيل VigemBus مثبتة"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "التحديث متاح"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "هل ترغب في تثبيته؟"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "الإصدار الحالي"
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "جارٍ تنزيل التحديث…"
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "جاري استخراج التحديث..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "جاري جلب التحديث..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "جارٍ تثبيت التحديث..."
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "الرجاء إعادة التشغيل لتطبيق هذا التحديث"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "إعادة تشغيل"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "تم تثبيت التحديث"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "إصدار التحديث: "
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "نعم"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "مستوى البطارية"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "نوع الاتصال"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "متصل"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "غير متصل"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "عصا التحكم اليسرى"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "عصا التحكم اليمنى"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "استحدم تسميات Xbox"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "تحميل الصور…"
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "جاري جلب قائمة الألعاب..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "لا توجد ألعاب مضافة"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "يُرجى إعادة التحقق لاحقًا."
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "يرجى الإنتظار..."
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "العلامات"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "عرض اللعبة"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "الألعاب"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "ابحث عن الألعب بالاسم أو بالوسم"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "تطبيق الأسلوب"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "تطبيق"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "محرك الزنادين"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "محرك الزناد الأيسر"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "محرك الزناد الأيمن"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "حالة الاتصال"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "الاتصال بوحدة التحكم"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "محاكاة وحدة التحكم:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "محاكاة XBOX 360"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "لا يحاكي"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "يتم إعادة الاتصال إلى وحدة التحكم..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "جارٍ الاتصال…"
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "فُقد الاتصال، يتم محاولة إعادة الاتصال"
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "وحدة التحكم متصلة"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "فشل الاتصال، يرجى التحقق من الاتصال!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "جاري البحث عن وحدة تحكم..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "يتم إغلاق التطبيق..."
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "ضوء وحدة التحكم LED"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "السطوع"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "وضع اللون"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "قوس قزح"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "لون ثابت"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "ضوء المايكروفون LED"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "إيقاف"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "تشغيل"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "ذبذبة"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "ضوء اللاعب LED"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "كلها معطلة"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "كلها مفعلة"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "خمسة"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "اربعة"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "مرتفع"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "منخفض"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "وسط"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "واحد"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "ثلاثة"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "اثنان"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "سرعة قوس قزح"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "ضوء لوحة اللمس LED"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "أسلوب وحدة التحكم"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "الكثافة"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "الوضع"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Randomize Mode + Values"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Randomize Values"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "مدة الاهتزاز (ثانية)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "لعبة"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "ملف نصي"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "مكان الملف"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "تحديد موقع الملف النصي"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "نشط"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "الحالة"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "نشط - لا توجد قيم متطابقة للزناد في الملف النصي"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "غير نشط - الملف المحدد غير موجود!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "غير فعال"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "غير نشط - لم يتم تحديد ملف!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "غير نشط - هذا ليس ملف نصي، يرجى المحاولة مرة أخرى!"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "إيقاف قراءة الملف النصي"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "أعطال أو أخطاء؟"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "الانضمام إلى مجتمع ديسكورد"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "المزيد من المعلومات على GitHub"
+  },
+  "MenuGames_Label": {
+    "Value": "الألعاب"
+  },
+  "MenuHome_Label": {
+    "Value": "الصفحة الرئيسية"
+  },
+  "MenuInfo_Label": {
+    "Value": "معلومات"
+  },
+  "MenuInput_Label": {
+    "Value": "متحكم"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "انضمام"
+  },
+  "MenuSettings_Label": {
+    "Value": "الإعدادات"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "إرسال المشكلة"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "زيارة"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "حدد من القائمة المنسدلة أو اضغط على مفتاح على لوحة المفاتيح"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "أثناء تحديد القائمة المنسدلة"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "حفظ الإعدادات"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "إنشاء ملف شخصي"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "حذف"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "ابدأ بإنشاء ملف شخصي جديد"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "إلغاء"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "حفظ ملف شخصي جديد"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "لم يتم إضافة ملفات تعريف"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "لا يمكن أن يكون التأخير سلبياً"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "التأخير لا يمكن أن يكون فارغاً"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "تم تحديث التأخير"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "تم إنشاء الملف الشخصي"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "الملف الشخصي موجود بالفعل"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "اسم الملف الشخصي لا يمكن أن يكون فارغاً"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "تم تحديث اسم الملف الشخصي"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "ملفات التعريف"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "ملف التعريف الخاص بك سيظهر هنا"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "التأخير (مل بالثانية)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "التفاصيل"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "تحرير الإعدادات"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "أدخل اسم الملف الشخصي"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "اسم الملف التعريفي"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "الحالة: الملف الشخصي نشط"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "الحالة: الملف الشخصي غير نشط"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "بدء"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "إيقاف"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "تأخير التحديث"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "تحديث الاسم"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "تطبيق"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "لون الحدود"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "ألفا (الشفافية)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "أزرق"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "أخضر"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "أحمر"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "ضبابي"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Custom Background Image"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "اختر صورة"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "تمدّد"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "الوضع الداكن"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "احفظ التطبيق في الدرج عند تصغيره"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "إعدادات التطبيق"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "اللغة"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "تصغير التشغيل"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "تشغيل DualSenseX عند بدء تشغيل النظام"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "الخلفية"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "ضبط الخلفية"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "تم الاختيار"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "متحكم"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "الاتصال التلقائي عند فتح DualSenseX"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Adjust Motor Strength"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Disable Controller Vibrations"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Enable incoming Vibrations while disabled"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "وقف Steam عند الاتصال"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "إعدادات وحدة التحكم"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "تشغيل عرض ضوئي عن الاتصال"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "معاينة العرض الضوئي"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "البحث حتى اتصال وحدة التحكم"
+  }
+}
