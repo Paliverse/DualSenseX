@@ -3,19 +3,21 @@
 </p>
 </p>
   <p align="center">
-<a href="https://localazy.com/p/dualsensex" alt="langs">
+  <p align="center">
+     <a href="https://localazy.com/p/dualsensex" alt="langs">
           <img src="https://connect.localazy.com/status/dualsensex?logo=ffffff&style=for-the-badge&content=langs" /></a>⠀
 <a href="https://github.com/Paliverse/DualSenseX/releases" alt="Contributors">
           <img src="https://img.shields.io/github/downloads/Paliverse/DualSenseX/total.svg?style=for-the-badge&color=ffffff&logo=windows" /></a>⠀
 <a href="https://discord.gg/PUThpCFByn">
           <img src="https://img.shields.io/discord/836790685784211486?logo=discord&label=Discord&style=for-the-badge&color=228B22"
            alt="chat on Discord"></a>
-  
-  <div align="center">
+     </p>
+<div align="center">
           <img src="imgs/DualSenseX_Icon.png"
            alt="dualsensex image"
                height="300" width="auto">
 </div>
+
 <h1 align="center"></h1>
 </p>
 
@@ -34,7 +36,6 @@ Wheather you're using Steam or a different platform, you will be able to use Dua
 
 Connection type supports both USB and Bluetooth with full functionaliy!
 
-
 ## Download and Install
 
 To use DualSenseX,
@@ -48,6 +49,11 @@ To use DualSenseX,
 
 Once thats done, you can connect your DualSense Controller by pressing `Connect Controller` in the App.
 
+## **DualSenseX On Trello**
+<h5/>To-Do's, Things being worked on, what's been implemented and more!</h5>
+<a href="https://trello.com/b/mDUMw1sN" alt="Contributors">
+  <img src="https://img.shields.io/badge/Trello-5C2D91?style=for-the-badge&logoColor=white&logo=Trello" /></a>
+ 
 ## **Features:**
 - Self updating App, we will always strive to make the experience easy and hassle free
 - Launch App with Windows Startup
