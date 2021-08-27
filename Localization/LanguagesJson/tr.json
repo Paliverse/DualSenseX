@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "Xbox 360 Emule Ediliyor"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Emulating DualShock 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Emule Edilmiyor"
   },
@@ -526,6 +529,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Kontrolcü Titreşimlerini Devre Dışı Bırak"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Enable HidHide"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
     "Value": "Devre dışıyken gelen Titreşimleri etkinleştir"
