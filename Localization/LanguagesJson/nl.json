@@ -1,0 +1,554 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "Spel naam gevonden, bestandslocatie niet gevonden"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "Game Titel niet gevonden, Bestandslocatie Bekend"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "Geen Parameters Gevonden"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "Spelen:"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Automatisch verbonden met Controller!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Automatisch verbinden met Controller"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Verbonden met Controller!"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Verbinding verbroken, Zoeken naar de Controller...."
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "Verbinding verbroken, proberen te hervatten..."
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Automatische verbinding gefaald, controleer de connectie!"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Opnieuw verbinden mislukt, check de verbinding!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Verbinding hersteld!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Aan het zoeken naar de Controller..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "Weet u zeker dat u wilt afsluiten?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "Annuleren"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "Update downloaden…"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "De DualSense Conteoer zal niet meer als een Dualshock 4 Controller Uitgelezen worden"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "De DualSense Controller zal niet meer als een Xbox Controller bekend staan"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "Afsluiten"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "Later"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "Verbinding Maken met Controller"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "Drivers Downloaden en Installeren"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "Driver downloaden en installeren..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "Volg de instructies van VigeMbus die worden gepresenteerd"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "Zodra je klaar bent met het installeren van het stuurprogramma, kun je verbinding maken met je controller."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "Er is een fout opgetreden!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "Het lijkt erop dat je VigeMbus Drivers niet hebt geïnstalleerd"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "Update beschikbaar"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "Wil je het installeren?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "Huidige versie"
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "Update downloaden…"
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "Update uitpakken..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "Update Ophalen..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "Update installeren…"
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "Om deze update toe te passen moet de app herstart worden"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "Opnieuw starten"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "Update Geïnstalleerd"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "Update Versie"
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "Ja"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "Batterijniveau:"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "Verbindingstype"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "Verbonden"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "Niet verbonden"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "Linker Joystick"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "Rechter Joystick"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Gebruik Xbox Labels"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "Afbeeldingen laden…"
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "Lijst aan het ophalen..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "Geen Spellen toegevoegd"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "Probeer het later opnieuw"
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "Even geduld..."
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "Labels"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "Bekijk Spel"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "spelletjes"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Zoek spellen bij Naam of Tag"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Modus toepassen"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Toepassen"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Beide Triggers/Motors"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Linker Trigger/Motor"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Rechter Trigger/Motor"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "Verbindingsstatus"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Verbind Controller"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "Controller Emulatie:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Xbox 360 (Emulatie)"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "DualShock 4 emuleren"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "Niet aan het Emuleren"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Automatisch verbinden met Controller..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Verbinden…"
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Verbinding verbroken, proberen te hervatten..."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Controller Verbonden"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Verbinden Mislukt, Check de verbinding!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Aan het zoeken naar de Controller..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Aflsuiten Applicatie"
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "Controller LED"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Helderheid"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Kleurmodus"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Regenboog"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Statische Kleur"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "Mic LED"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "UIT"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "AAN"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "Puls"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "Speler LED"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "Allemaal uit"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "Allemaal aan"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Vijf"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Vier"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "Hoog"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Laag"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "gemiddeld"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "Een"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Drie"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "Twee"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Regenboog Snelheid"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "Touchpad LED"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Controller Modus"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Intensiteit"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "Modus"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Willekeurige Modus met Willekeurige Waarden invullen"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Willekeurige Waarden Gebruiken"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Vibratie Duur [Sec]"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Spel"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Tekstbestand"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "Bestandslocatie:"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Selecteer Text Bestand Locatie"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Actief"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Toestand:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Actief - Geen overeenkomende Trigger waardes gevonden in het .txt bestand"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Inactief - Het geselecteerde bestand bestaat niet!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Niet Actief"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Inactief - Geen Bestand Geselecteerd!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Inactief - Dit is geen tekst bestand, probeer het nog eens"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Stop Lezen van Text Bestand"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "Crashes of Bugs?"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "Word lid van de Discord Community"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "Meer informatie te vinden op GitHub"
+  },
+  "MenuGames_Label": {
+    "Value": "Spellen"
+  },
+  "MenuHome_Label": {
+    "Value": "Home"
+  },
+  "MenuInfo_Label": {
+    "Value": "Informatie"
+  },
+  "MenuInput_Label": {
+    "Value": "Controller"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "Deelnemen"
+  },
+  "MenuSettings_Label": {
+    "Value": "Instellingen"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "Probleem indienen"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "Bezoek"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "Selecteer in het Menu of druk op een Toets"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "Bij Selectie van het Menu"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "Configuratie Opslaan"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "Profiel aanmaken"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "Verwijderen"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "Ga van start door het maken van een nieuw Profiel"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "Annuleren"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "Nieuw Profiel Opslaan"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "Geen Profielen Toegevoegd"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "Vertraging dient een Positief getal te zijn!"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "Vertraging kan niet Leeg blijven"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "Vertraging Bijgewerkt"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "Profiel Aangemaakt"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "Profiel bestaat al"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "Profielnaam mag niet Leeg"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "Profielnaam Bijgewerkt"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "Profielen"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "Je Profielen zullen hier weergegeven worden"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "Vertraging (Milliseconden)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "Gegevens"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "Configuratie Aanpassen"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "Voer Profielnaam in"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "Profielnaam"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "Status: Profiel Actief"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "Status: Profiel INactief"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "Begin"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "Stoppen"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "Vertraging Bijwerken"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "Naam wijzigen"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "Applicatie"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "Randkleur"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "Alpha (Transparantie)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "Blauw"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "Groen"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "Rood"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "Vervagen"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Aangepaste achtergrondafbeelding"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "Selecteer afbeelding"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "Uitrekken"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "Donkere modus"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "App in Tray plaatsen bij Minimalisatie "
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "App-instellingen"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "Taal"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "Geminimaliseerd Opstarten"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "DualSenseX Starten op Boot (Windows)"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "Achtergrond"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "Achtergrondinstellingen"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "Geselecteerd"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "Beheerder"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "Auto Connect bij Start"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Motorsterkte Wijzigen"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Controller Vibraties Uitschakelen"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Inschakelen HidHide"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Inkomende trillingen inschakelen wanneer controller vibratie is uitgeschakeld"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "Steam Afsluiten bij Connectie met Controller"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "Controller Instellingen"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "LED Reactie bij Connectie"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "Preview Licht Respons"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "Blijf zoeken tot verbinding tot stand is"
+  }
+}
