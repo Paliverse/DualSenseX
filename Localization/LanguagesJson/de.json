@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "Emuliert Xbox 360"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Emuliere DualShock 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Keine Emulation"
   },
@@ -526,6 +529,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Deaktiviere Controller Vibration"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "HidHide aktivieren"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
     "Value": "Eingehende Vibrationen aktivieren, während sie deaktiviert sind"

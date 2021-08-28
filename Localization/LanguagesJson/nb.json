@@ -48,7 +48,7 @@
     "Value": "Laster ned oppdatering..."
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
-    "Value": "The DualSense Controller will no longer read as a Dualshock 4 Controller!"
+    "Value": "DualSense-kontrolleren vil ikke lenger lese som en Dualshock 4-kontroller!"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
     "Value": "DualSense-kontrolleren vil ikke lenger lese som en Xbox-kontroller!"
@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "Emulerer Xbox 360"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Emulerer DualShock 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Ikke emulere"
   },
@@ -291,10 +294,10 @@
     "Value": "Modus"
   },
   "HomePage_ControllerMode_RandomizeModeAndValues": {
-    "Value": "Randomize Mode + Values"
+    "Value": "Tilfeldig modus + verdier"
   },
   "HomePage_ControllerMode_RandomizeValues": {
-    "Value": "Randomize Values"
+    "Value": "Tilfeldig verdier"
   },
   "HomePage_ControllerMode_VibrationDurationLabel": {
     "Value": "Vibrasjonsvarighet (sek)"
@@ -465,7 +468,7 @@
     "Value": "Kantlinjefarge"
   },
   "SettingsPage_AppSettings_Border_AlphaLabel": {
-    "Value": "Alpha (Transparency)"
+    "Value": "Alfa (gjennomsiktighet)"
   },
   "SettingsPage_AppSettings_Border_BlueLabel": {
     "Value": "Blå"
@@ -522,13 +525,16 @@
     "Value": "Koble automatisk til når DualsenseX åpnes"
   },
   "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
-    "Value": "Adjust Motor Strength"
+    "Value": "Juster motorens styrke"
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
-    "Value": "Disable Controller Vibrations"
+    "Value": "Deaktiver kontrollervibrasjoner"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Aktiver HidHide"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "Enable incoming Vibrations while disabled"
+    "Value": "Aktiver innkommende vibrasjoner mens deaktivert"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "Avslutt steam på tilkobling"

@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "Эмулировать Xbox 360"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Эмуляция DualShock 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Без эмуляции"
   },
@@ -527,8 +530,11 @@
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Отключить вибрацию контроллера"
   },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Включить HidHide"
+  },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "Enable incoming Vibrations while disabled"
+    "Value": "Включить входящие вибрации при отключении"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "Закрывать Steam при подключении"

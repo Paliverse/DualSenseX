@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "Emulacija Xbox 360"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Emulacija DualShock 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Nema emulacija"
   },
@@ -527,8 +530,11 @@
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Onemogući Vibracije Kontrolera"
   },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Omogući HidHide"
+  },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "Enable incoming Vibrations while disabled"
+    "Value": "Omogući dolazne vibracije dok je onemogućeno"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "Ugasi Steam pri povezivanju"

@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "Emulando controle de Xbox 360"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Emulando DualShock 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Sem emulação"
   },
@@ -526,6 +529,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Desativar Vibração do Controle"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Ativar HidHide"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
     "Value": "Ativar vibrações enviadas pelo jogo enquanto estiver desativado"

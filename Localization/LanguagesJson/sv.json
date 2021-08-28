@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "Emulerar Xbox 360"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Emulera DualShock 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Emulerar inte"
   },
@@ -527,8 +530,11 @@
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Inaktivera spelkontrollens vibrationer"
   },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Aktivera hidHide"
+  },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "Enable incoming Vibrations while disabled"
+    "Value": "Aktivera inkommande vibrationer medan den är inaktiverad"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "Stäng av Steam vid anslutning"

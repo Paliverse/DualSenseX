@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "模拟 Xbox 360 手柄"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "模拟 dualShock 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "未映射"
   },
@@ -526,6 +529,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "关闭震动"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "启用 HidHide"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
     "Value": "禁用时启用传入的震动"

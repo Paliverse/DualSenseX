@@ -192,7 +192,7 @@
     "Value": "Xbox 360 Emule Ediliyor"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
-    "Value": "Emulating DualShock 4"
+    "Value": "DualShock 4 Emüle Ediliyor"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Emule Edilmiyor"
@@ -531,7 +531,7 @@
     "Value": "Kontrolcü Titreşimlerini Devre Dışı Bırak"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
-    "Value": "Enable HidHide"
+    "Value": "HidHide'ı Etkinleştir"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
     "Value": "Devre dışıyken gelen Titreşimleri etkinleştir"

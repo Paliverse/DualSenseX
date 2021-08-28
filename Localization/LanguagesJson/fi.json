@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "Emuloidaan Xbox 360 -ohjainta"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "DualShock 4 -emulointi"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Emulointi ei käytössä"
   },
@@ -527,8 +530,11 @@
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Poista ohjaimen tärinä käytöstä"
   },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Ota HidHide"
+  },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "Enable incoming Vibrations while disabled"
+    "Value": "Ota käyttöön saapuvat värähtelyt käytöstä poistettuna"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "Sammuta Steam yhdistettäessä"

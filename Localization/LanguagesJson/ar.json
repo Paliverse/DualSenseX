@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "محاكاة XBOX 360"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "محاكاة دوال شوك 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "لا يحاكي"
   },
@@ -291,10 +294,10 @@
     "Value": "الوضع"
   },
   "HomePage_ControllerMode_RandomizeModeAndValues": {
-    "Value": "Randomize Mode + Values"
+    "Value": "وضع عشوائي+قيم"
   },
   "HomePage_ControllerMode_RandomizeValues": {
-    "Value": "Randomize Values"
+    "Value": "قيم عشوائية"
   },
   "HomePage_ControllerMode_VibrationDurationLabel": {
     "Value": "مدة الاهتزاز (ثانية)"
@@ -480,7 +483,7 @@
     "Value": "ضبابي"
   },
   "SettingsPage_AppSettings_CustomBackgroundLabel": {
-    "Value": "Custom Background Image"
+    "Value": "صورة خلفية مخصصة"
   },
   "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
     "Value": "اختر صورة"
@@ -522,13 +525,16 @@
     "Value": "الاتصال التلقائي عند فتح DualSenseX"
   },
   "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
-    "Value": "Adjust Motor Strength"
+    "Value": "ضبط قوة المحرك"
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
-    "Value": "Disable Controller Vibrations"
+    "Value": "تعطيل اهتزازات التحكم"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "تمكين إخفاء إخفاء"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "Enable incoming Vibrations while disabled"
+    "Value": "تمكين الاهتزازات الواردة أثناء التعطيل"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "وقف Steam عند الاتصال"

@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "Émulation Xbox 360"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Emulation DualShock 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Pas entrain d'émuler"
   },
@@ -527,8 +530,11 @@
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Désactiver les vibrations de la manette"
   },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Activer HidHide"
+  },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "Enable incoming Vibrations while disabled"
+    "Value": "Activer les vibrations entrantes lorsque cette option est"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "Fermer Steam sur Connect"

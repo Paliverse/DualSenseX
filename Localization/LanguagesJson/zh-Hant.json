@@ -48,7 +48,7 @@
     "Value": "正在下載更新..."
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
-    "Value": "The DualSense Controller will no longer read as a Dualshock 4 Controller!"
+    "Value": "雙重感應控制器將不再讀為雙衝擊 4 控制器！"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
     "Value": "Dualsense將不再映射為Xbox手柄！"
@@ -191,6 +191,9 @@
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
     "Value": "模擬Xbox 360"
   },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "模擬雙衝擊 4"
+  },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "未映射"
   },
@@ -291,10 +294,10 @@
     "Value": "模式"
   },
   "HomePage_ControllerMode_RandomizeModeAndValues": {
-    "Value": "Randomize Mode + Values"
+    "Value": "隨機模式 + 值"
   },
   "HomePage_ControllerMode_RandomizeValues": {
-    "Value": "Randomize Values"
+    "Value": "隨機化值"
   },
   "HomePage_ControllerMode_VibrationDurationLabel": {
     "Value": "振動持續時間 (秒)"
@@ -465,7 +468,7 @@
     "Value": "邊框顏色"
   },
   "SettingsPage_AppSettings_Border_AlphaLabel": {
-    "Value": "Alpha (Transparency)"
+    "Value": "Alpha (透明度)"
   },
   "SettingsPage_AppSettings_Border_BlueLabel": {
     "Value": "藍色"
@@ -480,7 +483,7 @@
     "Value": "模糊"
   },
   "SettingsPage_AppSettings_CustomBackgroundLabel": {
-    "Value": "Custom Background Image"
+    "Value": "自訂背景影像"
   },
   "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
     "Value": "選定圖案"
@@ -522,13 +525,16 @@
     "Value": "當DualsenseX打開時自動連接"
   },
   "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
-    "Value": "Adjust Motor Strength"
+    "Value": "調整馬達強度"
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
-    "Value": "Disable Controller Vibrations"
+    "Value": "停用控制器震動"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "啟用隱藏"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "Enable incoming Vibrations while disabled"
+    "Value": "停用時啟用傳入震動"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "連接時退出Steam"
