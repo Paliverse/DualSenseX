@@ -237,10 +237,10 @@
     "Value": "LED Mic"
   },
   "HomePage_ControllerLED_MicLED_OffBtn": {
-    "Value": "NONAKTIF"
+    "Value": "Mati"
   },
   "HomePage_ControllerLED_MicLED_OnBtn": {
-    "Value": "AKTIF"
+    "Value": "Nyala"
   },
   "HomePage_ControllerLED_MicLED_PulseBtn": {
     "Value": "Ritmik"
@@ -369,7 +369,7 @@
     "Value": "Pengaturan"
   },
   "MenuSettings_SubmitIssueBtn": {
-    "Value": "Kirimkan Masalah"
+    "Value": "Laporkan"
   },
   "MenuSettings_VisitBtn": {
     "Value": "Kunjungi"
@@ -462,10 +462,10 @@
     "Value": "Ganti Nama"
   },
   "SettingsPage_AppLabel": {
-    "Value": "APL"
+    "Value": "Aplikasi"
   },
   "SettingsPage_AppSettings_BorderColorLabel": {
-    "Value": "Warna Batas"
+    "Value": "Warna Border"
   },
   "SettingsPage_AppSettings_Border_AlphaLabel": {
     "Value": "Alfa (Transparansi)"
@@ -498,7 +498,7 @@
     "Value": "Simpan Aplikasi di baki saat diminimalkan"
   },
   "SettingsPage_AppSettings_Label": {
-    "Value": "Pengaturan Apl"
+    "Value": "Pengaturan Aplikasi"
   },
   "SettingsPage_AppSettings_LanguageLabel": {
     "Value": "Bahasa"
@@ -513,10 +513,10 @@
     "Value": "Latar Belakang"
   },
   "SettingsPage_BackgroundSettings_Label": {
-    "Value": "Pengaturan latar belakang"
+    "Value": "Pengaturan Latar Belakang"
   },
   "SettingsPage_BackgroundSettings_SelectedBtn": {
-    "Value": "Terpilih"
+    "Value": "Dipilih"
   },
   "SettingsPage_ControllerLabel": {
     "Value": "Kontroler"

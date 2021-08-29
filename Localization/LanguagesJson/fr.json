@@ -534,7 +534,7 @@
     "Value": "Activer HidHide"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "Activer les vibrations entrantes lorsque cette option est"
+    "Value": "Activer les vibrations entrantes lorsque cette option est désactivée"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "Fermer Steam sur Connect"
