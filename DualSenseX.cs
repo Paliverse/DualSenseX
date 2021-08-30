@@ -57,6 +57,11 @@ namespace DualSenseX
             * Download the latest `ViGEmBus` drivers from the [ViGEmBus release page](https://github.com/ViGEm/ViGEmBus/releases/latest).  
             * To install, double-click `ViGEmBus_Setup_{version}.exe` and follow the instructions presented.
 
+        * Very important and required get HidHide Driver:
+            * Download the latest `HidHide` drivers from the [HidHide release page](https://github.com/ViGEm/HidHide/releases/latest).  
+            * To install, double-click `HidHideMSI.msi` and follow the instructions presented.
+            * **MAKE SURE YOU REBOOT TO TAKE EFFECT**
+
         Once thats done, you can connect your DualSense Controller by pressing `Connect Controller` in the App.
 
         ## **DualSenseX On Trello**
@@ -274,6 +279,7 @@ namespace DualSenseX
         [![Paypal.me](https://3.bp.blogspot.com/-8ebAKPD8I84/XKGZxo1IG3I/AAAAAAAAQ1M/cWq0ecuHUy0p4z6A56x32Hz2EycZR5mfwCLcBGAs/s1600/paypal_me-copy-300x140.png)](https://www.paypal.com/paypalme/paliverse)
 
         [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L14MUFI)
+
 
     }
 }
