@@ -1,0 +1,554 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "Nume Joc Găsit, dar Locația Fișierului nu"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "Nume Joc nu a fost găsit, dar Locația Fișierului a fost"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "Nu s-au Găsit Parametrii"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "Joc"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Conectat Automat la Controller!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Conectare automată la controller"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Conectat la Controller!"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Conexiune pierdută, Se cauta Controller-ul…"
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "Conexiune pierduta, încercăm reconectarea…"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Nu s-a reușit conectarea automată, vă rugăm să verificați conexiunea!"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Reconexiune eșuată, vă rugăm să verificați conexiunea!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Reconectat la Controller!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Se caută controller-ul…"
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "Sigur doriți să ieșiți?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "Anulare"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "Se descarcă actualizarea…"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "Controller-ul DualSense nu va mai fi citit ca fiind un Controller Dualshock 4!"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "Controller-ul Dualsense nu o să mai fie recunoscut ca unul de Xbox!"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "Ieșire"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "Mai târziu"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "Conectare Controller"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "Descarcă și Instalează Driverele"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "Se Descarcă și Instalează Driver…"
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "Vă rugăm să urmați instrucțiunile ViGEmBus prezentate"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "După ce ați terminat de instalat driver-ul, puteți să vă Conectați la Controler."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "Ups!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "Se pare că nu aveți Driverele ViGEmBus instalate"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "Actualizare disponibilă"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "Doriți să o instalați?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "Versiune curentă"
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "Se descarcă actualizarea…"
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "Extragere Actualizare…"
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "Preluare Actualizare…"
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "Se instalează actualizarea…"
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "Vă rugăm sa Reporniți Aplicația pentru a aplica această Actualizare"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "Repornire"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "Actualizarea a fost instalată"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "Actualizare Versiune: "
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "Da"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "Nivel baterie:"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "Tipul de conexiune:"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "Conectat"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "Neconectat"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "Joystick Stânga"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "Joystick Dreapta"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Folosiți Butoane Xbox"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "Se încarcă Imagine..."
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "Se Preluează Lista de Jocuri…"
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "Nici-un Joc Adăugat"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "Verifică din nou mai târziu!"
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "Vă Rugăm Așteptați"
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "TAG-URI"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "Vezi Joc"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "JOCURI"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Caută joc după Nume sau Tag"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Aplicați Modul"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Aplică"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Ambele Triggers/Motor"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Trigger Stânga/Motor"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Trigger Dreapta/Motor"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "Stare Conexiune"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Conectare Controller"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "Emulare Controller:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Se emulează Xbox 360"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Emulez Dualshock 4"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "Nu se Emuleaza"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Se conectează automat la Controller…"
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Se conectează…"
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Conexiune pierdută, se încearcă reconexiunea…"
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Controller Conectat"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Conexiune eșuata, vă rugăm să verificați conexiunea!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Se caută Controller-ul…"
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Se Închide Aplicația…"
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "LED Controller"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Luminozitate"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Modul Color"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Curcubeu"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Culoare statică"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "LED Microfon"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "DEZACTIVAT"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "ACTIVAT"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "PULS"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "LED Jucător"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "Toate DEZACTIVATE"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "Toate ACTIVATE"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Cinci"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Patru"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "Ridicat"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Scăzut"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "Mediu"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "Unu"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Trei"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "Doi"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Viteză Curcubeu"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "LED Touchpad"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Mod Controller"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Intensitate"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "Mod"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Mod Randomizare + Valori"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Randomizare Valori"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Durația Vibrației (Sec)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Joc"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Fișier Text"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "Locație Fișier:"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Selectează locația fișierului Text"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Activ"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Stare:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Activ - Nu s-au găsit valori potrivite Trigger-ului in fișierul text"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Inactiv - Fișierul selectat nu există!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Inactiv"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Inactiv - Niciun fișier selectat!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Inactiv - Acesta nu este un fișier Text, vă rugăm să încercați din nou!"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Încetează din a citi fișierul Text"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "Crash-uri Sau Bugs?"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "Alătură-te comunității pe Discord"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "Mai multe informații pe GitHub"
+  },
+  "MenuGames_Label": {
+    "Value": "Jocuri"
+  },
+  "MenuHome_Label": {
+    "Value": "Acasă"
+  },
+  "MenuInfo_Label": {
+    "Value": "Informații"
+  },
+  "MenuInput_Label": {
+    "Value": "Controller"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "Alătură-te"
+  },
+  "MenuSettings_Label": {
+    "Value": "Setări"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "Trimite problema"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "Vizita"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "Selectați din dropdown sau apăsați o tastă de pe tastatură"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "în timp ce dropdown-ul este selectat"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "Salvare Configurație"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "Creează profil"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "Șterge"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "Începeți prin crearea unui Profil Nou"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "Anulare"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "Salvare Profil Nou"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "Nici-un Profil Adăugat"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "Întârzierea nu poate fi negativă"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "Întârzierea nu poate fi goală"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "Întarziere Actualizată"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "Profil Creat"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "Profilul există deja"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "Nume Profil nu poate fi gol"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "Nume Profil Actualizată"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "PROFILE"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "Profilele Tale vor apărea aici"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "Întârziere (Milisecunde)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "Detalii"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "Editare Configurație"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "Introduceți Nume Profil"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "Nume profil"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "Stare: Profil Activ"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "Stare: Profil Inactiv"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "Începe"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "Opriți"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "Întârzierea actualizărilor"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "Actualizează numele"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "Aplicație"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "Culoarea chenarului"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "Alpha (Transparență)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "Albastru"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "Verde"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "Roșu"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "Estompează"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Imagine de fundal personalizată"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "Selectați o imagine"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "Limuzină"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "Mod întunecat"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "Ține Aplicația in tray când este minimizată"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "Setările aplicației"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "Limbă"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "Pornește Minimizat"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "Pornește DualSenseX în Windows Startup"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "Fundal"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "Setări fundal"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "Selectat"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "Controller"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "Conectare Automată când pornește DualSenseX"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Ajustare Putere Motor"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Dezactivează Vibrațiile Controller-ului"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Activează HidHide"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Activarea Vibrațiilor primite în timp ce sunt dezactivate"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "Oprește Steam la Conectare"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "Setări Controller"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "Rulează Spectacol de Lumini la Conectare"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "Previzualizare Spectacol de Lumini"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "Caută până se Conectează Controller-ul"
+  }
+}
