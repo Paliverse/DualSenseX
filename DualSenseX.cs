@@ -8,7 +8,6 @@ namespace DualSenseX
 {
     class DualSenseX
     {
-        /*
         <h1 align="center">DualSenseX</h1>
         <h3 align="center"></h3>
         </p>
@@ -276,6 +275,5 @@ namespace DualSenseX
 
         [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L14MUFI)
 
-        */
     }
 }
