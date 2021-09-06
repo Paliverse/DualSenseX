@@ -21,6 +21,7 @@
 <h1 align="center"></h1>
 </p>
 
+## About App
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
 Emulate with the following while also getting the functionality of a DualSense Controller:
@@ -54,10 +55,6 @@ To use DualSenseX,
 
 Once thats done, you can connect your DualSense Controller by pressing `Connect Controller` in the App.
 
-## **DualSenseX On Trello**
-<h5/>To-Do's, Things being worked on, what's been implemented and more!</h5>
-<a href="https://trello.com/b/mDUMw1sN" alt="Contributors">
-  <img src="https://img.shields.io/badge/Trello-5C2D91?style=for-the-badge&logoColor=white&logo=Trello" /></a>
  
 ## **Features:**
 - Self updating App, we will always strive to make the experience easy and hassle free
@@ -74,12 +71,17 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - Custom Border RGB Color with Transparency options
 
 ## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
-[![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner2)](https://discord.gg/PUThpCFByn)
+[![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner4)](https://discord.gg/PUThpCFByn)
 - Report Issues
 - Report Bugs
 - Get support
 - Ask questions regarding the App and more!
 
+## **DualSenseX On Trello**
+<h5/>To-Do's, Things being worked on, what's been implemented and more!</h5>
+<a href="https://trello.com/b/mDUMw1sN" alt="Contributors">
+  <img src="https://img.shields.io/badge/Trello-5C2D91?style=for-the-badge&logoColor=white&logo=Trello" /></a>
+  
 ## **For Translators**
 
 Want to contribute in trasnlating the app? Click below:
@@ -93,20 +95,13 @@ Want to contribute in trasnlating the app? Click below:
 ## **Reviews:**
 [**AJ Bants YouTube Channel**](https://www.youtube.com/channel/UCTofyjsFVYEXwcNvzwiTWyw)
 
-[![Alt text](https://img.youtube.com/vi/qQVvUA7NJz4/0.jpg)](https://www.youtube.com/watch?v=qQVvUA7NJz4)
+[![Alt text](https://img.youtube.com/vi/qQVvUA7NJz4/maxresdefault.jpg)](https://www.youtube.com/watch?v=qQVvUA7NJz4)
 
 # **Game Demo**
 ### [**View on Itch.io**](https://paliverse.itch.io/dualsensex-game-demo)
 ### [**Watch Video on YouTube**](https://www.youtube.com/watch?v=VQABnviCeRw)
 
 ![Screenshot 2021-05-12 205945](https://img.itch.zone/aW1nLzYwMTU0NzcucG5n/original/KQkDLv.png)
-
-## **TO-DO:**
-- [X] Finish Sense2Key Tab 
-- [X] Finish Games Tab 
-- [X] Support for more languages
-- [X] Add support for DualShock 4 Controller
-- [ ] Support for multiple Controllers
 
 # **For Game Devs**
 
