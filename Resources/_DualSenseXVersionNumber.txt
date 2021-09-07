@@ -1,4 +1,4 @@
-(1.3.5)
-● Added a warning for HidHide Driver Missing
-● Reduced CPU Usage when reading Controller Input
-● Added a manual Check For Updates button in settings
+(1.3.6)
+● Added TouchPad support for DualShock 4 Emulation
+● Fixed issue with HidHide not working if Controller disconnects
+● Improved initial setup when theres no internet connection
