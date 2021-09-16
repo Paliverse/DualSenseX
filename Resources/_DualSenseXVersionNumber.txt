@@ -13,5 +13,7 @@ for any change, carries over to the new triggers.
 ● Fixed a bug with HidHide saying it's not installed when it is
 ● Fixed bug where an adaptive trigger kicks in when first connected
 ● Error handling reading Text File for CustomTriggerValue Mode
+● Overylay can now be tested in Controller Tab, please keep in mind
+this is in development stages. Shows only basic info
 
 Remembering last active Trigger will be done in next update.
