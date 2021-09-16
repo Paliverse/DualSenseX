@@ -14,4 +14,4 @@ for any change, carries over to the new triggers.
 ● Fixed bug where an adaptive trigger kicks in when first connected
 ● Error handling reading Text File for CustomTriggerValue Mode
 
-* Remmembering last active Trigger will be done in next update.
+Remembering last active Trigger will be done in next update.
