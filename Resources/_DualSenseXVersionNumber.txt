@@ -1,19 +1,6 @@
-(1.3.7)
-● Introducing 6 new Adaptive Trigger Modes with their own slider
-customization: Resistance, Bow, Galloping, Semi Automatic Gun, 
-Automatic Gun, and finally Machine. Thank you, @Nielk1
-Working with text files as well
-● Displaying Touchpad Swipes visually in Controller Tab
-● Displaying connecction type in Connection Status
-● Support for finding DualSenseX exe location for batch files
-● Improved battery reading for a more accurate result USB + BT
-● Fixed CustomTriggerValue Mode applying to both triggers
-instead of individually in Controller Mode, must hit Apply button
-for any change, carries over to the new triggers.
-● Fixed a bug with HidHide saying it's not installed when it is
-● Fixed bug where an adaptive trigger kicks in when first connected
-● Error handling reading Text File for CustomTriggerValue Mode
-● Overylay can now be tested in Controller Tab, please keep in mind
-this is in development stages. Shows only basic info
-
-Remembering last active Trigger will be done in next update.
+(1.3.8)
+● Added Custom option for Player LED to toggle them individually
+● Fixed issue with triggers not being applied if Disable Vibrations
+is toggled ON for USB
+● Fixed an important issue when updating the app, controller is no longer
+recognized
