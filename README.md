@@ -262,7 +262,7 @@ RightTrigger=Machine
 ForceLeftTrigger=(0)(9)(7)(7)(10)(0.0)
 ```
 ___________________
-### **CustomTriggerValue State for right Trigger and GameCube for left Trigger:**
+### **AutomaticGun State for right Trigger and GameCube for left Trigger:**
 ```
 LeftTrigger=GameCube
 RightTrigger=AutomaticGun
