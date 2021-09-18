@@ -122,17 +122,22 @@ There are a few things this App will look for when reading this text file to app
 
 - `CustomTriggerValueRightMode=`⠀⠀⠀⠀* CustomTriggerValue Required to use this *
 
-- `ForceLeftTrigger=(0)(0)(0)(0)(0)(0)(0)` 
-  * 7 different values that goes into each parentheses 0-255  | CustomTriggerValue Required to use this
+- `ForceLeftTrigger=` 
 
-- `ForceRightTrigger=(0)(0)(0)(0)(0)(0)(0)` 
-  * 7 different values that goes into each parentheses 0-255  | CustomTriggerValue Required to use this
+- `ForceRightTrigger=` 
 
-For the LeftTrigger= and RightTrigger=, there are 13 different state possibilites that you can set which are **CASE SENSITIVE**:
+---
+For the `LeftTrigger=` and `RightTrigger=`, there are 19 different state possibilites that you can set which are **CASE SENSITIVE**:
 
 - `Normal`
 - `CustomTriggerValue`
 - `GameCube`
+- `Resistance`
+- `Bow`
+- `Galloping`
+- `SemiAutomaticGun`
+- `AutomaticGun`
+- `Machine`
 - `Choppy`
 - `VerySoft`
 - `Soft`
@@ -143,7 +148,35 @@ For the LeftTrigger= and RightTrigger=, there are 13 different state possibilite
 - `Rigid`
 - `VibrateTriggerPulse`
 - `VibrateTrigger`
+---
+for `ForceLeftTrigger=` and `ForceRightTrigger=`
+  * When using CustomTriggerValue there are 7 different values that goes into each parentheses 0-255
+    * Example: ForceLeftTrigger=(0)(0)(0)(0)(0)(0)(0) or ForceRightTrigger=(0)(0)(0)(0)(0)(0)(0)
+  
+  * When using Resistance there are 2 different values that goes into each parentheses.
+    * `First: 0-9` `Second: 0-8`
+    * Example: ForceLeftTrigger=(0)(0) or ForceRightTrigger=(0)(0)
 
+  * When using Bow there are 4 different values that goes into each parentheses.
+    * `First: 0-8` `Second: 0-8` `Third: 0-8` `Fourth: 0-8`
+    * Example: ForceLeftTrigger=(0)(0)(0)(0) or ForceRightTrigger=(0)(0)(0)(0)
+
+  * When using Galloping there are 5 different values that goes into each parentheses.
+    * `First: 0-8` `Second: 0-9` `Third: 0-6` `Fourth: 0-7` `Fifth: 0-255 NOT recomended to go over 40`
+    * Example: ForceLeftTrigger=(0)(0)(0)(0)(0) or ForceRightTrigger=(0)(0)(0)(0)(0)
+
+  * When using SemiAutomaticGun there are 4 different values that goes into each parentheses.
+    * `First: 0-7` `Second: 0-8` `Third: 0-8`
+    * Example: ForceLeftTrigger=(0)(0)(0) or ForceRightTrigger=(0)(0)(0)
+
+  * When using AutomaticGun there are 4 different values that goes into each parentheses.
+    * `First: 0-9` `Second: 0-8` `Third: 0-255 NOT recomended to go over 40`
+    * Example: ForceLeftTrigger=(0)(0)(0) or ForceRightTrigger=(0)(0)(0)
+
+  * When using Machine there are 6 different values that goes into each parentheses.
+    * `First: 0-8` `Second: 0-9` `Third: 0-7` `Fourth: 0-7` `Fifth: 0-255 NOT recomended to go over 40` `Sixth: 0-2 in Decimals, example: 0.1, 0.8, 1.0, 1.8, 2.0 etc..`
+    * Example: ForceLeftTrigger=(0)(0)(0)(0)(0)(0) or ForceRightTrigger=(0)(0)(0)(0)(0)(0)
+---
 When using CustomTriggerValue, there are 17 different mode possibilites that are **CASE SENSITIVE** you can apply for:
 
 CustomTriggerValueLeftMode= 
@@ -215,6 +248,25 @@ RightTrigger=VibrateTrigger
 VibrateTriggerIntensity= 10
 CustomTriggerValueLeftMode=Rigid A
 ForceLeftTrigger=(10)(255)(0)(0)(0)(0)(0)
+```
+___________________
+### **Resistance State for Right Trigger :**
+```
+RightTrigger=Resistance
+ForceRightTrigger=(0)(8)
+```
+___________________
+### **Machine State for Left Trigger :**
+```
+RightTrigger=Machine
+ForceLeftTrigger=(0)(9)(7)(7)(10)(0.0)
+```
+___________________
+### **CustomTriggerValue State for right Trigger and GameCube for left Trigger:**
+```
+LeftTrigger=GameCube
+RightTrigger=AutomaticGun
+ForceRightTrigger=(0)(8)(15)
 ```
 ___________________
 
