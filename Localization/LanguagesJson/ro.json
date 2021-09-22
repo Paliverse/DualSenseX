@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Toate ACTIVATE"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Personalizat"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Cinci"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Șterge"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Exportează profilul"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Începeți prin crearea unui Profil Nou"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Incarcă profil"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Anulare"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Controller"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Sistemul controller-ului audio (DOAR PE CONEXIUNE USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Căști"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Volum căsti"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Difuzor intern"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Volum microfon"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Tipul ieșirii audio"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Difuzor intern si casti in acelasi timp"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Volum difuzor"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Conectare Automată când pornește DualSenseX"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Setări Controller"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Încărcați ultimul trăgaci activ la start"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Rulează Spectacol de Lumini la Conectare"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Apăsați butoanele Mic + DPAD SUS pentru a deschide bara de jocuri Xbox"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Previzualizare Spectacol de Lumini"
