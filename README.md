@@ -70,6 +70,7 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - Change between different hand selected backgrounds for the App
 - Dark and Light Mode
 - Custom Border RGB Color with Transparency options
+- and many more...
 
 ## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
 [![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner4)](https://discord.gg/PUThpCFByn)
