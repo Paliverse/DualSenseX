@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "كلها مفعلة"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "مخصص"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "خمسة"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "حذف"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "ملف تعريف التصدير"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "ابدأ بإنشاء ملف شخصي جديد"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "ملف تعريف الاستيراد"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "إلغاء"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "متحكم"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "نظام صوت وحدة التحكم (USB فقط)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "سماعة الرأس"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "حجم سماعة الرأس"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "مكبر صوت داخلي"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "حجم الميكروفون"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "وضع إخراج الصوت"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "سماعة الرأس ومكبر الصوت الداخلي"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "حجم مكبر الصوت"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "الاتصال التلقائي عند فتح DualSenseX"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "إعدادات وحدة التحكم"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "تحميل آخر مشغل نشط عند البدء"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "تشغيل عرض ضوئي عن الاتصال"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "اضغط على أزرار الميكروفون + UP لفتح شريط ألعاب Xbox"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "معاينة العرض الضوئي"
