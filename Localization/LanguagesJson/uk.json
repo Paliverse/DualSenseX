@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Увімкнути всі"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Custom"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "П'ять"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Видалити"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Export Profile"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Розпочніть створення нового профілю"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Import Profile"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Скасувати"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "контролер"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Controller Audio System (USB ONLY)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Headset"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Headset Volume"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Internal Speaker"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Mic Volume"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Audio Output Mode"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Both Headset and Internal Speaker"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Speaker Volume"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Автоматичне підключення під час відкриття Dualsensex"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Параметри контролеру"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Load last active trigger on start"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Влаштувати шоу при з' єднанні"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Press Mic + UP buttons to open Xbox Game Bar"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Попередній перегляд Шоу"
