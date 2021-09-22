@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Slå alle TIL\n"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Personlig"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Fem"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Slet"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Eksportér profil"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Kom i gang ved at oprette en ny profil"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Importér profil"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Annuller"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Controller"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Controller lydsystem (KUN USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Hovedtelefoner"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Headset lydstyrke"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Intern højttaler"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Mikrofon lydstyrke"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Lydudgangstilstand"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Både headset og intern højttaler"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Højttalerlydstyrke"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Tilslut automatisk, når DualSenseX starter"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Indstillinger for controller"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Indlæs sidste aktive udløser ved start"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Afspil et lys show ved oprettelse af forbindelse "
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Tryk på Mic + OP-knapper for at åbne Xbox Game Bar"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Eksempel lysshow"
