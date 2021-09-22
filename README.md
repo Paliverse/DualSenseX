@@ -59,6 +59,7 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 ## **Features:**
 - Self updating App, we will always strive to make the experience easy and hassle free
 - Launch App with Windows Startup
+- Speaker/Headphone Jack audio (USB ONLY)
 - Test out the controller to make sure all the buttons and joysticks function as inteded
 - Get Battery life status of controller (Connecting throught USB cable will show 100% needs to be tweaked)
 - Configure Controller LED to your liking
