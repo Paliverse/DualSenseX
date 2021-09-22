@@ -255,7 +255,7 @@
     "Value": "Все включены"
   },
   "HomePage_ControllerLED_PlayerLED_CustomBtn": {
-    "Value": "Custom"
+    "Value": "Пользовательский"
   },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Пять"
@@ -393,13 +393,13 @@
     "Value": "Удалить"
   },
   "Sense2Key_ExportProfileBtn": {
-    "Value": "Export Profile"
+    "Value": "Экспортировать профиль"
   },
   "Sense2Key_GetStartedLabel": {
     "Value": "Начните с создания нового профиля"
   },
   "Sense2Key_ImportProfileBtn": {
-    "Value": "Import Profile"
+    "Value": "Импортировать профиль"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Отменить"
@@ -531,28 +531,28 @@
     "Value": "Контроллер"
   },
   "SettingsPage_ControllerSettings_AudioSystem": {
-    "Value": "Controller Audio System (USB ONLY)"
+    "Value": "Аудиосистема контроллера (ТОЛЬКО USB)"
   },
   "SettingsPage_ControllerSettings_AudioSystem_Headset": {
-    "Value": "Headset"
+    "Value": "Наушники"
   },
   "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
-    "Value": "Headset Volume"
+    "Value": "Громкость гарнитуры"
   },
   "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
-    "Value": "Internal Speaker"
+    "Value": "Внутренний динамик"
   },
   "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
-    "Value": "Mic Volume"
+    "Value": "громкость микрофона"
   },
   "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
-    "Value": "Audio Output Mode"
+    "Value": "Режим вывода звука"
   },
   "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
-    "Value": "Both Headset and Internal Speaker"
+    "Value": "Гарнитура и внутренний динамик"
   },
   "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
-    "Value": "Speaker Volume"
+    "Value": "Громкость динамика"
   },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Автоматическое подключение при открытии DualSenseX"
@@ -576,13 +576,13 @@
     "Value": "Настройки контроллера"
   },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
-    "Value": "Load last active trigger on start"
+    "Value": "Загрузка последнего активного триггера при запуске"
   },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Устроить шоу при подключении"
   },
   "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
-    "Value": "Press Mic + UP buttons to open Xbox Game Bar"
+    "Value": "Нажмите кнопки Mic + UP, чтобы открыть игровую панель Xbox"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Предварительный просмотр светового шоу"
