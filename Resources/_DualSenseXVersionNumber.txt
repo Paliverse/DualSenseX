@@ -1,6 +1,8 @@
-(1.3.8)
-● Added Custom option for Player LED to toggle them individually
-● Fixed issue with triggers not being applied if Disable Vibrations
-is toggled ON for USB
-● Fixed an important issue when updating the app, controller is no longer
-recognized
+(1.3.9)
+● Added Audio Settings for controller: enable Speaker, Headset,
+or both. Change Speaker, Headset, or Mic Volume, which still works 
+with Haptic Feedback through Voicemeeter. Thanks, @Nielk1
+● Added option to enable Xbox Game Bar by pressing MIC + UP
+● Added option to remember last active Trigger and load it on 
+start, Choose which Trigger you want, then hit apply to save
+● Fixed text file reading for the new Adaptive Trigger Modes
