@@ -255,7 +255,7 @@
     "Value": "Alles AN"
   },
   "HomePage_ControllerLED_PlayerLED_CustomBtn": {
-    "Value": "Custom"
+    "Value": "Benutzerdefiniert"
   },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Fünf"
@@ -393,13 +393,13 @@
     "Value": "Löschen"
   },
   "Sense2Key_ExportProfileBtn": {
-    "Value": "Export Profile"
+    "Value": "Profil exportieren"
   },
   "Sense2Key_GetStartedLabel": {
     "Value": "Beginnen Sie mit der Erstellung eines neuen Profils"
   },
   "Sense2Key_ImportProfileBtn": {
-    "Value": "Import Profile"
+    "Value": "Profil importieren"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Abbrechen"
@@ -531,28 +531,28 @@
     "Value": "Controller"
   },
   "SettingsPage_ControllerSettings_AudioSystem": {
-    "Value": "Controller Audio System (USB ONLY)"
+    "Value": "Controller- Audiolautsprecher (USB)"
   },
   "SettingsPage_ControllerSettings_AudioSystem_Headset": {
     "Value": "Headset"
   },
   "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
-    "Value": "Headset Volume"
+    "Value": "Lautstärke des Headsets"
   },
   "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
-    "Value": "Internal Speaker"
+    "Value": "Interner Lautsprecher"
   },
   "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
-    "Value": "Mic Volume"
+    "Value": "Mic Lautstärke"
   },
   "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
-    "Value": "Audio Output Mode"
+    "Value": "Audio-Ausgabemodus"
   },
   "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
-    "Value": "Both Headset and Internal Speaker"
+    "Value": "Sowohl Headset als auch interner Lautsprecher"
   },
   "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
-    "Value": "Speaker Volume"
+    "Value": "Lautsprecher-Lautstärke"
   },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Automatisch verbinden, wenn DualSenseX geöffnet wird"
@@ -576,13 +576,13 @@
     "Value": "Controller-Einstellungen"
   },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
-    "Value": "Load last active trigger on start"
+    "Value": "Laden Sie den letzten aktiven Trigger beim Start"
   },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Spielt eine Lichtshow beim verbinden"
   },
   "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
-    "Value": "Press Mic + UP buttons to open Xbox Game Bar"
+    "Value": "Drücken Sie die Tasten Mic + UP, um die Xbox Game Bar zu öffnen"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Vorschau Lichtshow"
