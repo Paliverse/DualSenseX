@@ -20,3 +20,4 @@
 (uk)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/uk.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/uk.json)
 (id)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/id.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/id.json)
 (th)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/th.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/th.json)
+(ro)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/ro.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/ro.json)
