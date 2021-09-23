@@ -5,4 +5,4 @@
 ● Fixed bugs for text file for Machine and Bow Triggers
 ● Fixed loading last active trigger not being set individually
 please reapply them to save
-● Minor bug fixes and improvments
+● Minor bug fixes and improvements
