@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Aktifkan semua"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Kustom"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Lima"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Hapus"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Ekspor Profil"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Memulai dengan membuat Profil baru"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Impor Profil"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Batalkan"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Kontroler"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Sistem Audio Kontroler (HANYA USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Headset"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Volume Headset"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Speaker Internal"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Volume Mic"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Mode Output Suara"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Headset dan Speaker Internal"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Volume Speaker"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Hubungkan Otomatis saat DualSenseX Dibuka"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Pengaturan Kontroler"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Muat pemicu aktif terakhir saat memulai"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Mainkan Lightshow saat terhubung"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Tekan tombol Mic + Atas untuk membuka Xbox Game Bar"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Pratinjau Lightshow"

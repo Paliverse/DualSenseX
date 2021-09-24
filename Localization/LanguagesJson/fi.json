@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Kaikki PÄÄLLÄ"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Mukautettu"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Viisi"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Poista"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Vie profiili"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Aloita luomalla uusi profiili"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Tuo profiili"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Peruuta"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Ohjain"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Ohjaimen audiojärjestelmä (VAIN USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "kuulokkeet"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Kuulokkeiden äänenvoima"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Sisäinen kaiutin"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Mikrofonin tilavuus"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Äänilähtötila"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Sekä kuulokkeet että sisäinen kaiutin"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Kaiuttimen tilavuus"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Yhdistä automaattisesti, kun DualSenseX käynnistyy"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Ohjaimen asetukset"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Lataa viimeinen aktiivinen käynnistin käynnistyksen aikana"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Näytä valoshow yhdistettäessä"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Avaa Xbox-pelipalkki painamalla Mic + UP -painikkeita"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Esikatsele valoshow"

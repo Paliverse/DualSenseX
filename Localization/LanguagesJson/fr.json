@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Tout activer"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Personnalisé"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Cinq"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Supprimer"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Profil d'exportation"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Commencer par créer un nouveau profil"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Profil d'importation"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Annuler"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Manette"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Système audio du contrôleur (USB UNIQUEMENT)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Casque"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Volume du casque"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Haut-parleur interne"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Volume du micro"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Mode de sortie audio"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Casque et haut-parleur interne"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Volume des haut-parleurs"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Connexion automatique lorsque DualSensex s'ouvre"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Paramètres du contrôleur"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Charger le dernier déclencheur actif au démarrage"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Jouer à Lightshow quand connecté"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Appuyez sur les boutons Micro + UP pour ouvrir la Xbox Game Bar"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Aperçu de Lightshow"

@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Alt på"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Egendefinert"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Fem"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Slett"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Eksporter profil"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Kom i gang ved å opprette en ny profil"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Importer profil"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Avbryt"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Kontroller"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Lydsystem for kontroller (kun USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Hodetelefoner"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Volume for"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Intern høyttalere"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Mik-volum"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Lydutgangsmodus"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Både hodetelefoner og intern høyttaler"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Høyttalervolum"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Koble automatisk til når DualsenseX åpnes"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Innstillinger for kontroller"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Last inn siste aktive utløser ved start"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Spill lysshow på tilkobling"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Trykk på Mic + UP-knappen for å åpne Xbox Game Bar"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Forhåndsvis lysshow"

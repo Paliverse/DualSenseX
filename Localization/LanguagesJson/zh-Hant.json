@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "全開"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "自訂"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "五"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "刪除"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "匯出設定檔"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "開始創建新的配置"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "匯入設定檔"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "取消"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "控制器"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "控制器音訊系統 (僅限 USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "耳機"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "耳機音量"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "內接喇叭"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "麥克風音量"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "音訊輸出模式"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "耳機與內接揚聲器"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "音響音量"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "當DualsenseX打開時自動連接"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "控制器設定"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "啟動時載入最後一個啟動觸發器"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "連接時播放動畫"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "按下 [麥克風 + UP] 按鈕開啟 Xbox 遊戲列"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "預覽動畫"

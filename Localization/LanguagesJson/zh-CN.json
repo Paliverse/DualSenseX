@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "全部打开"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "自定义"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "五"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "删除"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "导出资料"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "开始创建新的配置"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "导入资料"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "取消"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "手柄"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "控制器音频系统（仅 USB）"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "耳机"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "耳机音量"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "内置扬声器"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "麦克风音量"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "音频输出模式"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "耳机和内置扬声器"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "扬声器音量"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "DualsenSex 打开时自动连接"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "手柄设置"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "启动时加载上一个活动触发器"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "连接灯光动画"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "按麦克风 + 向上按钮打开 Xbox 游戏栏"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "预览灯光动画"

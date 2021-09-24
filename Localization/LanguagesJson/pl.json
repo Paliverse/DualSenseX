@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Włącz wszsytkich"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Niestandardowy"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Pięć"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Usuń"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Eksportuj profil"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Rozpocznij tworzenie nowego profilu"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Importuj profil"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Anuluj"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Kontroler"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "System audio kontrolera (TYLKO USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Słuchawki"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "głośność zestawu słuchawkowego"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Głośnik wewnętrzny"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Pojemność mikrofonu"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Tryb wyjścia audio"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Zarówno zestaw słuchawkowy, jak i głośnik wewnętrzny"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Głośność głośników"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Automatyczne łączenie z kontrolerem po otwarciu DualSenseX"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Ustawienia kontrolera"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Załaduj ostatni aktywny spust przy starcie"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Wyświetl pokaz świateł przy połączeniu"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Naciśnij przyciski Mic + UP, aby otworzyć pasek gier Xbox"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Podgląd pokazu świateł"

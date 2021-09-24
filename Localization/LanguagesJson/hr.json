@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Sve ON"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Prilagođeno"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Pet"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Izbriši"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Izvezi profil"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Početak rada stvaranjem novog profila"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Uvoz profila"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Odustani"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "kontrolor"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Audio sustav kontrolera (samo USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Slušalice"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Glasnoća slušalica"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Unutarnji zvučnik"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Glasnoća mikrofona"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Način rada audioizlaza"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Obje slušalice i unutarnji zvučnik"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Glasnoća zvučnika: %d%%"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Automatsko povezivanje kada se DualsenseX otvori"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Postavke kontrolera"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Učitaj zadnji aktivni okidač na početku"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Reproduciraj Lightshow u trenutku povezivanja"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Pritisnite tipke Mic + UP da biste otvorili traku za igru Xbox"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Pokreni Lightshow"

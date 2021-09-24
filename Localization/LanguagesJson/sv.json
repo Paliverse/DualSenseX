@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Alla PÅ"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Anpassad"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Fem"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Radera"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Exportera profil"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Kom igång genom att skapa en ny profil"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Importera profil"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Avbryt"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Spelkontroll"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Ljudsystem för handkontroll (endast USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Hörlurar"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Volym för headset"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Intern högtalare"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Mic Volym"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Läge för ljudutgång"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Både headset och intern högtalare"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Volym för högtalare"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Anslut automatiskt när DualSenseX öppnas"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Inställningar för spelkontroll"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Ladda senaste aktiva utlösaren vid start"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Visa ljusshow vid anslutning"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Tryck på Mic + UP-knapparna för att öppna Xbox Game Bar"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Förhandsgranska ljusshow"

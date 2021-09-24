@@ -9,7 +9,7 @@
     "Value": "Parametre Bulunamadı"
   },
   "AppCommandArgs_Playing": {
-    "Value": "Oynatılıyor:"
+    "Value": "Oyunda:"
   },
   "AppNotificationLabel_AutoConnectedToController": {
     "Value": "Kontrolcüye otomatik olarak bağlanıldı!"
@@ -48,10 +48,10 @@
     "Value": "Güncelleme İndiriliyor..."
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
-    "Value": "DualSense Kontrolcü'sü artık Dualshock 4 Kontrolcü'sü olarak görünmeyecek!"
+    "Value": "DualSense Oyun Kumandası artık DualShock 4 Oyun Kumandası olarak görünmeyecek!"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
-    "Value": "DualSense Oyun Kumandası artık Xbox Oyun Kumandası olarak okunmayacak!"
+    "Value": "DualSense Oyun Kumandası artık Xbox Oyun Kumandası olarak görünmeyecek!"
   },
   "AppNotificationPopUp_Exit": {
     "Value": "Çıkış"
@@ -72,7 +72,7 @@
     "Value": "Lütfen sunulan ViGEmBus talimatlarını takip edin"
   },
   "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
-    "Value": "Sürücüyü yüklemeyi tamamladıktan sonra Kontrolcü'nüze Bağlanabilirsiniz."
+    "Value": "Sürücüyü yüklemeyi tamamladıktan sonra Oyun Kumandanızı bağlayabilirsiniz."
   },
   "AppNotificationPopUp_MissingDriver_Uh-oh": {
     "Value": "Eyvah!"
@@ -96,7 +96,7 @@
     "Value": "Güncelleme Ayıklanıyor..."
   },
   "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
-    "Value": "Güncelleme alınıyor..."
+    "Value": "Güncelleme Alınıyor..."
   },
   "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
     "Value": "Güncelleştirme Yükleniyor..."
@@ -135,7 +135,7 @@
     "Value": "Sağ Joystick"
   },
   "ControllerPage_UseXboxLabels": {
-    "Value": "Xbox İkonlarını Kullan"
+    "Value": "Xbox Etiketlerini Kullan"
   },
   "GamsPage_GameImageLoadingLabel": {
     "Value": "Görüntü yükleniyor..."
@@ -253,6 +253,9 @@
   },
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Tümü AÇIK"
+  },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Özel"
   },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Beş"
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Sil"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Profil Dışa"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Yeni bir Profil oluşturarak başlayın"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Profil İçeriye"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "İptal"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Kontrolcü"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Denetleyici Ses Sistemi (SADECE USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Kulaklık"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Kulaklık Ses"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Dahili Hoparlör"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Mikrofon Hacmi"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Ses Çıkış Modu"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Hem Kulaklık hem de Dahili Hoparlör"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Hoparlör sesi seviyesi"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "DualSenseX Açıldığında Otomatik Bağlan"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Kontrolcü Ayarları"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Başlangıçtaki son etkin tetikleyiciyi yükle"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Bağlantıda Işık Yansın"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Xbox Oyun Çubuğu'nu açmak için Mikrofon+UP düğmelerine basın"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Işıklı Gösteriyi Önizle"

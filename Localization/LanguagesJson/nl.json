@@ -254,6 +254,9 @@
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
     "Value": "Allemaal aan"
   },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "Aangepast"
+  },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Vijf"
   },
@@ -389,8 +392,14 @@
   "Sense2Key_DeleteProfileBtn": {
     "Value": "Verwijderen"
   },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Profiel exporteren"
+  },
   "Sense2Key_GetStartedLabel": {
     "Value": "Ga van start door het maken van een nieuw Profiel"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Profiel importeren"
   },
   "Sense2Key_NewProfile_CancelBtn": {
     "Value": "Annuleren"
@@ -521,6 +530,30 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Beheerder"
   },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Controller Audiosysteem (ALLEEN USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "koptelefoon"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Volume headset"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Interne luidspreker"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Microfoonvolume"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Audio-uitvoermodus"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Zowel headset als interne luidspreker"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Speakervolume: %d%%"
+  },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
     "Value": "Auto Connect bij Start"
   },
@@ -542,8 +575,14 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Controller Instellingen"
   },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Laad de laatste actieve trigger bij het starten"
+  },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "LED Reactie bij Connectie"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Druk op de Mic +UP knoppen om de Xbox Game Bar te openen"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Preview Licht Respons"
