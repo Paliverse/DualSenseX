@@ -20,7 +20,7 @@
 
 <h1 align="center"></h1>
 </p>
-
+ㅤ
 </p>
 <div align="center">
 <a href="https://www.paypal.com/paypalme/paliverse" alt="Contributors">
@@ -29,12 +29,8 @@
 <a href="https://www.paypal.com/paypalme/paliverse" alt="Contributors">
           <img src="https://img.shields.io/badge/ko fi-Support Me-red.svg?style=for-the-badge&color=ffffff&logo=Ko-fi" /></a>⠀
 </div>
-
-<h1 align="center"></h1>
 </p>
-
-
-          
+  
 ## About App
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
