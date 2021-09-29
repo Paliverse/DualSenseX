@@ -26,7 +26,7 @@
 <a href="https://www.paypal.com/paypalme/paliverse" alt="Contributors">
 <img src="https://img.shields.io/badge/PayPal-Support Me-red.svg?style=for-the-badge&color=ffffff&logo=PayPal" /></a>
   <mark>ㅤ</mark>
-<a href="https://www.paypal.com/paypalme/paliverse" alt="Contributors">
+<a href="https://ko-fi.com/L4L14MUFI" alt="Contributors">
           <img src="https://img.shields.io/badge/ko fi-Support Me-red.svg?style=for-the-badge&color=ffffff&logo=Ko-fi" /></a>⠀
 </div>
 </p>
