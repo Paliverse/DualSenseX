@@ -15,7 +15,7 @@
     "Value": "Автоматическое подключение к контроллеру!"
   },
   "AppNotificationLabel_AutoConnectingToController": {
-    "Value": "Автоматическое подключение к контроллеру\n"
+    "Value": "Автоматическое подключение к контроллеру"
   },
   "AppNotificationLabel_ConnectedToController": {
     "Value": "Контроллер подключен! "
@@ -171,7 +171,7 @@
     "Value": "Применить"
   },
   "HomePage_ApplyMode_BothTriggerMotorLabel": {
-    "Value": "Оба триггер/вибрация\n"
+    "Value": "Оба триггера/вибрация"
   },
   "HomePage_ApplyMode_LeftTriggerMotorLabel": {
     "Value": "Левый триггер/вибрация"
@@ -210,7 +210,7 @@
     "Value": "Контроллер подключен"
   },
   "HomePage_ConnectionStatus_Status_FailedToConnect": {
-    "Value": "Не удалось подключиться, проверьте соединение!\n"
+    "Value": "Не удалось подключиться, проверьте соединение!"
   },
   "HomePage_ConnectionStatus_Status_SearchingForController": {
     "Value": "Поиск контроллера..."
@@ -219,7 +219,7 @@
     "Value": "Выключение приложения..."
   },
   "HomePage_ControllerLEDLabel": {
-    "Value": "Световой индикатор контроллера"
+    "Value": "Подсветка контроллера"
   },
   "HomePage_ControllerLED_BrightnessLabel": {
     "Value": "Яркость"
@@ -234,19 +234,19 @@
     "Value": "Статический цвет"
   },
   "HomePage_ControllerLED_MicLEDLabel": {
-    "Value": "Световой индикатор микрофона"
+    "Value": "Подсветка микрофона"
   },
   "HomePage_ControllerLED_MicLED_OffBtn": {
-    "Value": "ВЫКЛЮЧЕНО"
+    "Value": "Выключено"
   },
   "HomePage_ControllerLED_MicLED_OnBtn": {
-    "Value": "ВКЛЮЧЕНО"
+    "Value": "Включено"
   },
   "HomePage_ControllerLED_MicLED_PulseBtn": {
-    "Value": "ПУЛЬСАЦИЯ"
+    "Value": "Пульсация"
   },
   "HomePage_ControllerLED_PlayerLEDLabel": {
-    "Value": "\nСветодиодный индикатор игрока"
+    "Value": "\nПодсветка игрока"
   },
   "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
     "Value": "Все выключены"
@@ -282,10 +282,10 @@
     "Value": "Два"
   },
   "HomePage_ControllerLED_RainbowSpeedLabel": {
-    "Value": "Интенсивность радуги"
+    "Value": "Скорость радуги"
   },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
-    "Value": "Световой индикатор сенсорной панели"
+    "Value": "Подсветка сенсорной панели"
   },
   "HomePage_ControllerModeLabel": {
     "Value": "Режим контроллера"
@@ -327,19 +327,19 @@
     "Value": "Активен - В текстовом файле не найдено совпадающих значений триггера!"
   },
   "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
-    "Value": "Не Активен - Выбранный файл не существует!"
+    "Value": "Не активно - Выбранный файл не существует!"
   },
   "HomePage_TextFile_StatusNotActiveLabel": {
     "Value": "Не активно"
   },
   "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
-    "Value": "Не активен — файл не выбран!"
+    "Value": "Не активно — файл не выбран!"
   },
   "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
-    "Value": "Не активен - Это не текстовый файл, пожалуйста, повторите попытку!"
+    "Value": "Не активно - Это не текстовый файл, пожалуйста, повторите попытку!"
   },
   "HomePage_TextFile_StopReadingBtn": {
-    "Value": "Прекратить Чтение Текстового Файла"
+    "Value": "чтение текстового файла"
   },
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Сбои или ошибки?"
@@ -453,10 +453,10 @@
     "Value": "Имя профиля"
   },
   "Sense2Key_SelectedProfile_ProfileStatus_Active": {
-    "Value": "Статус: Профиль Активен"
+    "Value": "Статус: Профиль активен"
   },
   "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
-    "Value": "Статус: Профиль НЕ Активен"
+    "Value": "Статус: Профиль не активен"
   },
   "Sense2Key_SelectedProfile_StartBtn": {
     "Value": "Начать"
@@ -471,13 +471,13 @@
     "Value": "Изменение имени"
   },
   "SettingsPage_AppLabel": {
-    "Value": "ПРИЛОЖЕНИЕ"
+    "Value": "Приложение"
   },
   "SettingsPage_AppSettings_BorderColorLabel": {
     "Value": "Цвет границы"
   },
   "SettingsPage_AppSettings_Border_AlphaLabel": {
-    "Value": "Альфа (прозрачность)"
+    "Value": "Прозрачность"
   },
   "SettingsPage_AppSettings_Border_BlueLabel": {
     "Value": "Синий"
@@ -516,7 +516,7 @@
     "Value": "Запускать в свернутом режиме"
   },
   "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
-    "Value": "Запускать DualSensex при запуске Windows"
+    "Value": "Запускать DualSenseX при запуске Windows"
   },
   "SettingsPage_BackgroundLabel": {
     "Value": "Фон"
@@ -531,7 +531,7 @@
     "Value": "Контроллер"
   },
   "SettingsPage_ControllerSettings_AudioSystem": {
-    "Value": "Аудиосистема контроллера (ТОЛЬКО USB)"
+    "Value": "Аудиосистема контроллера (Только USB)"
   },
   "SettingsPage_ControllerSettings_AudioSystem_Headset": {
     "Value": "Наушники"
@@ -543,7 +543,7 @@
     "Value": "Внутренний динамик"
   },
   "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
-    "Value": "громкость микрофона"
+    "Value": "Громкость микрофона"
   },
   "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
     "Value": "Режим вывода звука"

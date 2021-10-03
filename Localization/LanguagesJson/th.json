@@ -327,7 +327,7 @@
     "Value": "ใช้งาน - ไม่พบค่าที่ตรงกันระหว่างค่าทริกเกอร์ในไฟล์ข้อความ!"
   },
   "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
-    "Value": "ไม่ได้ใช้งาน - ไม่มีไฟล์ที่เลือกอยู่"
+    "Value": "ไม่ได้ใช้งาน - ไม่มีไฟล์ที่เลือกอยู่!"
   },
   "HomePage_TextFile_StatusNotActiveLabel": {
     "Value": "ไม่ได้ใช้งาน"
@@ -381,10 +381,10 @@
     "Value": "เลือกจากเมนูหรือกดปุ่มบนคีย์บอร์ด"
   },
   "Sense2Key_Configuration_HelpLabel2": {
-    "Value": "ในขณะที่เมนูเลือกแบบเลื่อนลงกำลังถูกเลือก"
+    "Value": "ในขณะที่เมนูเลื่อนลงกำลังถูกเลือก"
   },
   "Sense2Key_Configuration_SaveConfigurationBtn": {
-    "Value": "บันทึกการกำหนดค่า"
+    "Value": "บันทึกค่า"
   },
   "Sense2Key_CreateProfileBtn": {
     "Value": "สร้างโปรไฟล์"
@@ -465,7 +465,7 @@
     "Value": "หยุด"
   },
   "Sense2Key_SelectedProfile_UpdateDelayBtn": {
-    "Value": "ดีเลย์การอัพเดท"
+    "Value": "เปลี่ยนค่าดีเลย์"
   },
   "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
     "Value": "เปลี่ยนชื่อ"
@@ -474,7 +474,7 @@
     "Value": "แอป"
   },
   "SettingsPage_AppSettings_BorderColorLabel": {
-    "Value": "สีของขอบ"
+    "Value": "สีของแผ่นหลัง"
   },
   "SettingsPage_AppSettings_Border_AlphaLabel": {
     "Value": "อัลฟา (ความโปร่งใส)"
@@ -561,7 +561,7 @@
     "Value": "ปรับความแรงของมอเตอร์"
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
-    "Value": "ปิดใช้งานการสั่นองคอนโทรลเลอร์"
+    "Value": "ปิดการใช้งานการสั่นของคอนโทรลเลอร์"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "เปิดใช้ HidHide"

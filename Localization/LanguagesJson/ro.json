@@ -555,7 +555,7 @@
     "Value": "Volum difuzor"
   },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
-    "Value": "Conectare Automată când pornește DualSenseX"
+    "Value": "Conectare Automată la pornirea DualSenseX"
   },
   "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
     "Value": "Ajustare Putere Motor"
@@ -576,7 +576,7 @@
     "Value": "Setări Controller"
   },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
-    "Value": "Încărcați ultimul trăgaci activ la start"
+    "Value": "Încărcați ultimul trigger activ la start"
   },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
     "Value": "Rulează Spectacol de Lumini la Conectare"
