@@ -24,7 +24,7 @@
     "Value": "Соединение потеряно, идет поиск контроллера..."
   },
   "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
-    "Value": "\nСоединение потеряно, попытка повторного подключения..."
+    "Value": "nСоединение потеряно, попытка повторного подключения..."
   },
   "AppNotificationLabel_FailedToAutoConnect": {
     "Value": "Не удалось автоматически подключиться, пожалуйста проверьте соединение!"
@@ -246,7 +246,7 @@
     "Value": "Пульсация"
   },
   "HomePage_ControllerLED_PlayerLEDLabel": {
-    "Value": "\nПодсветка игрока"
+    "Value": "nПодсветка игрока"
   },
   "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
     "Value": "Все выключены"
