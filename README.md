@@ -109,6 +109,11 @@ Want to contribute in trasnlating the app? Click below:
 [**AJ Bants YouTube Channel**](https://www.youtube.com/channel/UCTofyjsFVYEXwcNvzwiTWyw)
 
 [![Alt text](https://img.youtube.com/vi/qQVvUA7NJz4/maxresdefault.jpg)](https://www.youtube.com/watch?v=qQVvUA7NJz4)
+____
+
+[**JUST A BONE YouTube Channel**](https://bit.ly/3ax0I2B)
+
+[![Alt text](https://img.youtube.com/vi/UaXPXgnK1N0/maxresdefault.jpg)](https://bit.ly/2Xd8nju)
 
 # **Game Demo**
 ### [**View on Itch.io**](https://paliverse.itch.io/dualsensex-game-demo)
