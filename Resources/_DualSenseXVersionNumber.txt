@@ -1,8 +1,11 @@
-(1.4.0)
-● Fixed Audio System toggle not taking effect
-● Fixed Period for Machine Trigger not working
-● Fixed Machine Trigger Strength A and B sliders to only be 0-7
-● Fixed bugs for text file for Machine and Bow Triggers
-● Fixed loading last active trigger not being set individually
-please reapply them to save
-● Minor bug fixes and improvements
+(1.4.1)
+● Added a localhost UDP method to communicate with the controller 
+- Can send all Trigger mode options left and right
+- Can send Touchpad LED as RGB values
+- Can send Player LED 1-5 which ones to turn on
+● Added a Left and Right Trigger Threshold to tell the emulation
+when to send the "pressed" state to help when applying Triggers
+● Added Controller Status to the Taskbar Icon
+- Hover over the icon to get the battery level
+- Right click the icon to get more info like connection type etc..
+● Fixed bug not detecting if ViGEm/HidHide is installed or not
