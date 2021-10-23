@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Controller Settings"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Left Trigger Threshold"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Load last active trigger on start"
   },
@@ -587,7 +590,16 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Preview Lightshow"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Right Trigger Threshold"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Search until Controller connects"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Enable UDP Port Listener"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "The UDP Port number to listen to"
   }
 }
