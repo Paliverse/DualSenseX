@@ -1,6 +1,7 @@
 (1.4.1)
 ● Added a localhost UDP method to communicate with the controller 
 - Can send all Trigger mode options left and right
+- Can send Left/Right Trigger Threshold
 - Can send Touchpad LED as RGB values
 - Can send Player LED 1-5 which ones to turn on
 ● Added a Left and Right Trigger Threshold to tell the emulation
