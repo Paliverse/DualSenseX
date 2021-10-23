@@ -1,6 +1,6 @@
 (1.4.2)
 ● Fixed Dark mode being applied when a pop is shown
-● Fixed "No Translation Found" by using english as default
+● Fixed "No Translation Found" by using English as default
 for non translated keys
 
 --- 1.4.1 ---
