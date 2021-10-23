@@ -9,4 +9,5 @@ when to send the "pressed" state to help when applying Triggers
 ● Added Controller Status to the Taskbar Icon
 - Hover over the icon to get the battery level
 - Right click the icon to get more info like connection type etc..
+● Fixed bug with Background image not taking effect
 ● Fixed bug not detecting if ViGEm/HidHide is installed or not
