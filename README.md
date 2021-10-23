@@ -128,7 +128,7 @@ Support your game with DualSense Adaptive Trigger Capabilities With DualSenseX A
 ### **Trigger State**
 To get this working with your game, you have 2 methods to communicate with the controller.
 
-First one is UDP Server/Client method through Localhost described [**here**]()
+First one is UDP Server/Client method through Localhost described [**here**](https://github.com/Paliverse/DualSenseX/wiki/UDP-Server-Client-Method)
 
 Second one is the Text file method described below:
 
