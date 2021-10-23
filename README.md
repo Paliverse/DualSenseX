@@ -126,7 +126,11 @@ ____
 Support your game with DualSense Adaptive Trigger Capabilities With DualSenseX App, find out below how to get it setup, and get your game added within the App for all to see and play!
 
 ### **Trigger State**
-To get this working with your game, you just have to write to a text file.
+To get this working with your game, you have 2 methods to communicate with the controller.
+
+First one is UDP Server/Client method through Localhost described [**here**]()
+
+Second one is the Text file method described below:
 
 There are a few things this App will look for when reading this text file to apply the triggers:
 
