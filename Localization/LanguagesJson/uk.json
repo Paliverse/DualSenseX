@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Параметри контролеру"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Поріг спрацьовування лівого тригера"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Завантажити останній активний тригер під час запуску"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Попередній перегляд Шоу"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Поріг спрацьовування правого триггера"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Пошук до підключення контролера"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Увімкнути прослуховування портів UDP"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Номер порту UDP для прослуховування"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Перевірити наявність оновлень"
   }
 }
