@@ -1,4 +1,4 @@
-(1.4.1)
+(1.4.0)
 ● Added a localhost UDP method to communicate with the controller 
 - Can send all Trigger mode options left and right
 - Can send Left/Right Trigger Threshold
