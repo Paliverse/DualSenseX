@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Setări Controller"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Prag Trigger stânga"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Încărcați ultimul trigger activ la start"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Previzualizare Spectacol de Lumini"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Prag declanșator dreapta"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Caută până se Conectează Controller-ul"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Activează ascultătorul portului UDP"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Numărul portului UDP de ascultat"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Căutare actualizări"
   }
 }
