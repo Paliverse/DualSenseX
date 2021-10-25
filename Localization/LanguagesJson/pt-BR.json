@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Configurações do controle"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Limiar do gatilho esquerdo (LT)"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Carregar o último gatilho ativo no início"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Prévia do show de luzes"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Limiar do gatilho direito (RT)"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Pesquisar até um controle for conectado"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Habilitar escuta da Porta UDP"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Número da porta UDP a ser escutada"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Verificar atualizações"
   }
 }
