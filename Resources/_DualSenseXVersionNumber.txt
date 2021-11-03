@@ -6,9 +6,9 @@ There is a dropdown of the list of Audio Devices,
 it will choose the currently set default one to start with
 You can select your listening device Headphones, speakers, etc..
 
-Does not reqire the Controller to be the Playback Device
+Does not require the Controller to be the Playback Device
 It will auto send all audio to the controller
 
 No longer need Voicemeeter for Audio Haptics
 
-Speacial thanks to @DevFromDownUnder for figuring it out
+Special thanks to @DevFromDownUnder for figuring it out
