@@ -1,12 +1,14 @@
-(1.4.3)
--------------
---- 1.4.3 ---
--------------
-● Finally fixed ViGEm/HidHide driver missing popup
+(1.4.4)
+● Added Audio Haptics feature in Controller Settings
 
--------------
---- 1.4.2 ---
--------------
-● Fixed Dark mode being applied when a pop is shown
-● Fixed "No Translation Found" by using English as default
-for non translated keys
+Requires you to be connected through a USB cable
+There is a dropdown of the list of Audio Devices,
+it will choose the currently set default one to start with
+You can select your listening device Headphones, speakers, etc..
+
+Does not reqire the Controller to be the Playback Device
+It will auto send all audio to the controller
+
+No longer need Voicemeeter for Audio Haptics
+
+Speacial thanks to @DevFromDownUnder for figuring it out
