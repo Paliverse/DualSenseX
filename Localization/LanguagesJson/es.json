@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Configuración del controlador"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Umbral de gatillo izquierdo"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Cargar el último disparador activo al inicio"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Vista previa de la luz"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Umbral de gatillo derecho"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Buscar hasta que el se conecte el controlador"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Habilitar escucha de puertos UDP"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Número de puerto UDP que se va a escuchar"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Buscar actualizaciones"
   }
 }

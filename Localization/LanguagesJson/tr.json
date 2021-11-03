@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Kontrolcü Ayarları"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Sol Tetik Eşiği"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Başlangıçtaki son etkin tetikleyiciyi yükle"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Işıklı Gösteriyi Önizle"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Sağ Tetikleyici Eşiği"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Kontrolcü bağlanana kadar ara"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "UDP Bağlantı Noktası Dinleyiciyi Etkinleştir"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Dinlenecek UDP Bağlantı Noktası numarası"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Güncellemeleri kontrol et"
   }
 }

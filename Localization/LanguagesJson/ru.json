@@ -24,7 +24,7 @@
     "Value": "Соединение потеряно, идет поиск контроллера..."
   },
   "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
-    "Value": "nСоединение потеряно, попытка повторного подключения..."
+    "Value": "\nСоединение потеряно, попытка повторного подключения..."
   },
   "AppNotificationLabel_FailedToAutoConnect": {
     "Value": "Не удалось автоматически подключиться, пожалуйста проверьте соединение!"
@@ -246,7 +246,7 @@
     "Value": "Пульсация"
   },
   "HomePage_ControllerLED_PlayerLEDLabel": {
-    "Value": "nПодсветка игрока"
+    "Value": "\nПодсветка игрока"
   },
   "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
     "Value": "Все выключены"
@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Настройки контроллера"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Порог левого триггера"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Загрузка последнего активного триггера при запуске"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Предварительный просмотр светового шоу"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Правый порог срабатывания"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Поиск до подключения контроллера"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Включить прослушиватель UDP-портов"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Номер порта UDP для прослушивания"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Проверить наличие обновлений"
   }
 }

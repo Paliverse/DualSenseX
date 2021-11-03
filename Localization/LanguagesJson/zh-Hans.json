@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "手柄设置"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "左触发阈值"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "启动时加载上一个活动触发器"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "预览灯光动画"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "右触发阈值"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "搜索直到手柄连接"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "启用 UDP 端口侦听器"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "要监听的 UDP 端口号"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "检查更新"
   }
 }

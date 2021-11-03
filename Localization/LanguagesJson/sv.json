@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Inställningar för spelkontroll"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Tröskel vänster"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Ladda senaste aktiva utlösaren vid start"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Förhandsgranska ljusshow"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Tröskel höger"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Sök tills spelkontrollen ansluter"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Aktivera UDP-portavlyssnare"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "UDP-portnumret att lyssna på"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Sök efter uppdateringar"
   }
 }

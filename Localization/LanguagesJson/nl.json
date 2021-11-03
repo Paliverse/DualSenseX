@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Controller Instellingen"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Drempel voor linker trigger"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Laad de laatste actieve trigger bij het starten"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Preview Licht Respons"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Drempel rechts"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Blijf zoeken tot verbinding tot stand is"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "UDP-poortlistener inschakelen"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Het UDP-poortnummer om naar te luisteren"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Controleren op updates"
   }
 }

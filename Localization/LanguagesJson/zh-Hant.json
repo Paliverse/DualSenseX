@@ -315,7 +315,7 @@
     "Value": "文件位置："
   },
   "HomePage_TextFile_SlectFileBtn": {
-    "Value": "選擇文本文件位置"
+    "Value": "選擇文字檔位置"
   },
   "HomePage_TextFile_StatusActiveLabel": {
     "Value": "啟用"
@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "控制器設定"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "左觸發器臨界值"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "啟動時載入最後一個啟動觸發器"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "預覽動畫"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "右觸發器臨界值"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "搜索直到連接控制器"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "啟用 UDP 連接埠監聽程式"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "要接聽的 UDP 連接埠號碼"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "檢查更新"
   }
 }

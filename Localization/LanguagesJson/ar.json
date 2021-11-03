@@ -3,7 +3,7 @@
     "Value": "تم العثور على اسم اللعبة، ولكن لم يتم العثور على موقع الملف"
   },
   "AppCommandArgs_GameNameNotFound": {
-    "Value": "لم يتم العثور على اسم اللعبة، ولكن تم العثور على موقع الملف"
+    "Value": "لم يتم العثور على اللعبة، ولكن تم العثور على موقع الملف"
   },
   "AppCommandArgs_NoParamersFound": {
     "Value": "لم يتم العثور على متغيرات"
@@ -69,7 +69,7 @@
     "Value": "جاري تنزيل وتثبيت برنامج التشغيل..."
   },
   "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
-    "Value": "يرجى اتباع تعليمات VigemBus المقدمة"
+    "Value": "يرجى اتباع التعليمات المقدمة من VigemBus "
   },
   "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
     "Value": "بمجرد الانتهاء من تثبيت برنامج التشغيل، يمكنك الاتصال بوحدة التحكم الخاصة بك."
@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "إعدادات وحدة التحكم"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "عتبة الزناد الأيسر"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "تحميل آخر مشغل نشط عند البدء"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "معاينة العرض الضوئي"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "عتبة الزناد الأيمن"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "البحث حتى اتصال وحدة التحكم"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "تمكين مستمع منفذ UDP"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "رقم منفذ UDP للاستماع إليه"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "التحقق من وجود تحديثات"
   }
 }

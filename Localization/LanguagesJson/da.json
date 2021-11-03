@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Indstillinger for controller"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Venstre udløser tærsk"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Indlæs sidste aktive udløser ved start"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Eksempel lysshow"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Højre udløser tærsk"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Søg, indtil controlleren opretter forbindelse"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Aktivér UDP-portlytteren"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "UDP-portnummeret til at lytte til"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Søg efter opdateringer"
   }
 }

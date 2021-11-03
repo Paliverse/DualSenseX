@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Paramètres du contrôleur"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Seuil de déclenchement gauche"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Charger le dernier déclencheur actif au démarrage"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Aperçu de Lightshow"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Seuil de déclenchement droit"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Rechercher jusqu'à ce que qu'une manette soit connecté"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Activer l'écouteur de port UDP"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Le numéro de port UDP à écouter"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Vérifier les mises à jour"
   }
 }

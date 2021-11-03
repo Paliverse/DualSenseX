@@ -575,6 +575,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Ustawienia kontrolera"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Lewy próg wy"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "Załaduj ostatni aktywny spust przy starcie"
   },
@@ -587,7 +590,19 @@
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "Podgląd pokazu świateł"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Próg wyzwalania"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "Szukaj, aż kontroler się połączy"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Włącz odbiornik portów UDP"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Numer portu UDP do słuchania"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Sprawdź aktualizacje"
   }
 }
