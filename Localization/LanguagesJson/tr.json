@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Kontrolcü"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "Varsayılan Ses"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Denetleyici Ses Sistemi (SADECE USB)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Kontrolcü Titreşimlerini Devre Dışı Bırak"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "Ses Dokunuşlarını Etkinleştir (SADECE USB)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "HidHide'ı Etkinleştir"

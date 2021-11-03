@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Kontroler"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "Audio Default"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Sistem Audio Kontroler (HANYA USB)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Nonaktifkan Getaran Kontroler"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "Aktifkan Haptics Audio (HANYA USB)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "Aktifkan HidHide"

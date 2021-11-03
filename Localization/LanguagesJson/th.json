@@ -45,7 +45,7 @@
     "Value": "ยกเลิก"
   },
   "AppNotificationPopUp_DownloadUpdate": {
-    "Value": "กำลังดาวน์โหลดอัพเดท…"
+    "Value": "กำลังดาวน์โหลดอัปเดต…"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
     "Value": "ตอนนี้คอนโทรลเลอร์ DualSense ไม่ถูกอ่านว่าเป็นคอนโทรลเลอร์ Dualshock 4 แล้ว!"
@@ -90,25 +90,25 @@
     "Value": "เวอร์ชันปัจจุบัน:"
   },
   "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
-    "Value": "กำลังดาวน์โหลดอัพเดท…"
+    "Value": "กำลังดาวน์โหลดอัปเดต…"
   },
   "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
-    "Value": "กำลังแตกไฟล์อัพเดท"
+    "Value": "กำลังแตกไฟล์อัปเดต"
   },
   "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
     "Value": "กำลังดึงข้อมูลอัปเดต..."
   },
   "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
-    "Value": "กำลังติดตั้งอัพเดท…"
+    "Value": "กำลังติดตั้งอัปเดต…"
   },
   "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
-    "Value": "โปรดรีสตาร์ทเพื่อใช้อัพเดทนี้"
+    "Value": "โปรดรีสตาร์ทเพื่อใช้อัปเดตนี้"
   },
   "AppNotificationPopUp_UpdateProccess_Restart": {
     "Value": "รีสตาร์ท"
   },
   "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
-    "Value": "ติดตั้งอัพเดทสำเร็จ"
+    "Value": "ติดตั้งอัปเดตสำเร็จ"
   },
   "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
     "Value": "อัปเดตเป็นเวอร์ชัน: "
@@ -417,7 +417,7 @@
     "Value": "ค่าดีเลย์ไม่สามารถว่างได้"
   },
   "Sense2Key_ProfileStatus_DelayUpdated": {
-    "Value": "อัพเดทดีเลย์"
+    "Value": "อัปเดตดีเลย์"
   },
   "Sense2Key_ProfileStatus_ProfileCreated": {
     "Value": "สร้างโปรไฟล์"
@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "คอนโทรลเลอร์"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "เสียงปริยาย"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "ปรับเสียงคอนโทรลเลอร์ (เฉพาะโหมด USB)"
   },
@@ -563,6 +566,9 @@
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "ปิดการใช้งานการสั่นของคอนโทรลเลอร์"
   },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "เปิดใช้งานการสั่นของเสียง (USB เท่านั้น)"
+  },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "เปิดใช้ HidHide"
   },
@@ -575,6 +581,9 @@
   "SettingsPage_ControllerSettings_Label": {
     "Value": "การตั้งค่าคอนโทรลเลอร์"
   },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "ขีดจำกัดสูงสุดของทริกเกอร์ซ้าย"
+  },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "เมื่อเปิดโปรแกรม ใช้ active trigger โหมดเดิมกับที่ใช้ก่อนปิด"
   },
@@ -582,12 +591,24 @@
     "Value": "เล่นโชว์แสงเมื่อเชื่อมต่อ"
   },
   "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
-    "Value": "กดปุ่ม ไมค์ + ขึ้น เพื่อเปิด Xbox Game Bar"
+    "Value": "กดปุ่มไมค์และปุ่มขึ้นไร้อมกันเพื่อเปิด Xbox Game Bar"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
     "Value": "แสดงตัวอย่างโชว์แสง"
   },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "ขีดจำกัดสูงสุดของทริกเกอร์ขวา"
+  },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "ค้นหาจนกว่าคอนโทรลเลอร์จะเชื่อมต่อ"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "เปิดใช้งานตัวฟังพอร์ต UDP"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "จำนวนพอร์ต UDP ที่ฟัง"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "ตรวจสอบการอัปเดต"
   }
 }

@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Controller"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "Standard lyd"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Controller lydsystem (KUN USB)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Deaktiver controller-vibrationer"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "Aktivér lydhaptik (KUN USB)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "Aktiver HidHide"

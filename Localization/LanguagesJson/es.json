@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Controlador"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "Audio predeterminado"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Sistema de audio del controlador (SOLO USB)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Desactivar vibraciones del controlador"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "Habilitar audio háptico (SOLO USB)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "Habilitar HidHide"

@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Controller"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "Audio implicit"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Sistemul controller-ului audio (DOAR PE CONEXIUNE USB)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Dezactivează Vibrațiile Controller-ului"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "Activare Haptics audio (NUMAI USB)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "Activează HidHide"

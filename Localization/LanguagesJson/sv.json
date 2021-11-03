@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Spelkontroll"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "Förvalt ljud"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Ljudsystem för handkontroll (endast USB)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Inaktivera spelkontrollens vibrationer"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "Aktivera ljudhaptik (ENDAST USB)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "Aktivera hidHide"

@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "kontrolor"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "Zadani zvuk"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Audio sustav kontrolera (samo USB)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Onemogući Vibracije Kontrolera"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "Omogući audio haptics (samo USB)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "Omogući HidHide"

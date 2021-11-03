@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "控制器"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "預設音訊"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "控制器音訊系統 (僅限 USB)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "停用控制器震動"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "啟用音訊觸覺回報 (僅限 USB)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "啟用隱藏"

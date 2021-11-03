@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "手柄"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "默认音频"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "控制器音频系统（仅 USB）"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "关闭震动"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "启用音频触觉（仅限 USB）"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "启用 HidHide"

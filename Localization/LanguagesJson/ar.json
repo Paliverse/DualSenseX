@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "متحكم"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "الصوت الافتراضي"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "نظام صوت وحدة التحكم (USB فقط)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "تعطيل اهتزازات التحكم"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "تمكين سماعات الصوت (USB فقط)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "تمكين إخفاء إخفاء"

@@ -530,6 +530,9 @@
   "SettingsPage_ControllerLabel": {
     "Value": "Контроллер"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "Звук по умолчанию"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Аудиосистема контроллера (Только USB)"
   },
@@ -562,6 +565,9 @@
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Отключить вибрацию контроллера"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "Включить тактильное воспроизведение звука (ТОЛЬКО USB)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "Включить HidHide"
