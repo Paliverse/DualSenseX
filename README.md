@@ -84,6 +84,8 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - and many more...
 
 ## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
+**Goal:** 1K members by end of 2021!
+
 [![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner4)](https://discord.gg/PUThpCFByn)
 - Report Issues
 - Report Bugs
