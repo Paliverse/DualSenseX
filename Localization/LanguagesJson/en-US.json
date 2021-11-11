@@ -533,6 +533,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Default Audio"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Refresh List"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Headset"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Headset Left"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Headset Right"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Left Motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Right Motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Speaker"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Controller Audio System (USB ONLY)"
   },
@@ -608,7 +629,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "The UDP Port number to listen to"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Volume Sync Options"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Don't Sync"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Sync All"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Sync Left Motor and Right Motor"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Sync Left and Right Speakers"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Check For Updates"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Are you sure you want to reset DualSenseX back to default settings?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Reset App Settings"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Reset DualSenseX"
   }
 }
