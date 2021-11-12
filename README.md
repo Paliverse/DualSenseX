@@ -20,9 +20,12 @@
 
 <h1 align="center"></h1>
 </p>
-ㅤ
 </p>
+
+
 <div align="center">
+  <h3 align="center">Current Goal: 1K Discord Members by end of 2021!ㅤ</h3>
+  <h3 align="center"></h3>
 <a href="https://www.paypal.com/paypalme/paliverse" alt="Contributors">
 <img src="https://img.shields.io/badge/PayPal-Support Me-red.svg?style=for-the-badge&color=ffffff&logo=PayPal" /></a>
   <mark>ㅤ</mark>
@@ -84,7 +87,6 @@ Once thats done, you can connect your DualSense Controller by pressing `Connect 
 - and many more...
 
 ## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
-**Goal:** 1K members by end of 2021!
 
 [![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner4)](https://discord.gg/PUThpCFByn)
 - Report Issues
