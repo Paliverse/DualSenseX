@@ -66,7 +66,7 @@ To use DualSenseX,
     * To install, double-click `HidHideMSI.msi` and follow the instructions presented.
     * **MAKE SURE YOU REBOOT TO TAKE EFFECT**
 
-Once thats done, you can connect your DualSense Controller by pressing `Connect Controller` in the App.
+Once thats done, the DualSense Controller should auto connect to the App.
 
  
 ## **Features:**
