@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Five"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Flash while charging"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Four"
   },
