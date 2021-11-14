@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "五"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "充電時閃光燈"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "四"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "預設音訊"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "重新整理清單"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "耳機"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "耳機左側"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "耳機右側"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "左馬達"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "右馬達"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "喇叭"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "控制器音訊系統 (僅限 USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "要接聽的 UDP 連接埠號碼"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "磁碟區同步選項"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "不同步"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "全部同步處理"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "同步左馬達和右馬達"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "同步左右揚聲器"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "檢查更新"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "您確定要重設回預設設定嗎？"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "重置程式設定"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "重設雙重分配性"
   }
 }

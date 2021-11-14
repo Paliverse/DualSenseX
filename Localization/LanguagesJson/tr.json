@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Beş"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Şarj olurken flaş"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Dört"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Varsayılan Ses"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Listeyi yenileyin"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Kulaklık"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Kulaklık Sola"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Kulaklık Sağ"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Sol Motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Sağ Motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Hoparlör"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Denetleyici Ses Sistemi (SADECE USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Dinlenecek UDP Bağlantı Noktası numarası"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Ses Eşitleme Seçenekleri"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Senkronize Etme"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Tümünü eşitle"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Sol Motor ve Sağ Motor Senkronizasyonu"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Sol ve Sağ Hoparlörleri Eşitleme"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Güncellemeleri kontrol et"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "DualSenseX'i varsayılan ayarlara sıfırlamak istediğinizden emin misiniz?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Uygulama ayarları sıfırlansın"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "DualSenseX'i Sıfırla"
   }
 }

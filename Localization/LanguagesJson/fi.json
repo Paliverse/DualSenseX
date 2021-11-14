@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Viisi"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Salama latauksen aikana"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Neljä"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Oletusääni"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Päivitä luettelo"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "kuulokkeet"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Kuulokkeet Vasen"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Kuulokkeet oikea"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Vasen Moottori"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Oikea moottori"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Kaiutin"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Ohjaimen audiojärjestelmä (VAIN USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "UDP-portin numero kuunneltava"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Asemian synkronointiasetukset"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Älä synkronoi"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Synkronoi kaikki"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Synkronoi vasen moottori ja oikea moottori"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Synkronoi vasen ja oikea kaiuttimet"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Tarkista päivitykset"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Oletko varma, että haluat palauttaa DualsenSex takaisin oletusasetuksiin?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Nollaa sovelluksen asetukset"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Nollaa DualsenSex"
   }
 }

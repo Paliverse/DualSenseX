@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Vijf"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Flash tijdens het opladen"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Vier"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Standaard audio"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Lijst vernieuwen"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "koptelefoon"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Headset links"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Headset rechts"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Linker motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Motor rechts"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Luidspreker"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Controller Audiosysteem (ALLEEN USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Het UDP-poortnummer om naar te luisteren"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Opties voor volume synchronisatie"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Niet synchroniseren"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Alles synchroniseren"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Linkermotor en rechtermotor synchroniseren"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Linker- en rechterluidsprekers synchroniseren"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Controleren op updates"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Weet je zeker dat je DualSenseX terug wilt zetten naar de standaardinstellingen?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Appinstellingen resetten"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "DualSense X opnieuw instellen"
   }
 }

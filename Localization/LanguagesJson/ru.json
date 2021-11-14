@@ -246,7 +246,7 @@
     "Value": "Пульсация"
   },
   "HomePage_ControllerLED_PlayerLEDLabel": {
-    "Value": "nПодсветка игрока"
+    "Value": "Подсветка игрока"
   },
   "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
     "Value": "Все выключены"
@@ -259,6 +259,9 @@
   },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Пять"
+  },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Вспышка во время зарядки"
   },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Четыре"
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Звук по умолчанию"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Обновить список"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Наушники"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Гарнитура слева"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Гарнитура справа"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Левый мотор"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Правый мотор"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Динамик"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Аудиосистема контроллера (Только USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Номер порта UDP для прослушивания"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Параметры синхронизации громкости"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Не синхронизировать"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Синхронизировать все"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Синхронизация левого и правого моторов"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Синхронизация левого и правого динамиков"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Проверить наличие обновлений"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Вы действительно хотите восстановить настройки DualSensex по умолчанию?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Сбросить настройки приложения"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Сброс двойного Sensex"
   }
 }

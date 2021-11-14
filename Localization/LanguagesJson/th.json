@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "ห้า"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "แฟลชขณะชาร์จ"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "สี่"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "เสียงปริยาย"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "รีเฟรชรายการ"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "หูฟัง"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "ชุดหูฟังด้านซ้าย"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "ชุดหูฟังขวา"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "มอเตอร์ซ้าย"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "มอเตอร์ขวา"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "ลำโพง"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "ปรับเสียงคอนโทรลเลอร์ (เฉพาะโหมด USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "จำนวนพอร์ต UDP ที่ฟัง"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "ตัวเลือกการซิงค์ระดับเสียง"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "ไม่ต้องซิงค์"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "ซิงค์ทั้งหมด"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "ซิงค์มอเตอร์ซ้ายและมอเตอร์ขวา"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "ซิงค์ลำโพงซ้ายและขวา"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "ตรวจสอบการอัปเดต"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "คุณแน่ใจหรือว่าต้องการจะรีเซ็ต DualSenSex กลับสู่การตั้งค่าเริ่มต้น?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "ล้างการตั้งค่าใหม่"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "รีเซ็ต ดูอัลเซนเซ็กซ์"
   }
 }

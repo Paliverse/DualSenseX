@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Fem"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Flash mens du lader"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Fire"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Standard lyd"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Oppdater listen"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Hodetelefoner"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Headset venstre"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Hodesett Høyre"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Venstre Motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Høyre Motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Høyttaler"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Lydsystem for kontroller (kun USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "UDP-portnummeret for å lytte til"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Alternativer for synkronisering"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Ikke synkroniser"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Synkroniser alle"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Synkroniser venstre motor og høyre motor"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Synkroniser venstre og høyre høyttalere"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Se etter oppdateringer"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Er du sikker på at du vil tilbakestille DualSenSex til standardinnstillingene?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Tilbakestill appinnstillinger"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Tilbakestill DualSenseX"
   }
 }

@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "五"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "充电时闪烁"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "四"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "默认音频"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "刷新列表"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "耳机"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "向左耳机"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "对的耳机"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "左马达"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "右马达"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "扬声器"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "控制器音频系统（仅 USB）"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "要监听的 UDP 端口号"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "卷同步选项"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "不要同步"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "全部同步"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "同步左电机和右电机"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "同步左右扬声器"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "检查更新"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "是否确实要将 dualsenSex 重置为默认设置？"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "重置应用"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "重置 dualsenSex"
   }
 }

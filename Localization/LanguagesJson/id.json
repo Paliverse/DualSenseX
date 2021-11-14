@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Lima"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Berkedip saat mengisi daya"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Empat"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Audio Default"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Muat ulang daftar"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Headset"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Headset Kiri"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Headset Kanan"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Motor Kiri"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Motor Kanan"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Pengeras suara"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Sistem Audio Kontroler (HANYA USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Nomor Port UDP untuk didengarkan"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Opsi Sinkronisasi Volume"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Jangan Sinkronkan"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Sinkronkan semua"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Sinkronkan Motor Kiri dan Motor Kanan"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Sinkronisasi Speaker Kiri dan Kanan"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Periksa pembaruan"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Anda yakin ingin mengatur ulang DualSenseX kembali ke pengaturan bawaan?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Kembalikan setelan apl"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Atur ulang DualSenseX"
   }
 }

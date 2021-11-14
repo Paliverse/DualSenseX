@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Fünf"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Flash während des Ladens"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Vier"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Standard-Audio"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Liste aktualisieren"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Headset"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Headset links"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Headset Rechts"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Linker Motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Motor rechts"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Lautsprecher"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Controller- Audiolautsprecher (USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Die zuweisende UDP-Portnummer"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Lautstärke-Sync-Optionen"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Synchronisieren Sie nicht"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Alles synchronisieren"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Synchronisieren Sie linken Motor und rechten Motor"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Synchronisieren Sie linke und rechte Lautsprecher"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Nach Updates suchen"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Möchten Sie DualSenseX wirklich wieder auf die Standardeinstellungen zurücksetzen?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "App Einstellungen zurücksetzen"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Zurücksetzen DualSenseX"
   }
 }

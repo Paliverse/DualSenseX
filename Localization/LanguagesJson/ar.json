@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "خمسة"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "فلاش أثناء الشحن"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "اربعة"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "الصوت الافتراضي"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "إعادة تحميل القائمة"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "سماعة الرأس"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "سماعة رأس اليسار"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "سماعة الرأس اليمنى"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "محرك يسار"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "المحرك الأيمن"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "مكبر الصوت"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "نظام صوت وحدة التحكم (USB فقط)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "رقم منفذ UDP للاستماع إليه"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "خيارات مزامنة وحدة التخزين"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "لا تقم بالمزامنة"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "مزامنة الكل"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "مزامنة المحرك الأيسر والمحرك الأيمن"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "مزامنة مكبرات الصوت اليسرى واليمنى"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "التحقق من وجود تحديثات"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "هل تريد بالتأكيد إعادة تعيين DualSenseX مرة أخرى إلى الإعدادات الافتراضية؟"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "إعادة تعيين إعدادات التطبيق"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "إعادة تعيين الحس المزدوج X"
   }
 }

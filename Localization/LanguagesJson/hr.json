@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Pet"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Bljeskalica tijekom punjenja"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Četiri"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Zadani zvuk"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Osvježite popis"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Slušalice"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Slušalice lijevo"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Slušalice Desno"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Lijevi motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Desni motor"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Zvučnik"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Audio sustav kontrolera (samo USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Broj UDP porta za slušanje"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Mogućnosti sinkronizacije volumena"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Ne sinkroniziraj"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Sinkroniziraj sve"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Sinkronizacija lijevog motora i desnog motora"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Sinkroniziraj zvučnike lijevog"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Provjeri ažuriranja"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Jeste li sigurni da želite vratiti DualsenSex na zadane postavke?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Resetiraj postavke aplikacije"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Resetiraj DualSenSex"
   }
 }

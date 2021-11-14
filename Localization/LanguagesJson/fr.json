@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Cinq"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Flash pendant le chargement"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Quatre"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Audio par défaut"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Actualiser la liste"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Casque"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Casque gauche"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Casque droit"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Moteur gauche"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Moteur droit"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Haut-parleur"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Système audio du contrôleur (USB UNIQUEMENT)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Le numéro de port UDP à écouter"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Options de synchronisation du volume"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Ne pas synchroniser"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Synchroniser tout"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Synchronisation du moteur gauche et du moteur droit"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Synchronisation des haut-parleurs gauche et droit"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Vérifier les mises à jour"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Voulez-vous vraiment rétablir les paramètres par défaut de DualSenseX ?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "RAZ des réglages"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Réinitialiser le double sens"
   }
 }

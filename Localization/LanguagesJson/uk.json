@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "П'ять"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "блимає під час зарядки"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Чотири"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Звук за замовчуванням"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Оновити список"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Навушники"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Гарнітура ліва"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Гарнітура права"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Лівий двигун"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Правий двигун"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Динамік"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Аудіосистема контролера (тільки USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Номер порту UDP для прослуховування"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Параметри синхронізації гучності"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Не синхронізувати"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Синхронізувати все"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Синхронізація лівого двигуна і правого двигуна"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Синхронізація лівого та правого динаміків"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Перевірити наявність оновлень"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Ви впевнені, що хочете скинути Dualsensex назад до стандартних налаштувань?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Скинути налаштування додатку"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Скидання Dualsensex"
   }
 }

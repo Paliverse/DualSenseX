@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Cinci"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Flash în timpul încărcării"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Patru"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Audio implicit"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Actualizează lista"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Căști"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Căști Stânga"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Setul cu cască"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Motor stânga"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Motor dreapta"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Difuzor"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Sistemul controller-ului audio (DOAR PE CONEXIUNE USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Numărul portului UDP de ascultat"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Opţiuni sincronizare volum"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Nu sincroniza"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Sincronizați tot"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Sincronizează motorul stâng și motorul drept"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Sincronizarea difuzoarelor stânga și dreapta"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Căutare actualizări"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Sunteți sigur că doriți să resetați DualSenSex înapoi la setările implicite?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Resetează setările aplicației"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Resetează DualSenSex"
   }
 }
