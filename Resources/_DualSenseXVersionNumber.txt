@@ -6,9 +6,9 @@
 ㅤㅤsettings in there, please take note of them to reapply them
 ㅤㅤafter the update. Sense2Key Profiles ‎will not be deleted.
 ● Audio Haptics now include more options for better customization
-ㅤ It will now auto detect the current Defualt Playback Device
+ㅤ It will now auto detect the current Default Playback Device
 ㅤㅤand will try to reapply the Haptics. There's a new refresh list
-ㅤㅤbutton incase it failes to switch or a device was removed etc..
+ㅤㅤbutton incase it fails to switch or a device was removed etc..
 ㅤㅤThere's a new Volume Sync Options Dropdown, which allows you to
 ㅤㅤsync and change the volume going to the Controller. Depending
 ㅤㅤon the Sync options, there are 4 New Sliders to manually adjust
@@ -25,7 +25,7 @@
 ㅤㅤthe name.
 ● Added an initial loading phase at the start of the app
 ● Touchpad Rainbow mode has been fixed, will no longer cause 
-ㅤㅤthe UI to freeze, as well as adding hyperspeed changing, 
+ㅤㅤthe UI to freeze, as well as adding hyper speed changing, 
 ㅤㅤbe sure to give it a try!
 ● Many Crashes and Bugs fixed to make App much more stable
 ● Overlay has been disabled as it's not being worked on for now
