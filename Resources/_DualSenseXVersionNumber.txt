@@ -1,14 +1,31 @@
-(1.4.4)
-● Added Audio Haptics feature in Controller Settings
-
-Requires you to be connected through a USB cable
-There is a dropdown of the list of Audio Devices,
-it will choose the currently set default one to start with
-You can select your listening device Headphones, speakers, etc..
-
-Does not require the Controller to be the Playback Device
-It will auto send all audio to the controller
-
-No longer need Voicemeeter for Audio Haptics
-
-Special thanks to @DevFromDownUnder for figuring it out
+(1.4.5)
+● New way of saving App Settings that doesn't get corrupted Due 
+ㅤㅤto the new system, the previous save file will no longer
+ㅤㅤbe used and will be deleted after updating. It will be as if
+ㅤㅤyou installed the App for the first time, if you have any
+ㅤㅤsettings in there, please take note of them to reapply them
+ㅤㅤafter the update. Sense2Key Profiles ‎will not be deleted.
+● Audio Haptics now include more options for better customization
+ㅤ It will now auto detect the current Defualt Playback Device
+ㅤㅤand will try to reapply the Haptics. There's a new refresh list
+ㅤㅤbutton incase it failes to switch or a device was removed etc..
+ㅤㅤThere's a new Volume Sync Options Dropdown, which allows you to
+ㅤㅤsync and change the volume going to the Controller. Depending
+ㅤㅤon the Sync options, there are 4 New Sliders to manually adjust
+ㅤㅤThe Volume for Left/Right Motor and/or Headset/Speaker.
+● Touchpad LED redesigned with a new Dropdown of 3 options
+ㅤㅤStatic Color, Rainbow, and Custom to set RGB values manually
+● Player LED has a new option called Battery Level which will
+ㅤㅤdisplay the Battery level through the 5 LED's. There's also
+ㅤㅤanother option to have the LED flash While it's charging
+● A new option in settings, a Reset App Settings Button which
+ㅤㅤcan help in troubleshooting, it will make the current save
+ㅤㅤfile Named to DSX_SaveFile_OLD.xml, if you wish to revert
+ㅤㅤgo to C:\Temp\DualSenseX\ and just remove the "_OLD" from 
+ㅤㅤthe name.
+● Added an initial loading phase at the start of the app
+● Touchpad Rainbow mode has been fixed, will no longer cause 
+ㅤㅤthe UI to freeze, as well as adding hyperspeed changing, 
+ㅤㅤbe sure to give it a try!
+● Many Crashes and Bugs fixed to make App much more stable
+● Overlay has been disabled as it's not being worked on for now
