@@ -260,6 +260,9 @@
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
     "Value": "Cinco"
   },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Parpadea mientras se carga"
+  },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Cuatro"
   },
@@ -533,6 +536,27 @@
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
     "Value": "Audio predeterminado"
   },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Actualizar lista"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Auriculares"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Auricular izquierdo"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Auriculares derecho"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Motor izquierdo"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Motor derecho"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Altavoz"
+  },
   "SettingsPage_ControllerSettings_AudioSystem": {
     "Value": "Sistema de audio del controlador (SOLO USB)"
   },
@@ -608,7 +632,31 @@
   "SettingsPage_ControllerSettings_UDPPortNumber": {
     "Value": "Número de puerto UDP que se va a escuchar"
   },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Opciones de sincronización de volumen"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "No sincronizar"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Sincronizar todo"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Sincronizar motor izquierdo y motor derecho"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Sync altavoces izquierdo y derecho"
+  },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
     "Value": "Buscar actualizaciones"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "¿Está seguro de que desea restablecer DualSensex a la configuración predeterminada?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Reestablecer los ajustes de la aplicación"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Reajustar Dual Sensex"
   }
 }
