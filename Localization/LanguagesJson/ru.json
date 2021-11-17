@@ -501,7 +501,7 @@
     "Value": "Выберите изображение"
   },
   "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
-    "Value": "Длина"
+    "Value": "Длительность"
   },
   "SettingsPage_AppSettings_DarkModeLabel": {
     "Value": "Темная тема"
@@ -657,6 +657,6 @@
     "Value": "Сбросить настройки приложения"
   },
   "SettingsPage_Settings_ResetAppYesButton": {
-    "Value": "Сброс двойного Sensex"
+    "Value": "Сброс настроек DualSenseX"
   }
 }
