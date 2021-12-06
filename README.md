@@ -13,7 +13,7 @@
            alt="chat on Discord"></a>
      </p>
 <div align="center">
-          <img src="imgs/DualSenseX_Icon.png"
+          <img src="imgs/Icon-1024.png"
            alt="dualsensex image"
                height="300" width="auto">
 </div>
