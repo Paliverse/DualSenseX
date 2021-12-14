@@ -33,6 +33,11 @@
           <img src="https://img.shields.io/badge/ko fi-Support Me-red.svg?style=for-the-badge&color=ffffff&logo=Ko-fi" /></a>⠀
 </div>
 </p>
+
+## DualSenseM for macOS 
+<div align="left">
+  <a href="https://apps.apple.com/us/app/dsm-triggers-haptics-more/id1598693570?mt=12"><img src="imgs/macOSAppStoreButton.png" width="auto" height="90"/></a>
+</div>
   
 ## About App
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
