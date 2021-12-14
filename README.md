@@ -13,9 +13,8 @@
            alt="chat on Discord"></a>
      </p>
 <div align="center">
-          <img src="imgs/DualSenseX_Icon.png"
-           alt="dualsensex image"
-               height="300" width="auto">
+    <a href="https://github.com/Paliverse/DualSenseX/releases"><img src="imgs/DualSenseX_Icon.png" width="auto" height="300"/></a>
+
 </div>
 
 <h1 align="center"></h1>
