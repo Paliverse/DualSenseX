@@ -22,6 +22,6 @@
 (id)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/id.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/id.json)
 (th)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/th.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/th.json)
 (ro)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/ro.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/ro.json)
-(bg)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/bg.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/bh.json)
+(bg)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/bg.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/bg.json)
 (hu)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/hu.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/hu.json)
 (ms)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/ms.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/ms.json)
