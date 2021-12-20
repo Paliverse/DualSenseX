@@ -33,11 +33,14 @@
 </div>
 </p>
 
-## DualSenseM for macOS 
+## My other Work 
+All my Apple Apps (iOS) can be found [**here**](https://apple.co/3qaTt7V)
 <div align="left">
-  <a href="https://apps.apple.com/us/app/dsm-triggers-haptics-more/id1598693570?mt=12"><img src="imgs/macOSAppStoreButton.png" width="auto" height="90"/></a>
+  <h4 align="left">DSM (DualSenseM) for macOS</h4>
+  <a href="https://apps.apple.com/us/app/dsm-triggers-haptics-more/id1598693570?mt=12"><img src="imgs/macOSAppStoreButton.png" width="auto" height="70"/></a>
 </div>
-  
+
+
 ## About App
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
