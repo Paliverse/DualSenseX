@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "سرعة قوس قزح"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "سريع"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "فرط"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "وسط"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "بطيئة"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "ضوء لوحة اللمس LED"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "أعطال أو أخطاء؟"
   },
+  "InfoPage_Donate": {
+    "Value": "تبرع"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "الانضمام إلى مجتمع ديسكورد"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "المزيد من المعلومات على GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "اجتماعي"
   },
   "MenuGames_Label": {
     "Value": "الألعاب"
