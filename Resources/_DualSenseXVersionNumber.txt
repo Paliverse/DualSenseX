@@ -1,16 +1,11 @@
-(1.4.6)
-● New way of saving App Settings, the previous save file will no
-ㅤㅤlonger be used and will be deleted after updating. It will
-ㅤㅤbe as if you installed the App for the first time, if you
-ㅤㅤhave any settings in there, please take note of them to
-ㅤㅤreapply them after the update. Sense2Key Profiles ‎will
-ㅤㅤnot be deleted, apologize for the inconvenience.
+(1.4.7)
+● Info Tab
+Added a new section "My Work"
+Elements and sections have been adjusted for Light/Dark Mode
+Fixed Donate buttons not working
 
-● Touchpad Rainbow speed slider has been replaced with 4 new
-ㅤㅤspeed presets to choose from: Slow, Medium, Fast, and Hyper.
+● Player LED
+Fixed issue where the saved mode would not load when App starts
 
-● Info Tab has been redesigned completely to match the macOS version
-ㅤㅤDSM (DualSenseM). This gives a preview of the redesign of the
-ㅤㅤApp completely that will follow.
-
-● Some minor bug fixes
+● Audio Haptics
+Some adjustments to improve the experience
