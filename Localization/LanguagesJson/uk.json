@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "Швидкість веселки"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Швидко"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Гіпер"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "Середній"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Повільно"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "світлодіод навколо LED"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Вильоти або помилки?"
   },
+  "InfoPage_Donate": {
+    "Value": "Пожертвувати"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "Приєднатися до спільноти Discord"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "Більше інформації на GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "соціальні"
   },
   "MenuGames_Label": {
     "Value": "Ігри"

@@ -1,680 +1,680 @@
 {
   "AppCommandArgs_FileLocationNotFound": {
-    "Value": "找到遊戲名稱，但是未找到文件位置"
+    "Value": "A játék neve megtalálható, de a fájl helye nem."
   },
   "AppCommandArgs_GameNameNotFound": {
-    "Value": "找不到遊戲名稱，但是找到文檔位置"
+    "Value": "A játék neve nem található, de a fájl helye igen."
   },
   "AppCommandArgs_NoParamersFound": {
-    "Value": "未找到參數"
+    "Value": "Nincs megadva paraméter."
   },
   "AppCommandArgs_Playing": {
-    "Value": "正在使用："
+    "Value": "A(z) %s fut a háttérben"
   },
   "AppNotificationLabel_AutoConnectedToController": {
-    "Value": "自動連接至控制器！"
+    "Value": "Automatikusan csatlakozva a játékvezérlőhöz!"
   },
   "AppNotificationLabel_AutoConnectingToController": {
-    "Value": "自動連線至控制器"
+    "Value": "Automatikus csatlakozás a játékvezérlőhöz"
   },
   "AppNotificationLabel_ConnectedToController": {
-    "Value": "連接到控制器！"
+    "Value": "Csatlakozva a játékvezérlőhöz!"
   },
   "AppNotificationLabel_ConnectionLost": {
-    "Value": "連接中斷，正在搜尋控制器..."
+    "Value": "A kapcsolat megszakadt, játékvezérlő keresése..."
   },
   "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
-    "Value": "連接中斷，嘗試重新連接"
+    "Value": "A kapcsolat megszakadt, az újracsatlakozás megpróbálása..."
   },
   "AppNotificationLabel_FailedToAutoConnect": {
-    "Value": "無法自動連接，請檢查連接！"
+    "Value": "Nem sikerült automatikusan csatlakozni, kérem ellenőrizze a kapcsolatot!"
   },
   "AppNotificationLabel_FailedToRconnect": {
-    "Value": "無法重新連接，請檢查連接！"
+    "Value": "Nem sikerült újracsatlakoztatni a játékvezérlőt, kérem ellenőrizze a kapcsolatot!"
   },
   "AppNotificationLabel_ReconnectedToController": {
-    "Value": "重新連接至控制器！"
+    "Value": "Újracsatlakozva a játékvezérlőhöz!"
   },
   "AppNotificationLabel_SearchingForController": {
-    "Value": "正在搜尋控制器..."
+    "Value": "Játékvezérlő keresése..."
   },
   "AppNotificationPopUp_AreYouSureYouWantToExit": {
-    "Value": "你確定要退出嗎？"
+    "Value": "Biztos, hogy kilép?"
   },
   "AppNotificationPopUp_Cancel": {
-    "Value": "取消"
+    "Value": "Mégsem"
   },
   "AppNotificationPopUp_DownloadUpdate": {
-    "Value": "正在下載更新..."
+    "Value": "Frissítés letöltése…"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
-    "Value": "雙重感應控制器將不再讀為雙衝擊 4 控制器！"
+    "Value": "A DualSense vezérlő már nem fog DualShock 4 játékvezérlőként csatlakozni!"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
-    "Value": "Dualsense將不再映射為Xbox手柄！"
+    "Value": "A DualSense vezérlő már nem fog Xbox játékvezérlőként csatlakozni!"
   },
   "AppNotificationPopUp_Exit": {
-    "Value": "退出"
+    "Value": "Kilépés"
   },
   "AppNotificationPopUp_Later": {
-    "Value": "稍後"
+    "Value": "Később"
   },
   "AppNotificationPopUp_MissingDriver_ConnectToController": {
-    "Value": "連接至控制器"
+    "Value": "Csatlakozás a játékvezérlőhöz"
   },
   "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
-    "Value": "下載並安裝驅動程序"
+    "Value": "Illesztőprogramok letöltése és telepítése..."
   },
   "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
-    "Value": "正在下載並安裝驅動程序..."
+    "Value": "Az illesztőprogram letöltése és telepítése..."
   },
   "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
-    "Value": "請按照提供的指示操作"
+    "Value": "Kérem kövesse a ViGEmBus telepítője által bemutatott utasításokat!"
   },
   "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
-    "Value": "安裝完驅動程序後，您可以連線到控制器。"
+    "Value": "Miután befejezte az illesztőprogram telepítését, csatlakozhat a játékvezérlőhöz."
   },
   "AppNotificationPopUp_MissingDriver_Uh-oh": {
-    "Value": "哦不..."
+    "Value": "Ó, jaj!"
   },
   "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
-    "Value": "看起來你沒有安裝 ViGemBus驅動程序"
+    "Value": "Úgy tűnik, hogy nincs telepítve a ViGEmBus illesztőprogram."
   },
   "AppNotificationPopUp_UpdateAvailable": {
-    "Value": "有更新可用！"
+    "Value": "Frissítés érhető el!"
   },
   "AppNotificationPopUp_UpdateAvailable_InstallIt": {
-    "Value": "你想要安裝他嗎？"
+    "Value": "Kívánja telepíteni?"
   },
   "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
-    "Value": "當前版本："
+    "Value": "Jelenlegi verzió:"
   },
   "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
-    "Value": "正在下載更新..."
+    "Value": "Frissítés letöltése…"
   },
   "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
-    "Value": "正在解壓縮更新..."
+    "Value": "Frissítés kibontása..."
   },
   "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
-    "Value": "正在擷取更新..."
+    "Value": "Frissítés lekérése..."
   },
   "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
-    "Value": "正在安裝更新..."
+    "Value": "Frissítés telepítése…"
   },
   "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
-    "Value": "請重新啟動以使用此更新"
+    "Value": "Kérem indítsa újra a programot a frissítés alkalmazásához!"
   },
   "AppNotificationPopUp_UpdateProccess_Restart": {
-    "Value": "重新啟動"
+    "Value": "Újraindítás"
   },
   "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
-    "Value": "已安裝更新"
+    "Value": "Frissítés telepítve."
   },
   "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
-    "Value": "更新版本："
+    "Value": "Frissítés verziószáma: "
   },
   "AppNotificationPopUp_Yes": {
-    "Value": "是"
+    "Value": "Igen"
   },
   "ControllerPage_BatteryLevelLabel": {
-    "Value": "電量："
+    "Value": "Akkumulátor töltöttségi szintje:"
   },
   "ControllerPage_ConnectionTypeLabel": {
-    "Value": "連接類型："
+    "Value": "Kapcsolat típusa:"
   },
   "ControllerPage_ConnectionType_Connected": {
-    "Value": "已連接"
+    "Value": "Csatlakoztatva"
   },
   "ControllerPage_ConnectionType_NotConnected": {
-    "Value": "未連接"
+    "Value": "Nincs csatlakoztatva"
   },
   "ControllerPage_LeftJoyStickLabel": {
-    "Value": "左搖桿"
+    "Value": "Bal analóg kar"
   },
   "ControllerPage_RightJoyStickLabel": {
-    "Value": "右搖桿"
+    "Value": "Jobb analóg kar"
   },
   "ControllerPage_UseXboxLabels": {
-    "Value": "使用Xbox按鍵標籤"
+    "Value": "Xbox-feliratok használata"
   },
   "GamsPage_GameImageLoadingLabel": {
-    "Value": "正在載入圖像..."
+    "Value": "Kép betöltése…"
   },
   "GamsPage_GameListStatusOne_FetchingGameList": {
-    "Value": "正在擷取遊戲列表..."
+    "Value": "Játéklista lekérése..."
   },
   "GamsPage_GameListStatusOne_NoGamesAdded": {
-    "Value": "沒有新增遊戲"
+    "Value": "Nincsenek hozzáadva játékok."
   },
   "GamsPage_GameListStatusTwo_CheckBackLater": {
-    "Value": "請稍後再來查看！"
+    "Value": "Kérem nézzen vissza később!"
   },
   "GamsPage_GameListStatusTwo_PleaseWait": {
-    "Value": "請等待..."
+    "Value": "Kérem várjon..."
   },
   "GamsPage_GameTagsLabel": {
-    "Value": "標籤"
+    "Value": "CÍMKÉK"
   },
   "GamsPage_GameViewGameBtn": {
-    "Value": "查看遊戲"
+    "Value": "Játék megtekintése"
   },
   "GamsPage_GamesLabel": {
-    "Value": "遊戲"
+    "Value": "JÁTÉKOK"
   },
   "GamsPage_SearchbarPlaceholder": {
-    "Value": "按名稱或標籤搜尋遊戲"
+    "Value": "Játékok keresése név vagy címke szerint"
   },
   "HomePage_ApplyModeLabel": {
-    "Value": "應用模式"
+    "Value": "Adaptív ravasz módjának kiválasztása"
   },
   "HomePage_ApplyMode_ApplyBtn": {
-    "Value": "應用"
+    "Value": "Alkalmaz"
   },
   "HomePage_ApplyMode_BothTriggerMotorLabel": {
-    "Value": "雙自適應扳機"
+    "Value": "Mindkét ravasz/rezgőmotor"
   },
   "HomePage_ApplyMode_LeftTriggerMotorLabel": {
-    "Value": "左自適應扳機"
+    "Value": "Bal ravasz/rezgőmotor"
   },
   "HomePage_ApplyMode_RightTriggerMotorLabel": {
-    "Value": "右自適應扳機"
+    "Value": "Jobb ravasz/rezgőmotor"
   },
   "HomePage_ConnectionStatusLabel": {
-    "Value": "連線狀態"
+    "Value": "Kapcsolat állapota"
   },
   "HomePage_ConnectionStatus_ConnectControllerBtn": {
-    "Value": "連接控制器"
+    "Value": "Kérem csatlakoztassa a vezérlőt!"
   },
   "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
-    "Value": "控製器映射："
+    "Value": "Vezérlő emuláció:"
   },
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
-    "Value": "模擬Xbox 360"
+    "Value": "Xbox 360-vezérlő emulálása"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
-    "Value": "模擬雙衝擊 4"
+    "Value": "DualShock 4 emulálása"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
-    "Value": "未映射"
+    "Value": "Semmit sem emulál"
   },
   "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
-    "Value": "自動連接至控制器..."
+    "Value": "Automatikus csatlakozás a játékvezérlőhöz..."
   },
   "HomePage_ConnectionStatus_Status_Connecting": {
-    "Value": "正在連接..."
+    "Value": "Kapcsolódás…"
   },
   "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
-    "Value": "連接中斷，正在嘗試重新連接..."
+    "Value": "A kapcsolat megszakadt, a csatlakozás újrapróbálása..."
   },
   "HomePage_ConnectionStatus_Status_ControllerConnected": {
-    "Value": "控制器已連接"
+    "Value": "Játékvezérlő csatlakoztatva"
   },
   "HomePage_ConnectionStatus_Status_FailedToConnect": {
-    "Value": "連接失敗，請檢查連接！"
+    "Value": "Nem sikerült csatlakozni, kérem ellenőrizze a kapcsolatot!"
   },
   "HomePage_ConnectionStatus_Status_SearchingForController": {
-    "Value": "正在搜尋控制器..."
+    "Value": "Játékvezérlő keresése..."
   },
   "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
-    "Value": "正在關閉應用程式..."
+    "Value": "Az alkalmazás leállítása..."
   },
   "HomePage_ControllerLEDLabel": {
-    "Value": "控制器 LED"
+    "Value": "Vezérlő LED-fényei"
   },
   "HomePage_ControllerLED_BrightnessLabel": {
-    "Value": "亮度"
+    "Value": "Fényerő"
   },
   "HomePage_ControllerLED_ColorModeBtn": {
-    "Value": "顏色模式"
+    "Value": "Színséma"
   },
   "HomePage_ControllerLED_ColorMode_RainbowLabel": {
-    "Value": "彩虹"
+    "Value": "Szivárvány"
   },
   "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
-    "Value": "靜態顏色"
+    "Value": "Egyszínű"
   },
   "HomePage_ControllerLED_MicLEDLabel": {
-    "Value": "麥克風指示燈"
+    "Value": "Mikrofon LED"
   },
   "HomePage_ControllerLED_MicLED_OffBtn": {
-    "Value": "關"
+    "Value": "KI"
   },
   "HomePage_ControllerLED_MicLED_OnBtn": {
-    "Value": "開"
+    "Value": "BE"
   },
   "HomePage_ControllerLED_MicLED_PulseBtn": {
-    "Value": "脈衝"
+    "Value": "Pulzus"
   },
   "HomePage_ControllerLED_PlayerLEDLabel": {
-    "Value": "玩家指示燈"
+    "Value": "Játékos számát jelölő LED fényei"
   },
   "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
-    "Value": "全關"
+    "Value": "Az összes kikapcsolása"
   },
   "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
-    "Value": "全開"
+    "Value": "Az összes bekapcsolása"
   },
   "HomePage_ControllerLED_PlayerLED_CustomBtn": {
-    "Value": "自訂"
+    "Value": "Egyéni"
   },
   "HomePage_ControllerLED_PlayerLED_FiveBtn": {
-    "Value": "五"
+    "Value": "Öt"
   },
   "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
-    "Value": "充電時閃光燈"
+    "Value": "Töltés közben villogjon"
   },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
-    "Value": "四"
+    "Value": "Négy"
   },
   "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
-    "Value": "高"
+    "Value": "Magas"
   },
   "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
-    "Value": "低"
+    "Value": "Alacsony"
   },
   "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
-    "Value": "中"
+    "Value": "Közepes"
   },
   "HomePage_ControllerLED_PlayerLED_OneBtn": {
-    "Value": "一"
+    "Value": "Egy"
   },
   "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
-    "Value": "三"
+    "Value": "Három"
   },
   "HomePage_ControllerLED_PlayerLED_TwoBtn": {
-    "Value": "二"
+    "Value": "Kettő"
   },
   "HomePage_ControllerLED_RainbowSpeedLabel": {
-    "Value": "變色速度"
+    "Value": "A szivárvány minta sebessége"
   },
   "HomePage_ControllerLED_RainbowSpeed_Fast": {
-    "Value": "快"
+    "Value": "Gyors"
   },
   "HomePage_ControllerLED_RainbowSpeed_Hyper": {
-    "Value": "超級"
+    "Value": "Hiper"
   },
   "HomePage_ControllerLED_RainbowSpeed_Medium": {
-    "Value": "中"
+    "Value": "Közepes"
   },
   "HomePage_ControllerLED_RainbowSpeed_Slow": {
-    "Value": "慢"
+    "Value": "Lassú"
   },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
-    "Value": "觸摸板LED"
+    "Value": "Érintőpárna LED-fényei"
   },
   "HomePage_ControllerModeLabel": {
-    "Value": "控制器模式"
+    "Value": "Játékvezérlő üzemmódja"
   },
   "HomePage_ControllerMode_IntensityLabel": {
-    "Value": "強度"
+    "Value": "Erősség"
   },
   "HomePage_ControllerMode_ModeLabel": {
-    "Value": "模式"
+    "Value": "Mód"
   },
   "HomePage_ControllerMode_RandomizeModeAndValues": {
-    "Value": "隨機模式 + 值"
+    "Value": "Mód és értékek véletlenszerűsítése"
   },
   "HomePage_ControllerMode_RandomizeValues": {
-    "Value": "隨機化值"
+    "Value": "Értékek véletlenszerűsítése"
   },
   "HomePage_ControllerMode_VibrationDurationLabel": {
-    "Value": "振動持續時間 (秒)"
+    "Value": "Rezgés időtartama (másodperc)"
   },
   "HomePage_GameLabel": {
-    "Value": "遊戲"
+    "Value": "Játék"
   },
   "HomePage_TextFileLabel": {
-    "Value": "文本文件"
+    "Value": "Szöveges fájl"
   },
   "HomePage_TextFile_FileLocationLabel": {
-    "Value": "文件位置："
+    "Value": "Fájl helye:"
   },
   "HomePage_TextFile_SlectFileBtn": {
-    "Value": "選擇文字檔位置"
+    "Value": "Szövegfájl helyének kiválasztása"
   },
   "HomePage_TextFile_StatusActiveLabel": {
-    "Value": "啟用"
+    "Value": "Aktív"
   },
   "HomePage_TextFile_StatusLabel": {
-    "Value": "狀態："
+    "Value": "Állapot:"
   },
   "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
-    "Value": "啟用 - 文字檔中找到可用的自適應扳機設置"
+    "Value": "Aktív - Nincs megfelelő ravasz érték megadva a szövegfájlban!"
   },
   "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
-    "Value": "未啟用 - 所選的文件不存在！"
+    "Value": "Inaktív - A kiválasztott fájl nem létezik!"
   },
   "HomePage_TextFile_StatusNotActiveLabel": {
-    "Value": "未啟用"
+    "Value": "Inaktív"
   },
   "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
-    "Value": "未啟用 - 未選擇文件！"
+    "Value": "Inaktív - Nincs kiválasztva fájl!"
   },
   "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
-    "Value": "未啟用過 - 這不是一個文字檔，請重試！"
+    "Value": "Inaktív - Ez nem szöveges fájl, kérem próbálja újra!"
   },
   "HomePage_TextFile_StopReadingBtn": {
-    "Value": "停止讀取文本文件"
+    "Value": "Szövegfájl olvasásának leállítása"
   },
   "InfoPage_CrashesOrBugsLabel": {
-    "Value": "閃退或者Bug？"
+    "Value": "Összeomlás vagy hibák?"
   },
   "InfoPage_Donate": {
-    "Value": "捐贈"
+    "Value": "Támogatás"
   },
   "InfoPage_JoinDiscordLabel": {
-    "Value": "加入Discord社區"
+    "Value": "Csatlakozzon a Discord közösségünkhöz!"
   },
   "InfoPage_MoreInfoGitHubLabel": {
-    "Value": "GitHub詳情"
+    "Value": "További információ a GitHub-on található."
   },
   "InfoPage_Social": {
-    "Value": "社交"
+    "Value": "Közösségi"
   },
   "MenuGames_Label": {
-    "Value": "遊戲"
+    "Value": "Játékok"
   },
   "MenuHome_Label": {
-    "Value": "主頁"
+    "Value": "Kezdőlap"
   },
   "MenuInfo_Label": {
-    "Value": "详情"
+    "Value": "Információ"
   },
   "MenuInput_Label": {
-    "Value": "控制器"
+    "Value": "Játékvezérlő"
   },
   "MenuSense2Key_Label": {
-    "Value": "映射"
+    "Value": "Sense2Key"
   },
   "MenuSettings_JoinBtn": {
-    "Value": "加入"
+    "Value": "Csatlakozás"
   },
   "MenuSettings_Label": {
-    "Value": "設置"
+    "Value": "Beállítások"
   },
   "MenuSettings_SubmitIssueBtn": {
-    "Value": "提交問題"
+    "Value": "Probléma bejelentése"
   },
   "MenuSettings_VisitBtn": {
-    "Value": "訪問"
+    "Value": "Meglátogat"
   },
   "Sense2Key_Configuration_HelpLabel1": {
-    "Value": "從下拉列表或者鍵盤上選擇"
+    "Value": "Válasszon a legördülő menüből, vagy nyomjon meg egy tetszőleges gombot a billentyűzeten!"
   },
   "Sense2Key_Configuration_HelpLabel2": {
-    "Value": "當選擇下拉列表時"
+    "Value": "Amíg a legördülő menü van kiválasztva"
   },
   "Sense2Key_Configuration_SaveConfigurationBtn": {
-    "Value": "保存配置"
+    "Value": "Konfiguráció mentése"
   },
   "Sense2Key_CreateProfileBtn": {
-    "Value": "創建配置"
+    "Value": "Profil létrehozása"
   },
   "Sense2Key_DeleteProfileBtn": {
-    "Value": "刪除"
+    "Value": "Törlés"
   },
   "Sense2Key_ExportProfileBtn": {
-    "Value": "匯出設定檔"
+    "Value": "Profil exportálása"
   },
   "Sense2Key_GetStartedLabel": {
-    "Value": "開始創建新的配置"
+    "Value": "Kezdje el egy új profil létrehozásával!"
   },
   "Sense2Key_ImportProfileBtn": {
-    "Value": "匯入設定檔"
+    "Value": "Profil importálása"
   },
   "Sense2Key_NewProfile_CancelBtn": {
-    "Value": "取消"
+    "Value": "Mégsem"
   },
   "Sense2Key_NewProfile_SaveNewProfilelBtn": {
-    "Value": "保存新配置"
+    "Value": "Új profil mentése"
   },
   "Sense2Key_NoProfilesAdded": {
-    "Value": "未新增配置文件"
+    "Value": "Nincsenek hozzáadva profilok."
   },
   "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
-    "Value": "延遲不能為負"
+    "Value": "A késleltetés nem lehet negatív!"
   },
   "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
-    "Value": "延遲不能為空"
+    "Value": "A késleltetés nem lehet üres!"
   },
   "Sense2Key_ProfileStatus_DelayUpdated": {
-    "Value": "延遲更新"
+    "Value": "Késleltetés frissítve"
   },
   "Sense2Key_ProfileStatus_ProfileCreated": {
-    "Value": "配置已創建"
+    "Value": "Profil létrehozva."
   },
   "Sense2Key_ProfileStatus_ProfileExists": {
-    "Value": "配置文件已存在"
+    "Value": "A profil már létezik!"
   },
   "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
-    "Value": "配置名不能為空"
+    "Value": "A profil neve nem lehet üres!"
   },
   "Sense2Key_ProfileStatus_ProfileNameUpdated": {
-    "Value": "配置名已更新"
+    "Value": "Profil neve frissítve"
   },
   "Sense2Key_ProfilesLabel": {
-    "Value": "配置文件"
+    "Value": "PROFILOK"
   },
   "Sense2Key_ProfilesWillShowHere": {
-    "Value": "你的配置文件將會在此顯示"
+    "Value": "Profiljaid itt jelennek meg."
   },
   "Sense2Key_SelectedProfile_DelayLabel": {
-    "Value": "延遲（毫秒）"
+    "Value": "Késleltetés (ezredmásodperc)"
   },
   "Sense2Key_SelectedProfile_DetailsLabel": {
-    "Value": "詳情"
+    "Value": "Részletek"
   },
   "Sense2Key_SelectedProfile_EditConfigurationBtn": {
-    "Value": "編輯配置"
+    "Value": "Konfiguráció szerkesztése"
   },
   "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
-    "Value": "輸入配置名稱"
+    "Value": "Kérem adja meg a profil nevét!"
   },
   "Sense2Key_SelectedProfile_ProfileNameLabel": {
-    "Value": "配置名稱"
+    "Value": "Profilnév"
   },
   "Sense2Key_SelectedProfile_ProfileStatus_Active": {
-    "Value": "狀態：配置使用中"
+    "Value": "Állapot: Aktív profil"
   },
   "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
-    "Value": "狀態：配置未啟用"
+    "Value": "Állapot: Profil NEM aktív"
   },
   "Sense2Key_SelectedProfile_StartBtn": {
-    "Value": "開始"
+    "Value": "Indítás"
   },
   "Sense2Key_SelectedProfile_StopBtn": {
-    "Value": "停止"
+    "Value": "Leállítás"
   },
   "Sense2Key_SelectedProfile_UpdateDelayBtn": {
-    "Value": "更新延遲"
+    "Value": "Késleltetés frissítése"
   },
   "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
-    "Value": "更新名稱"
+    "Value": "Név frissítése"
   },
   "SettingsPage_AppLabel": {
-    "Value": "應用"
+    "Value": "ALKALMAZÁS"
   },
   "SettingsPage_AppSettings_BorderColorLabel": {
-    "Value": "邊框顏色"
+    "Value": "Szegély színe"
   },
   "SettingsPage_AppSettings_Border_AlphaLabel": {
-    "Value": "Alpha (透明度)"
+    "Value": "Alfa (átlátszóság)"
   },
   "SettingsPage_AppSettings_Border_BlueLabel": {
-    "Value": "藍色"
+    "Value": "Kék"
   },
   "SettingsPage_AppSettings_Border_GreenLabel": {
-    "Value": "綠色"
+    "Value": "Zöld"
   },
   "SettingsPage_AppSettings_Border_RedLabel": {
-    "Value": "紅色"
+    "Value": "Piros"
   },
   "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
-    "Value": "模糊"
+    "Value": "Homályosítás"
   },
   "SettingsPage_AppSettings_CustomBackgroundLabel": {
-    "Value": "自訂背景影像"
+    "Value": "Egyéni háttérkép"
   },
   "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
-    "Value": "選定圖案"
+    "Value": "Válasszon egy képet:"
   },
   "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
-    "Value": "加長"
+    "Value": "Nyújtás"
   },
   "SettingsPage_AppSettings_DarkModeLabel": {
-    "Value": "深色模式"
+    "Value": "Sötét mód"
   },
   "SettingsPage_AppSettings_KeepInTrayLabel": {
-    "Value": "最小化時將應用程式保留在托盤中"
+    "Value": "Tartsa az alkalmazást a tálcán, ha le van kicsinyítve"
   },
   "SettingsPage_AppSettings_Label": {
-    "Value": "應用程序設置"
+    "Value": "Alkalmazás beállításai"
   },
   "SettingsPage_AppSettings_LanguageLabel": {
-    "Value": "語言"
+    "Value": "Nyelv"
   },
   "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
-    "Value": "啟動最小化"
+    "Value": "Program indítása lekicsinyítve"
   },
   "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
-    "Value": "將DualSenseX加入Windows啟動項"
+    "Value": "A DualSenseX indítása a Windows indításakor"
   },
   "SettingsPage_BackgroundLabel": {
-    "Value": "背景"
+    "Value": "Háttér"
   },
   "SettingsPage_BackgroundSettings_Label": {
-    "Value": "背景設置"
+    "Value": "Háttérbeállítások"
   },
   "SettingsPage_BackgroundSettings_SelectedBtn": {
-    "Value": "已選擇"
+    "Value": "Kiválasztva"
   },
   "SettingsPage_ControllerLabel": {
-    "Value": "控制器"
+    "Value": "Játékvezérlő"
   },
   "SettingsPage_ControllerSettings_AudioHapticsDefault": {
-    "Value": "預設音訊"
+    "Value": "Alapértelmezett hang"
   },
   "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
-    "Value": "重新整理清單"
+    "Value": "Lista frissítése"
   },
   "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
-    "Value": "耳機"
+    "Value": "Fül/fejhallgató"
   },
   "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
-    "Value": "耳機左側"
+    "Value": "Bal fül/fejhallgató"
   },
   "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
-    "Value": "耳機右側"
+    "Value": "Jobb fül/fejhallgató"
   },
   "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
-    "Value": "左馬達"
+    "Value": "Bal rezgőmotor"
   },
   "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
-    "Value": "右馬達"
+    "Value": "Jobb rezgőmotor"
   },
   "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
-    "Value": "喇叭"
+    "Value": "Hangszóró"
   },
   "SettingsPage_ControllerSettings_AudioSystem": {
-    "Value": "控制器音訊系統 (僅限 USB)"
+    "Value": "Vezérlő hangrendszere (CSAK USB-N KERESZTÜL!)"
   },
   "SettingsPage_ControllerSettings_AudioSystem_Headset": {
-    "Value": "耳機"
+    "Value": "Fül/fejhallgató"
   },
   "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
-    "Value": "耳機音量"
+    "Value": "Fül/fejhallgató hangereje"
   },
   "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
-    "Value": "內接喇叭"
+    "Value": "Belső hangszóró"
   },
   "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
-    "Value": "麥克風音量"
+    "Value": "Mikrofon hangereje"
   },
   "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
-    "Value": "音訊輸出模式"
+    "Value": "Hang kimeneti módja"
   },
   "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
-    "Value": "耳機與內接揚聲器"
+    "Value": "A fejhallgató és a belső hangszóró is"
   },
   "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
-    "Value": "音響音量"
+    "Value": "Hangszóró hangereje"
   },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
-    "Value": "當DualsenseX打開時自動連接"
+    "Value": "Automatikus csatlakozás a játékvezérlőhöz a DualSenseX megnyitásakor"
   },
   "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
-    "Value": "調整馬達強度"
+    "Value": "Rezgőmotor erejének beállítása"
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
-    "Value": "停用控制器震動"
+    "Value": "Vezérlő rezgéseinek letiltása"
   },
   "SettingsPage_ControllerSettings_EnableAudioHaptics": {
-    "Value": "啟用音訊觸覺回報 (僅限 USB)"
+    "Value": "Hangrezgések engedélyezése (CSAK USB-N KERESZTÜL!)"
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
-    "Value": "啟用隱藏"
+    "Value": "A HidHide engedélyezése"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "停用時啟用傳入震動"
+    "Value": "A bejövő rezgések engedélyezése, amíg le van tiltva"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
-    "Value": "連接時退出Steam"
+    "Value": "A Steam bezárása csatlakozáskor"
   },
   "SettingsPage_ControllerSettings_Label": {
-    "Value": "控制器設定"
+    "Value": "Játékvezérlő beállításai"
   },
   "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
-    "Value": "左觸發器臨界值"
+    "Value": "Bal ravasz küszöbértéke"
   },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
-    "Value": "啟動時載入最後一個啟動觸發器"
+    "Value": "Töltse be az utolsó aktív ravasz értékeit indításkor"
   },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
-    "Value": "連接時播放動畫"
+    "Value": "Fényjáték lejátszása csatlakozáskor"
   },
   "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
-    "Value": "按下 [麥克風 + UP] 按鈕開啟 Xbox 遊戲列"
+    "Value": "Nyomja meg a Mikrofon + FEL gombokat az Xbox Játéksáv megnyitásához"
   },
   "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
-    "Value": "預覽動畫"
+    "Value": "Fényjáték előnézete"
   },
   "SettingsPage_ControllerSettings_RightTriggerThreshold": {
-    "Value": "右觸發器臨界值"
+    "Value": "Jobb ravasz küszöbértéke"
   },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
-    "Value": "搜索直到連接控制器"
+    "Value": "A játékvezérlő keresése, amíg nem csatlakozik"
   },
   "SettingsPage_ControllerSettings_UDPPortListen": {
-    "Value": "啟用 UDP 連接埠監聽程式"
+    "Value": "UDP portfigyelő engedélyezése"
   },
   "SettingsPage_ControllerSettings_UDPPortNumber": {
-    "Value": "要接聽的 UDP 連接埠號碼"
+    "Value": "Az UDP port száma, amelyre figyelni kell"
   },
   "SettingsPage_ControllerSettings_VolumeSyncOptions": {
-    "Value": "磁碟區同步選項"
+    "Value": "Hangerő-szinkronizálási beállítások"
   },
   "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
-    "Value": "不同步"
+    "Value": "Ne szinkronizáljon"
   },
   "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
-    "Value": "全部同步處理"
+    "Value": "Összes szinkronizálása"
   },
   "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
-    "Value": "同步左馬達和右馬達"
+    "Value": "Bal és jobb rezgőmotor szinkronizálása"
   },
   "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
-    "Value": "同步左右揚聲器"
+    "Value": "Bal és jobb hangszórók összehangolása"
   },
   "SettingsPage_Settings_CheckForUpdatesLabel": {
-    "Value": "檢查更新"
+    "Value": "Frissítések keresése"
   },
   "SettingsPage_Settings_ResetAppDescription": {
-    "Value": "您確定要重設回預設設定嗎？"
+    "Value": "Biztosan vissza szeretné állítani a DualSenseX alapértelmezett beállításait?"
   },
   "SettingsPage_Settings_ResetAppLabel": {
-    "Value": "重置程式設定"
+    "Value": "Alkalmazásbeállítások visszaállítása"
   },
   "SettingsPage_Settings_ResetAppYesButton": {
-    "Value": "重設雙重分配性"
+    "Value": "A DualSenseX alaphelyzetbe állítása"
   }
 }

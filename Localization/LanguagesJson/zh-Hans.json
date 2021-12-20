@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "过渡速度"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "快"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "超"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "中"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "慢"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "触摸板 LED灯"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "崩溃或Bug？"
   },
+  "InfoPage_Donate": {
+    "Value": "捐赠"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "加入 Discord 社区"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "有关 GitHub 上的更多信息"
+  },
+  "InfoPage_Social": {
+    "Value": "社交"
   },
   "MenuGames_Label": {
     "Value": "游戏"

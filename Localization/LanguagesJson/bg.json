@@ -1,0 +1,680 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "Името на играта е намерено, но местоположението на файла не е намерено"
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "Името на играта не е намерено, но е намерено местоположението на файла"
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "Няма намерени параметри"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "Възпроизвежда се:"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "Свързано автоматично към контролер!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "Автоматично свързване към контролер"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "Свързано към контролер!"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "Връзката изгубена, търсенте на контролер!"
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "Връзката загубена, опит за повторно свързване"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "Грешка при автоматично свързване, моля проверете връзката!"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "Повторно свързване неуспешно, моля проверете връзката!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "Възстановена връзка към контролер!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "Търсене на контролер..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "Наистина ли искате да излезете?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "Отказ"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "Изтегляне на актуализация…"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "Контролерът DualSense вече няма да се показва като Dualshock 4 контролер!"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "Контролерът DualSense вече няма да се показва като Xbox контролер!"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "Изход"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "По-късно"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "Свързване към контролер"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "Изтегляне и инсталиране на драйвери"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "Изтегляне и инсталиране на драйвер..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "Моля, следвайте представените инструкции за ViGEmBus"
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "След като приключите с инсталирането на драйвера, можете да се свържете с контролера си."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "Грешка!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "Изглежда, че нямате инсталирани ViGEmBus драйвери"
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "Налична е актуализация!"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "Бихте ли искали да го инсталирате?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "Текуща версия: "
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "Изтегляне на актуализация…"
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "Разархивиране на актуализацията..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "Извличане на актуализация..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "Инсталиране на актуализация..."
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "Моля рестартирайте, за да приложите тази актуализация"
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "Рестартиране"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "Актуализацията инсталирана"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "Версия на актуализация: "
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "Да"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "Ниво на батерията:"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "Тип на връзката:"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "Свързано"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "Не е свързано"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "Ляв джойстик"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "Десен джойстик"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Използване на етикети за Xbox"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "Изображението се зарежда..."
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "Извличане на списък с игри..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "Няма добавени игри"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "Моля, проверете по-късно!"
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "Моля изчакайте..."
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "ЕТИКЕТИ"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "Преглед на играта"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "Игри"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "Търсене на игри по име или етикет"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "Прилагане на режим"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "Прилагане"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "Двата спусъка/Мотора"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "Ляв спусък/мотор"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "Десен спусък/мотор"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "Статус на връзката"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "Свържете контролер"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "Емулация на контролер:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Емулиране на Xbox 360"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "Емулиране DualShock 4"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "Не се емулира"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "Автоматично свързване към контролер..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "Свързване…"
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "Връзката игубена, опит за повторна връзка..."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "Контролер свързан"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "Неуспешно свързване, моля проверете връзката!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "Търсене на контролер..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "Изключване на приложението..."
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "Контролер LED"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "Яркост"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "Цветен режим"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "Дъга"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "Статичен цвят"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "Микрофон LED"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "ИЗКЛ."
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "ВКЛ."
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "Пулсиране"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "Играч LED"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "Всички изкл."
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "Всички вкл."
+  },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "По избор"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "Пет"
+  },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "Премигване при зареждане"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "Четири"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "Високо"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "Ниско"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "Средно"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "Едно"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "Три"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "Две"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "Скорост на дъгата"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Бързо"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Хипер"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "Средно"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Бавно"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "Тъчпад LED"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "Режим на контролер"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "Интензивност"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "Режим"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "Произволен режим + стойности"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "Рандомизиране на стойностите"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "Продължителност на вибрацията (Сек)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "Игра"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "Текстов файл"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "Местоположение на файла:"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "Изберете местоположение на текстовия файл"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "Активно"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "Състояние:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "Активен – Няма съвпадащи стойности на спусъка в текстовия файл!"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "Неактивен - Избраният файл не съществува!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "Не е активно"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "Неактивен - Няма избран файл!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "Неактивен - Това не е текстов файл, моля опитайте отново!"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "Спиране на четенето на текстовия файл"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "Крашвания или бъгове?"
+  },
+  "InfoPage_Donate": {
+    "Value": "Дарете"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "Присъединяване към Discord сървъра"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "Повече информация в GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "Социален"
+  },
+  "MenuGames_Label": {
+    "Value": "Игри"
+  },
+  "MenuHome_Label": {
+    "Value": "Начало"
+  },
+  "MenuInfo_Label": {
+    "Value": "Информация"
+  },
+  "MenuInput_Label": {
+    "Value": "Контролер"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "Присъединяване"
+  },
+  "MenuSettings_Label": {
+    "Value": "Настройки"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "Изпращане на проблем"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "Посети"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "Изберете от падащото меню или натиснете клавиш на клавиатурата"
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "докато падащото меню е избрано"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "Запазване на конфигурация"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "Създаване на профил"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "Изтрий"
+  },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "Експортиране на профил"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "Започнете, като създадете нов профил"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "Импортиране на профил"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "Отказ"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "Запазване на нов профил"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "Няма добавени профили"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "Забавянето не може да бъде отрицателно"
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "Забавянето не може да бъде празно"
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "Забавяне актуализирано"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "Профил създаден"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "Профилът вече съществува"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "Името на профила не може да бъде празно"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "Име на профила актуализирано"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "Профили"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "Вашите профили ще се появят тук"
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "Забавяне (милисекунди)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "Подробности"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "Редактиране на конфигурация"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "Въведете име на профил"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "Име на профила"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "Статус: Активен профил"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "Статус: Профил НЕ е активен"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "Старт"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "Стоп"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "Забавяне на актуализация"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "Актуализиране на името"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "ПРИЛОЖЕНИЕ"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "Цвят на рамката"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "Алфа (прозрачност)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "Синьо"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "Зелено"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "Червено"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "Замъгляване"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "Потребителско фоново изображение"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "Избор на изображение"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "Разтягане"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "Тъмен режим"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "Скриване на приложението при минимизиране"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "Настройки на приложението"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "Език"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "Стартиране минимизирано"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "Стартиране на DualSenseX заедно с Windows"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "Фон"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "Настройки на фона"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "Избрано"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "Контролер"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "Aудио по подразбиране"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "Опреснете списъка"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "Слушалки"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "Слушалки ляво"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "Слушалки дясно"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "Ляв мотор"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "Десен мотор"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "Високоговорител"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "Контролер аудио система (Само USB)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "Слушалки"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "Сила на звука на слушалки"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "Вътрешен говорител"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "Сила на звука на микрофона"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "Режим на аудио изход"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "Слушалки и вътрешен говорител"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "Сила на звука на високоговорителя"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "Автоматично свързване, при стартиране на DualSenseX"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "Регулиране на силата на моторчето"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "Деактивиране на вибрациите на контролера"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "Активиране на аудио Haptics (само USB)"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "Активиране на HidHide"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "Активиране входящите вибрации, докато е деактивирано"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "Автоматично изключване на Steam при свързване"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "Настройки на контролера"
+  },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "Праг на ляв спусък"
+  },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "Заредете последния активен спусък при стартиране"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "Изпълнение на светлинно шоу при свързване"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "Натиснете Mic + НАГОРЕ за отваряне на Xbox Game Bar"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "Преглед на светлинното шоу"
+  },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "Праг на десен спусък"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "Търсене, докато контролер се свърже"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "Активиране на слушане към UDP порт"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "Номер на UDP порт, който да се използва"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "Опции за синхронизиране на звука"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "Без синхронизиране"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "Синхронизиране на всички"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "Синхронизиране на левия и десния мотор"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "Синхронизиране на левия и десния говорител"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "Проверка за актуализации"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "Сигурни ли сте, че искате да възстановите DualSenseX обратно към настройките по подразбиране?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "Възстанови настройките на приложението"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "Нулиране на DualSenseX"
+  }
+}

@@ -48,7 +48,7 @@
     "Value": "正在下载更新…"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
-    "Value": "DualSense手柄将不再映射到PS4手柄"
+    "Value": "DualSense手柄将不再映射为PS4手柄"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
     "Value": "DualSense 控制器将不再映射为 Xbox 手柄！"
@@ -81,13 +81,13 @@
     "Value": "你似乎没有安装 ViGemBus 驱动程序"
   },
   "AppNotificationPopUp_UpdateAvailable": {
-    "Value": "更新可用"
+    "Value": "有可用更新"
   },
   "AppNotificationPopUp_UpdateAvailable_InstallIt": {
     "Value": "你想安装它吗？"
   },
   "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
-    "Value": "当前版本"
+    "Value": "当前版本："
   },
   "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
     "Value": "正在下载更新…"
@@ -192,7 +192,7 @@
     "Value": "模拟 Xbox 360 手柄"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
-    "Value": "模拟 dualShock 4"
+    "Value": "模拟 DualShock 4"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "未映射"
@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "过渡速度"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "快"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "超"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "中等"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "慢"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "触摸板 LED灯"
   },
@@ -321,7 +333,7 @@
     "Value": "选择文本文件位置"
   },
   "HomePage_TextFile_StatusActiveLabel": {
-    "Value": "活跃"
+    "Value": "启用"
   },
   "HomePage_TextFile_StatusLabel": {
     "Value": "状态"
@@ -333,7 +345,7 @@
     "Value": "未启动 - 选定的文件不存在！"
   },
   "HomePage_TextFile_StatusNotActiveLabel": {
-    "Value": "不活动"
+    "Value": "未启用"
   },
   "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
     "Value": "未启动 - 未选择文件！"
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "崩溃或Bug？"
   },
+  "InfoPage_Donate": {
+    "Value": "捐赠"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "加入 Discord 社区"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "有关 GitHub 上的更多信息"
+  },
+  "InfoPage_Social": {
+    "Value": "社交"
   },
   "MenuGames_Label": {
     "Value": "游戏"
@@ -471,7 +489,7 @@
     "Value": "更新延迟"
   },
   "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
-    "Value": "姓名更新"
+    "Value": "更新名称"
   },
   "SettingsPage_AppLabel": {
     "Value": "应用"
@@ -543,10 +561,10 @@
     "Value": "耳机"
   },
   "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
-    "Value": "向左耳机"
+    "Value": "耳机左声道"
   },
   "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
-    "Value": "对的耳机"
+    "Value": "耳机右声道"
   },
   "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
     "Value": "左马达"
@@ -582,7 +600,7 @@
     "Value": "扬声器音量"
   },
   "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
-    "Value": "DualsenSex 打开时自动连接"
+    "Value": "DualsenseX 打开时自动连接"
   },
   "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
     "Value": "调整震动强度"
@@ -597,7 +615,7 @@
     "Value": "启用 HidHide"
   },
   "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
-    "Value": "禁用时启用传入的震动"
+    "Value": "禁用传统震动"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
     "Value": "连接时关闭Steam"
@@ -606,7 +624,7 @@
     "Value": "手柄设置"
   },
   "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
-    "Value": "左触发阈值"
+    "Value": "左板机阈值"
   },
   "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
     "Value": "启动时加载上一个活动触发器"
@@ -621,7 +639,7 @@
     "Value": "预览灯光动画"
   },
   "SettingsPage_ControllerSettings_RightTriggerThreshold": {
-    "Value": "右触发阈值"
+    "Value": "右板机阈值"
   },
   "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
     "Value": "搜索直到手柄连接"
@@ -651,12 +669,12 @@
     "Value": "检查更新"
   },
   "SettingsPage_Settings_ResetAppDescription": {
-    "Value": "是否确实要将 dualsenSex 重置为默认设置？"
+    "Value": "是否确实要将 DualSenseX重置为默认设置？"
   },
   "SettingsPage_Settings_ResetAppLabel": {
     "Value": "重置应用"
   },
   "SettingsPage_Settings_ResetAppYesButton": {
-    "Value": "重置 dualsenSex"
+    "Value": "重置 DualSenseX"
   }
 }

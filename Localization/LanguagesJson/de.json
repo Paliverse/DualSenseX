@@ -9,13 +9,13 @@
     "Value": "Keine Paramater gefunden"
   },
   "AppCommandArgs_Playing": {
-    "Value": "Spielen:"
+    "Value": "%s wird abgespielt"
   },
   "AppNotificationLabel_AutoConnectedToController": {
     "Value": "Automatisch mit Controller verbunden!"
   },
   "AppNotificationLabel_AutoConnectingToController": {
-    "Value": "Automatisch verbinden mit Controller"
+    "Value": "Automatisches Verbinden mit Controller..."
   },
   "AppNotificationLabel_ConnectedToController": {
     "Value": "Verbunden mit Controller!"
@@ -39,7 +39,7 @@
     "Value": "Suche nach Controller..."
   },
   "AppNotificationPopUp_AreYouSureYouWantToExit": {
-    "Value": "Sind Sie sicher, dass Sie beenden wollen?"
+    "Value": "Möchten Sie die App beenden?"
   },
   "AppNotificationPopUp_Cancel": {
     "Value": "Abbrechen"
@@ -63,7 +63,7 @@
     "Value": "Mit Controller verbinden"
   },
   "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
-    "Value": "Downloaden und installieren Sie Treiber"
+    "Value": "Treiber herunterladen und installieren"
   },
   "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
     "Value": "Treiber wird heruntergeladen und installiert..."
@@ -135,7 +135,7 @@
     "Value": "Rechter Joystick"
   },
   "ControllerPage_UseXboxLabels": {
-    "Value": "Verwenden Sie Xbox Symbole"
+    "Value": "Xbox Symbole verwenden"
   },
   "GamsPage_GameImageLoadingLabel": {
     "Value": "Bilder werden geladen…"
@@ -189,7 +189,7 @@
     "Value": "Controller-Emulation:"
   },
   "HomePage_ConnectionStatus_EmulationType_Emulating360": {
-    "Value": "Emuliert Xbox 360"
+    "Value": "Emuliere Xbox 360"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
     "Value": "Emuliere DualShock 4"
@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "Regenbogen-Geschwindigkeit"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Schnell"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Hyper"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "Mittel"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Langsam"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "Touchpad-LED"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Abstürze oder Bugs?"
   },
+  "InfoPage_Donate": {
+    "Value": "Spenden"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "Tritt der Discord Community bei"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "Weitere Infos auf GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "Sozial"
   },
   "MenuGames_Label": {
     "Value": "Spiele"
@@ -600,7 +618,7 @@
     "Value": "Eingehende Vibrationen aktivieren, während sie deaktiviert sind"
   },
   "SettingsPage_ControllerSettings_KillSteamOnConnect": {
-    "Value": "Beendet Steam beim verbinden"
+    "Value": "Steam beim Verbinden beenden"
   },
   "SettingsPage_ControllerSettings_Label": {
     "Value": "Controller-Einstellungen"
@@ -612,7 +630,7 @@
     "Value": "Laden Sie den letzten aktiven Trigger beim Start"
   },
   "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
-    "Value": "Spielt eine Lichtshow beim verbinden"
+    "Value": "Spiele eine Lichtshow beim verbinden"
   },
   "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
     "Value": "Drücken Sie die Tasten Mic + UP, um die Xbox Game Bar zu öffnen"

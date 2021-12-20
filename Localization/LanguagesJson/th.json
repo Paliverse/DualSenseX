@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "ความเร็วการเปลี่ยนสีรุ้ง"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "เร็ว"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "ไฮเปอร์"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "ปานกลาง"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "ช้า"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "LED ของ Touchpad"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "โปรแกรมเด้งหรือพบบั๊ค?"
   },
+  "InfoPage_Donate": {
+    "Value": "บริจาค"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "เข้า Discord ของเรา"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "ข้อมูลเพิ่มเติมใน GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "สังคม"
   },
   "MenuGames_Label": {
     "Value": "เกม"

@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "Скорость радуги"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Быстро"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Гипер"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "Средняя"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Медленно"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "Подсветка сенсорной панели"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Сбои или ошибки?"
   },
+  "InfoPage_Donate": {
+    "Value": "Пожертвовать"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "Присоединяйтесь к сообществу Discord"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "Более подробная информация на GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "Социальное"
   },
   "MenuGames_Label": {
     "Value": "Игры"

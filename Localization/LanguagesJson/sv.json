@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "Regnbåge hastighet"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Snabb"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Hyper"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "Medel"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Långsam"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "Styrplatta LED"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Kraschar eller buggar?"
   },
+  "InfoPage_Donate": {
+    "Value": "Donera"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "Gå med i Discord communityn"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "Mer information på GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "Socialt"
   },
   "MenuGames_Label": {
     "Value": "Spel"

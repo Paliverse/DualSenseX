@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "Vitesse arc-en-ciel"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Rapide"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Hyper"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "Moyen"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Lent"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "LED du pavé tactile"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Des crashs ou des bugs ?"
   },
+  "InfoPage_Donate": {
+    "Value": "Faire un don"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "Rejoignez la communauté Discord"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "Plus d'infos sur GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "Réseaux sociaux"
   },
   "MenuGames_Label": {
     "Value": "Jeux"

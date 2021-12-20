@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "Regenboog Snelheid"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Snel"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Hyper"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "gemiddeld"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Langzaam"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "Touchpad LED"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Crashes of Bugs?"
   },
+  "InfoPage_Donate": {
+    "Value": "Doneren"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "Word lid van de Discord Community"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "Meer informatie te vinden op GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "Sociaal"
   },
   "MenuGames_Label": {
     "Value": "Spellen"

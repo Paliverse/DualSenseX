@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "Viteză Curcubeu"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Rapid"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Hiper"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "Mediu"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Încet"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "LED Touchpad"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Crash-uri Sau Bugs?"
   },
+  "InfoPage_Donate": {
+    "Value": "Donează"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "Alătură-te comunității pe Discord"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "Mai multe informații pe GitHub"
+  },
+  "InfoPage_Social": {
+    "Value": "Rețele sociale"
   },
   "MenuGames_Label": {
     "Value": "Jocuri"

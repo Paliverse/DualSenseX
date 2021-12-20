@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "Gökkuşağı Hızı"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Hızlı"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Aşırı"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "Orta"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Yavaş"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "Dokunmatik Yüzey LED"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Çökmeler veya Buglar?"
   },
+  "InfoPage_Donate": {
+    "Value": "Bağış yapın"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "Discord Topluluğuna Katıl"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "GitHub'da daha fazla bilgi"
+  },
+  "InfoPage_Social": {
+    "Value": "Sosyal"
   },
   "MenuGames_Label": {
     "Value": "Oyunlar"

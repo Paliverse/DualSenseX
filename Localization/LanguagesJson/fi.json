@@ -287,6 +287,18 @@
   "HomePage_ControllerLED_RainbowSpeedLabel": {
     "Value": "Sateenkaaren nopeus"
   },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "Nopea"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "Hyper"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "Normaali"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "Hidas"
+  },
   "HomePage_ControllerLED_TouchPadLEDLabel": {
     "Value": "Kosketuslevyn LED"
   },
@@ -347,11 +359,17 @@
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Kaatumisia tai Bugeja?"
   },
+  "InfoPage_Donate": {
+    "Value": "Lahjoita"
+  },
   "InfoPage_JoinDiscordLabel": {
     "Value": "Liity Discord-yhteisöön"
   },
   "InfoPage_MoreInfoGitHubLabel": {
     "Value": "Lisätietoja GitHubissa"
+  },
+  "InfoPage_Social": {
+    "Value": "Sosiaalinen"
   },
   "MenuGames_Label": {
     "Value": "Pelit"
