@@ -2,7 +2,7 @@
 (zh-Hant)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/zh-Hans.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/zh-Hant.json)
 (zh-CN)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/zh-Hans.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/zh-CN.json)
 (en-US)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/en-US-Flag.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/en-US.json)
-(en-GB)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/en-GB-Flag.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/en-GB.json)
+(en-GB)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/en-GB.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/en-GB.json)
 (pt-BR)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/pt-BR.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/pt-BR.json)
 (hr)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/hr.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/hr.json)
 (de)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/de.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/de.json)
