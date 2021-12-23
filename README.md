@@ -114,7 +114,7 @@ Want to contribute in trasnlating the app? Click below:
     <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=ffffff" /></a>
 
 ## **Screenshot:**
-![Screenshot 2021-05-12 205945](https://user-images.githubusercontent.com/4289084/118066856-11678d80-b365-11eb-9739-e12dcfbac3c0.png)
+![Screenshot 2021-05-12 205945](https://user-images.githubusercontent.com/4289084/147269478-d8aae25a-45f0-43f7-b505-5d3c1bdb5b8c.png)
 
 ## **Reviews:**
 [**AJ Bants YouTube Channel**](https://www.youtube.com/channel/UCTofyjsFVYEXwcNvzwiTWyw)
