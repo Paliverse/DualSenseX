@@ -36,7 +36,7 @@
 ## My other Work 
 All my Apple Apps (iOS) can be found [**here**](https://apps.apple.com/us/developer/paliverse-apps-llc/id949777640)
 <div align="left">
-  <h4 align="left">DSM (DualSenseM) for macOS</h4>
+  <h4 align="left">DualSenseM for macOS</h4>
   <a href="https://apps.apple.com/us/app/dsm-triggers-haptics-more/id1598693570?mt=12"><img src="imgs/macOSAppStoreButton.png" width="auto" height="70"/></a>
 </div>
 
