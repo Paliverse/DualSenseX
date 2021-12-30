@@ -41,7 +41,9 @@ All my Apple Apps (iOS) can be found [**here**](https://apps.apple.com/us/develo
 </div>
 
 
-## About App
+# About App
+### App only works with the `PS5 Controller DualSense`
+
 Bring your DualSense Controller to life on PC with support for Adaptive Triggers!
 
 Emulate with the following while also getting the functionality of a DualSense Controller:
