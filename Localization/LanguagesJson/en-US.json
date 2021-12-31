@@ -1,4 +1,10 @@
 {
+  "GeneralStuff_Button": {
+    "Value": "Button"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Sensitivity"
+  },
   "AppCommandArgs_FileLocationNotFound": {
     "Value": "Game Name found, but File Location not found"
   },
@@ -574,6 +580,30 @@
   },
   "SettingsPage_ControllerSettings_EnableHidHide": {
     "Value": "Enable HidHide"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Enable Touchpad to Mouse"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Scroll Speed - Tap with 2 fingers then drag"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Invert Scroll"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Normal Sensitivity Speed"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Slowdown Sensitivity Speed - Hold Button"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Fast Sensitivity Speed - Hold Button"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Left Click - Hold button to keep in pressed state"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Right Click - Hold Button then Tap or Press"
   },
   "SettingsPage_ControllerSettings_EnableAudioHaptics": {
     "Value": "Enable Audio Haptics (USB ONLY)"
