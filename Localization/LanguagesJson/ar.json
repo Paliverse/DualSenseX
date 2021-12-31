@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "ابحث عن الألعب بالاسم أو بالوسم"
   },
+  "GeneralStuff_Button": {
+    "Value": "زر"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "الحساسية"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "تطبيق الأسلوب"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "إعادة تعيين الحس المزدوج X"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "تمكين لوحة اللمس إلى الماوس"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "سرعة حساسية سريعة - زر الانتظار"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "التمرير العكسي"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "انقر بزر الماوس الأيسر - اضغط على زر الاحتفاظ به في حالة الضغط"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "سرعة الحساسية العادية"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "انقر بزر الماوس الأيمن - اضغط مع الاستمرار ثم اضغط أو اضغط"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "سرعة التمرير - اضغط بإصبعين ثم اسحب"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "سرعة حساسية التباطؤ - زر الانتظار"
   }
 }

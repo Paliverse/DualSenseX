@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "ค้นหาเกมตามชื่อหรือแท็ก"
   },
+  "GeneralStuff_Button": {
+    "Value": "ปุ่ม"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "ความไวต่อการสัมผัส"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "ปรับใช้โหมด"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "รีเซ็ต ดูอัลเซนเซ็กซ์"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "เปิดใช้งานทัชแพดเป็นเมาส์"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "ความเร็วความไวสูง - ปุ่มค้างไว้"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "พลิกกลับเลื่อน"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "คลิกซ้าย - ปุ่มค้างไว้เพื่อให้อยู่ในสถานะกด"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "ความเร็วความไวปกติ"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "คลิกขวา - กดปุ่มค้างไว้ แล้วแตะหรือกด"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "ความเร็วในการเลื่อน - แตะด้วย 2 นิ้วแล้วลาก"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "ความเร็วในการชะลอตัวความไวแสง - ปุ่มค้างไว้"
   }
 }

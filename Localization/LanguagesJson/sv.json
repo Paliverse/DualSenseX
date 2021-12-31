@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Sök efter spel genom namn eller tagg"
   },
+  "GeneralStuff_Button": {
+    "Value": "Knapp"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Känslighet"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Tillämpningsläge"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Återställ DualsenSex"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Aktivera pekplatta till mus"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Snabb känslighet Hastighet - Håll knappen"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Invertera rullning"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Vänsterklicka - Håll knappen för att hålla intryckt läge"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Normal känslighet"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Högerklicka - Håll ned knappen och tryck eller tryck på"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Rullningshastighet - Tryck med 2 fingrar och dra sedan"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Långsamma känslighetshastighet — håll knappen"
   }
 }

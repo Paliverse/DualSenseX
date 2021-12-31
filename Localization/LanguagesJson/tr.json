@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Oyunları İsmine veya Etiketine Göre Arama"
   },
+  "GeneralStuff_Button": {
+    "Value": "Düğme"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Hassasiyet"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Uygulama Modu"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "DualSenseX'i Sıfırla"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Dokunmatik Yüzey'i Fareye Etkinleştirme"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Hızlı Hassasiyet Hızı - Tutma Düğmesi"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Kaydırma Ters Çevir"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Sol Tıkla - Basılı tutmak için düğmeyi basılı tutun"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Normal Hassasiyet Hızı"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Sağ Tıkla - Düğmesini basılı tutun, ardından dokunun veya"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Kaydırma Hızı - 2 parmağınızla dokunun ve ardından sürükleyin"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Yavaşlama Hassasiyet Hızı - Tutma Düğmesi"
   }
 }

@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Procure jogos pelo nome ou tag"
   },
+  "GeneralStuff_Button": {
+    "Value": "Botão"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Sensibilidade"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Modo de aplicação"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Redefinir DualSensex"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Habilitar o touchpad para mouse"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Velocidade de sensibilidade rápida - botão de espera"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Inverter rolagem"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Clique com o botão esquerdo - segure o botão para o estado pressionado"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Velocidade de sensibilidade normal"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Clique com o botão direito - segure o botão e toque ou pressione"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Velocidade de rolagem - toque com 2 dedos e arraste"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Velocidade de sensibilidade de desaceleração - Botão de espera"
   }
 }

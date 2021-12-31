@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Cari Permainan mengikut Nama atau Tag"
   },
+  "GeneralStuff_Button": {
+    "Value": "Butang"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Sensitiviti"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Tetapkan Mod"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Tetapkan semula DualSenseX"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Dayakan Touchpad ke Tetikus"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Kelajuan Kepekaan Cepat - Pegang Butang"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Songsangkan Tatal"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Klik Kiri - Pegang butang untuk menyimpan dalam keadaan ditekan"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Kelajuan Kepekaan Normal"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Klik Kanan - Tahan Butang kemudian Ketik atau Tekan"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Kelajuan Tatal - Ketik dengan 2 jari kemudian seret"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Kelajuan Kepekaan Kelembapan - Pegang Butang"
   }
 }

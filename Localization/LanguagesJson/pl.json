@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Wyszukaj gry według nazwy lub tagu"
   },
+  "GeneralStuff_Button": {
+    "Value": "Przycisk"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Czułość"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Zastosuj tryb"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Resetuj DualSenSex"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Włączanie touchpada na mysz"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Szybka prędkość czułości — przycisk Hold"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Odwróć przewijanie"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Kliknij lewym przyciskiem - Przytrzymaj, aby utrzymać się w stanie wciśniętym"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Normalna prędkość czułości"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Kliknij prawym przyciskiem myszy - Przytrzymaj przycisk, a następnie naciśnij lub naciśnij"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Szybkość przewijania — stuknij dwoma palcami i przeciągnij"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Spowolnienie szybkości czułości — przycisk przytrzymaj"
   }
 }

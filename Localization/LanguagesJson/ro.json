@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Caută joc după Nume sau Tag"
   },
+  "GeneralStuff_Button": {
+    "Value": "Buton"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Sensibilitate"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Aplicați Modul"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Resetează DualSenSex"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Activare Touchpad la mouse"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Viteză rapidă de sensibilitate - Țineți butonul"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Inversează Derularea"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Stânga clic - butonul Hold pentru a păstra în stare apăsată"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Viteza normală de sensibilitate"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Faceți clic dreapta - Țineți apăsat butonul, apoi atingeți sau apăsați"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Viteza de derulare - Atingeți cu 2 degete apoi glisați"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Viteza de sensibilitate a încetinirii - țineți butonul"
   }
 }

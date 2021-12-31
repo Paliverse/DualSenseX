@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "按名称或标签搜索游戏"
   },
+  "GeneralStuff_Button": {
+    "Value": "按钮"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "灵敏度"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "应用模式"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "重置 dualsenSex"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "启用 “触摸板到鼠标”"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "快速灵敏度速度-按住按钮"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "反转滚动"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "左键单击-按住按钮可保持按下状态"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "正常灵敏度速度"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "右键单击-按住按钮，然后点击或按下"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "滚动速度-用两根手指轻点然后拖动"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "减速灵敏度速度-按住按钮"
   }
 }

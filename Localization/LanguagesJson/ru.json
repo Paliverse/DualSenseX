@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Поиск игр по имени или метке"
   },
+  "GeneralStuff_Button": {
+    "Value": "Кнопка"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "чуткость"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Применить режим"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Сброс настроек DualSenseX"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Включить сенсорную панель в мышь"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Быстрая скорость чувствительности - кнопка удержания"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Инвертировать свиток"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Щелчок левой кнопкой мыши - удерживайте кнопку, чтобы удерживать нажатое состояние"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Нормальная скорость чувствительности"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Щелкните правой кнопкой мыши - удерживайте кнопку, затем нажмите или нажмите"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Скорость прокрутки - коснитесь двумя пальцами, затем перетащите"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Скорость замедления чувствительности - кнопка удержания"
   }
 }

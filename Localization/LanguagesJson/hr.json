@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Pretraži igre po imenu ili oznaci"
   },
+  "GeneralStuff_Button": {
+    "Value": "Tipka"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Osjetljivost"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Primijeni način rada"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Resetiraj DualSenSex"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Omogući dodirnu plohu mišu"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Brza brzina osjetljivosti - gumb za držanje"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Preokreni pomicanje"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Lijevi klik - Držite gumb za držanje pritisnutog stanja"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Normalna brzina osjetljivosti"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Desnom tipkom miša - Držite gumb zatim Dodirnite ili Pritisnite"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Brzina pomicanja - Dodirnite s 2 prsta i povucite"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Brzina usporavanja osjetljivosti - gumb za držanje"
   }
 }

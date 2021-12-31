@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Пошук ігор за назвою або тегом"
   },
+  "GeneralStuff_Button": {
+    "Value": "Кнопка"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Чутливість"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Застосувати режим"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Скидання Dualsensex"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Увімкнути сенсорну панель для миші"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Швидкість збільшення чутливості - утримувати кнопку"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Інвертувати прокрутку"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Клацніть лівою кнопкою миші - утримуйте кнопку, щоб зберегти натиснутою"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Нормальна швидкість чутливості"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Права кнопка миші - утримуйте кнопку, а потім натисніть або натисніть"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Швидкість прокрутки - Торкніться двома пальцями, а потім перетягніть"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Швидкість зменшення чутливості - утримувати кнопку"
   }
 }

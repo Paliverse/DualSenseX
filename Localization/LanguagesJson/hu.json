@@ -24,7 +24,7 @@
     "Value": "A kapcsolat megszakadt, játékvezérlő keresése..."
   },
   "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
-    "Value": "A kapcsolat megszakadt, az újracsatlakozás megpróbálása..."
+    "Value": "A kapcsolat megszakadt, a csatlakozás újrapróbálása..."
   },
   "AppNotificationLabel_FailedToAutoConnect": {
     "Value": "Nem sikerült automatikusan csatlakozni, kérem ellenőrizze a kapcsolatot!"
@@ -63,7 +63,7 @@
     "Value": "Csatlakozás a játékvezérlőhöz"
   },
   "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
-    "Value": "Illesztőprogramok letöltése és telepítése..."
+    "Value": "Illesztőprogramok letöltése és telepítése"
   },
   "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
     "Value": "Az illesztőprogram letöltése és telepítése..."
@@ -72,7 +72,7 @@
     "Value": "Kérem kövesse a ViGEmBus telepítője által bemutatott utasításokat!"
   },
   "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
-    "Value": "Miután befejezte az illesztőprogram telepítését, csatlakozhat a játékvezérlőhöz."
+    "Value": "Miután befejezte az illesztőprogram telepítését, csatlakoztathatja a játékvezérlőjét."
   },
   "AppNotificationPopUp_MissingDriver_Uh-oh": {
     "Value": "Ó, jaj!"
@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Játékok keresése név vagy címke szerint"
   },
+  "GeneralStuff_Button": {
+    "Value": "Gomb"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Érzékenység"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Adaptív ravasz módjának kiválasztása"
   },
@@ -195,7 +201,7 @@
     "Value": "DualShock 4 emulálása"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
-    "Value": "Semmit sem emulál"
+    "Value": "Nem emulál"
   },
   "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
     "Value": "Automatikus csatlakozás a játékvezérlőhöz..."
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "A DualSenseX alaphelyzetbe állítása"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Az érintőpad engedélyezése az egérhez"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Gyors érzékenység sebesség - Tartsa lenyomva"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Görgetés fordítása"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Bal egérgombbal - Tartsa lenyomva a gombot a préselt állapotban tartáshoz"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Normál érzékenységi sebesség"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Jobb klikk - Tartsa lenyomva a gombot, majd érintse"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Görgetési sebesség - Érintse meg 2 ujjal, majd húzza"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Lassulás érzékenységi sebesség - Tartsa lenyomva a gombot"
   }
 }

@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Etsi pelejä nimellä tai tunnisteella"
   },
+  "GeneralStuff_Button": {
+    "Value": "Painike"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Herkkyys"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Käytä tilaa"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Nollaa DualsenSex"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Ota kosketuslevy käyttöön hiirelle"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Nopea herkkyysnopeus - Pidä painiketta"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Käänteinen Scroll"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Vasen Napsauta - Pidä painiketta pitää painetussa tilassa"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Normaali herkkyysnopeus"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Napsauta hiiren kakkospainikkeella - Pidä painiketta ja napauta tai paina"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Scroll Speed - Napauta kahdella sormella ja vedä"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Hidastumisen herkkyysnopeus - Pidä painiketta"
   }
 }

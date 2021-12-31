@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Zoek spellen bij Naam of Tag"
   },
+  "GeneralStuff_Button": {
+    "Value": "Knop"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Gevoeligheid"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Modus toepassen"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "DualSense X opnieuw instellen"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Touchpad naar muis inschakelen"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Snelle gevoeligheidssnelheid - houd knop vast"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Scroll omkeren"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Klik met de linkermuisknop - Houd de knop ingedrukt om ingedrukt te blijven"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Normale gevoeligheidssnelheid"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Klik met de rechtermuisknop - Knop ingedrukt en tik of druk op"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Scrollsnelheid - Tik met 2 vingers en sleep"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Snelheid van gevoeligheid vertragen - Knop vasthouden"
   }
 }

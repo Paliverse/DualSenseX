@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Søg efter spil efter navn eller etikette "
   },
+  "GeneralStuff_Button": {
+    "Value": "Knap"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Følsomhed"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Anvend tilstand"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Nulstil DualSenSex"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Aktivér touchpad til mus"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Hurtig følsomhedshastighed - Hold knappen"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Inverter Scroll"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Venstre Klik - Hold knappen for at holde i trykket tilstand"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Normal følsomhed hastighed"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Højreklik - Hold knappen og tryk derefter på eller Tryk"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Scroll Speed - Tryk med 2 fingre og træk"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Afmatning Følsomhed Hastighed - Hold knappen"
   }
 }

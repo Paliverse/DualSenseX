@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Търсене на игри по име или етикет"
   },
+  "GeneralStuff_Button": {
+    "Value": "Бутон"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Чувствителност"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Прилагане на режим"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Нулиране на DualSenseX"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Активиране на тъчпад към мишка"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Бърза скорост на чувствителност - задръжте бутон"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Инвертен превъртане"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Кликнете с левия бутон - Задръжте бутона, за да се запази в"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Нормална скорост на чувствителност"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Кликнете с десния бутон - Задръжте бутона, след което докоснете"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Скорост на превъртане - Докоснете с 2 пръста и"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Скорост на чувствителност на забавяне - Задръжте"
   }
 }

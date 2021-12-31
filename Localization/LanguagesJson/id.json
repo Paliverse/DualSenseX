@@ -164,6 +164,12 @@
   "GamsPage_SearchbarPlaceholder": {
     "Value": "Cari Permainan berdasarkan Nama atau Label"
   },
+  "GeneralStuff_Button": {
+    "Value": "Tombol"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "Sensitivitas"
+  },
   "HomePage_ApplyModeLabel": {
     "Value": "Terapkan Mode"
   },
@@ -676,5 +682,29 @@
   },
   "SettingsPage_Settings_ResetAppYesButton": {
     "Value": "Atur ulang DualSenseX"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "Mengaktifkan Touchpad ke Mouse"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "Kecepatan Sensitivitas Cepat - Tahan Tombol"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "Balikkan Gulir"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "Klik Kiri - Tahan tombol untuk tetap dalam keadaan ditekan"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "Kecepatan Sensitivitas normal"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "Klik Kanan - Tahan Tombol lalu Ketuk atau Tekan"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "Kecepatan Gulir - Ketuk dengan 2 jari lalu seret"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "Kecepatan Sensitivitas Perlambatan - Tahan Tombol"
   }
 }
