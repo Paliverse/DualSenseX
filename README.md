@@ -70,7 +70,7 @@ To use DualSenseX,
     * Download the latest `ViGEmBus` drivers from the [ViGEmBus release page](https://github.com/ViGEm/ViGEmBus/releases/latest).  
     * To install, double-click `ViGEmBus_Setup_{version}.exe` and follow the instructions presented.
     
-* Very important and required get HidHide Driver:
+* HidHide Driver (OPTIONAL):
     * Download the latest `HidHide` drivers from the [HidHide release page](https://github.com/ViGEm/HidHide/releases/latest).  
     * To install, double-click `HidHideMSI.msi` and follow the instructions presented.
     * **MAKE SURE YOU REBOOT TO TAKE EFFECT**
