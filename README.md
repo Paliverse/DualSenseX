@@ -95,6 +95,10 @@ Once thats done, the DualSense Controller should auto connect to the App.
 - Custom Border RGB Color with Transparency options
 - and many more...
 
+## DualSenseAT
+DualSenseAT is an application that uses the Adaptive Triggers system that DualSenseX provides, making it possible to use the Adaptive Triggers feature in various PC games.
+<a href="https://trello.com/b/mDUMw1sN" alt="DualSenseAT"> Get DualSenseAT</a>
+
 ## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
 
 [![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner4)](https://discord.gg/PUThpCFByn)
