@@ -1,0 +1,710 @@
+{
+  "AppCommandArgs_FileLocationNotFound": {
+    "Value": "게임 이름은 찾았지만, 파일 위치를 찾을 수 없습니다."
+  },
+  "AppCommandArgs_GameNameNotFound": {
+    "Value": "게임 이름을 찾을 수 없지만, 파일 위치를 찾았습니다."
+  },
+  "AppCommandArgs_NoParamersFound": {
+    "Value": "매개변수를 찾을 수 없음"
+  },
+  "AppCommandArgs_Playing": {
+    "Value": "플레이중:"
+  },
+  "AppNotificationLabel_AutoConnectedToController": {
+    "Value": "컨트롤러에 자동으로 연결되었습니다!"
+  },
+  "AppNotificationLabel_AutoConnectingToController": {
+    "Value": "컨트롤러에 자동 연결 중"
+  },
+  "AppNotificationLabel_ConnectedToController": {
+    "Value": "컨트롤러에 연결되었습니다!"
+  },
+  "AppNotificationLabel_ConnectionLost": {
+    "Value": "연결 끊김, 컨트롤러 검색 중..."
+  },
+  "AppNotificationLabel_ConnectionLostAttemptingToRconnect": {
+    "Value": "연결 끊김, 다시 연결 시도 중"
+  },
+  "AppNotificationLabel_FailedToAutoConnect": {
+    "Value": "자동 연결에 실패했습니다. 연결을 확인하세요!"
+  },
+  "AppNotificationLabel_FailedToRconnect": {
+    "Value": "다시 연결하지 못했습니다. 연결을 확인하세요!"
+  },
+  "AppNotificationLabel_ReconnectedToController": {
+    "Value": "컨트롤러에 다시 연결되었습니다!"
+  },
+  "AppNotificationLabel_SearchingForController": {
+    "Value": "컨트롤러 검색 중..."
+  },
+  "AppNotificationPopUp_AreYouSureYouWantToExit": {
+    "Value": "종료하시겠습니까?"
+  },
+  "AppNotificationPopUp_Cancel": {
+    "Value": "취소"
+  },
+  "AppNotificationPopUp_DownloadUpdate": {
+    "Value": "업데이트 다운로드 중..."
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
+    "Value": "듀얼센스 컨트롤러가 더이상 듀얼쇼크 4 컨트롤러로 인식되지 않습니다!"
+  },
+  "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
+    "Value": "듀얼센스 컨트롤러가 더 이상 Xbox 컨트롤러로 인식되지 않습니다!"
+  },
+  "AppNotificationPopUp_Exit": {
+    "Value": "종료"
+  },
+  "AppNotificationPopUp_Later": {
+    "Value": "나중에"
+  },
+  "AppNotificationPopUp_MissingDriver_ConnectToController": {
+    "Value": "컨트롤러에 연결"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadAndInstall": {
+    "Value": "드라이버 다운로드 및 설치"
+  },
+  "AppNotificationPopUp_MissingDriver_DownloadingAndInstalling": {
+    "Value": "드라이버 다운로드 및 설치 중..."
+  },
+  "AppNotificationPopUp_MissingDriver_FollowViGEmBusInstructions": {
+    "Value": "제시된 ViGEmBus 지침을 따르십시오."
+  },
+  "AppNotificationPopUp_MissingDriver_OnceFinishedInstalling": {
+    "Value": "드라이버 설치가 끝나면 컨트롤러에 연결할 수 있습니다."
+  },
+  "AppNotificationPopUp_MissingDriver_Uh-oh": {
+    "Value": "이런!"
+  },
+  "AppNotificationPopUp_MissingDriver_YouDontHaveViGEmBusDriverse": {
+    "Value": "ViGEmBus 드라이버가 설치되어 있지 않은 것 같습니다."
+  },
+  "AppNotificationPopUp_UpdateAvailable": {
+    "Value": "업데이트 이용 가능!"
+  },
+  "AppNotificationPopUp_UpdateAvailable_InstallIt": {
+    "Value": "설치 하시겠습니까?"
+  },
+  "AppNotificationPopUp_UpdateProccess_CurrentVersion": {
+    "Value": "현재 버전:"
+  },
+  "AppNotificationPopUp_UpdateProccess_DownloadingUpdate": {
+    "Value": "업데이트 다운로드 중…"
+  },
+  "AppNotificationPopUp_UpdateProccess_ExtractingUpdate": {
+    "Value": "업데이트 추출 중..."
+  },
+  "AppNotificationPopUp_UpdateProccess_FetchingUpdate": {
+    "Value": "업데이트를 가져오는 중..."
+  },
+  "AppNotificationPopUp_UpdateProccess_InstallingUpdate": {
+    "Value": "업데이트 설치 중…"
+  },
+  "AppNotificationPopUp_UpdateProccess_PleaseRestartToApplyUpdate": {
+    "Value": "업데이트를 적용하려면 다시 시작해 주세요."
+  },
+  "AppNotificationPopUp_UpdateProccess_Restart": {
+    "Value": "재시작"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
+    "Value": "업데이트 설치됨"
+  },
+  "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
+    "Value": "업데이트 버전: "
+  },
+  "AppNotificationPopUp_Yes": {
+    "Value": "예"
+  },
+  "ControllerPage_BatteryLevelLabel": {
+    "Value": "배터리 잔량:"
+  },
+  "ControllerPage_ConnectionTypeLabel": {
+    "Value": "연결 유형:"
+  },
+  "ControllerPage_ConnectionType_Connected": {
+    "Value": "연결됨"
+  },
+  "ControllerPage_ConnectionType_NotConnected": {
+    "Value": "연결 안 됨"
+  },
+  "ControllerPage_LeftJoyStickLabel": {
+    "Value": "왼쪽 조이스틱"
+  },
+  "ControllerPage_RightJoyStickLabel": {
+    "Value": "오른쪽 조이스틱"
+  },
+  "ControllerPage_UseXboxLabels": {
+    "Value": "Xbox 표기 사용"
+  },
+  "GamsPage_GameImageLoadingLabel": {
+    "Value": "이미지 로드 중…"
+  },
+  "GamsPage_GameListStatusOne_FetchingGameList": {
+    "Value": "게임 목록을 가져오는 중..."
+  },
+  "GamsPage_GameListStatusOne_NoGamesAdded": {
+    "Value": "추가된 게임 없음"
+  },
+  "GamsPage_GameListStatusTwo_CheckBackLater": {
+    "Value": "나중에 다시 확인해 주세요!"
+  },
+  "GamsPage_GameListStatusTwo_PleaseWait": {
+    "Value": "잠시 기다려 주세요."
+  },
+  "GamsPage_GameTagsLabel": {
+    "Value": "태그"
+  },
+  "GamsPage_GameViewGameBtn": {
+    "Value": "게임 보기"
+  },
+  "GamsPage_GamesLabel": {
+    "Value": "게임"
+  },
+  "GamsPage_SearchbarPlaceholder": {
+    "Value": "이름 또는 태그로 게임 검색"
+  },
+  "GeneralStuff_Button": {
+    "Value": "버튼"
+  },
+  "GeneralStuff_Sensitivity": {
+    "Value": "민감도"
+  },
+  "HomePage_ApplyModeLabel": {
+    "Value": "모드 적용"
+  },
+  "HomePage_ApplyMode_ApplyBtn": {
+    "Value": "적용"
+  },
+  "HomePage_ApplyMode_BothTriggerMotorLabel": {
+    "Value": "트리거/모터 모두"
+  },
+  "HomePage_ApplyMode_LeftTriggerMotorLabel": {
+    "Value": "왼쪽 트리거/모터"
+  },
+  "HomePage_ApplyMode_RightTriggerMotorLabel": {
+    "Value": "오른쪽 트리거/모터"
+  },
+  "HomePage_ConnectionStatusLabel": {
+    "Value": "연결 상태"
+  },
+  "HomePage_ConnectionStatus_ConnectControllerBtn": {
+    "Value": "컨트롤러 연결"
+  },
+  "HomePage_ConnectionStatus_EmulationType_ComboboxLabel": {
+    "Value": "컨트롤러 에뮬레이션:"
+  },
+  "HomePage_ConnectionStatus_EmulationType_Emulating360": {
+    "Value": "Xbox 360 에뮬레이션"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
+    "Value": "듀얼쇼크 4 에뮬레이션"
+  },
+  "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
+    "Value": "에뮬레이션 안 함"
+  },
+  "HomePage_ConnectionStatus_Status_AutoConnectingToController": {
+    "Value": "컨트롤러에 자동 연결 중..."
+  },
+  "HomePage_ConnectionStatus_Status_Connecting": {
+    "Value": "연결 중..."
+  },
+  "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
+    "Value": "연결이 끊어졌습니다. 다시 연결을 시도하는 중..."
+  },
+  "HomePage_ConnectionStatus_Status_ControllerConnected": {
+    "Value": "컨트롤러 연결 됨"
+  },
+  "HomePage_ConnectionStatus_Status_FailedToConnect": {
+    "Value": "연결하지 못했습니다. 연결을 확인하세요!"
+  },
+  "HomePage_ConnectionStatus_Status_SearchingForController": {
+    "Value": "컨트롤러 검색 중..."
+  },
+  "HomePage_ConnectionStatus_Status_ShuttingDownApp": {
+    "Value": "애플리케이션 종료 중..."
+  },
+  "HomePage_ControllerLEDLabel": {
+    "Value": "컨트롤러 LED"
+  },
+  "HomePage_ControllerLED_BrightnessLabel": {
+    "Value": "밝기"
+  },
+  "HomePage_ControllerLED_ColorModeBtn": {
+    "Value": "색상 모드"
+  },
+  "HomePage_ControllerLED_ColorMode_RainbowLabel": {
+    "Value": "무지개"
+  },
+  "HomePage_ControllerLED_ColorMode_StaticColorLabel": {
+    "Value": "고정 색상"
+  },
+  "HomePage_ControllerLED_MicLEDLabel": {
+    "Value": "마이크 LED"
+  },
+  "HomePage_ControllerLED_MicLED_OffBtn": {
+    "Value": "끄기"
+  },
+  "HomePage_ControllerLED_MicLED_OnBtn": {
+    "Value": "켜기"
+  },
+  "HomePage_ControllerLED_MicLED_PulseBtn": {
+    "Value": "점멸"
+  },
+  "HomePage_ControllerLED_PlayerLEDLabel": {
+    "Value": "플레이어 LED"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOffBtn": {
+    "Value": "전체 끄기"
+  },
+  "HomePage_ControllerLED_PlayerLED_AllOnBtn": {
+    "Value": "전체 켜기"
+  },
+  "HomePage_ControllerLED_PlayerLED_CustomBtn": {
+    "Value": "사용자 지정"
+  },
+  "HomePage_ControllerLED_PlayerLED_FiveBtn": {
+    "Value": "5"
+  },
+  "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
+    "Value": "충전 중 깜빡이기"
+  },
+  "HomePage_ControllerLED_PlayerLED_FourBtn": {
+    "Value": "4"
+  },
+  "HomePage_ControllerLED_PlayerLED_HighBrightnessBtn": {
+    "Value": "높게"
+  },
+  "HomePage_ControllerLED_PlayerLED_LowBrightnessBtn": {
+    "Value": "낮게"
+  },
+  "HomePage_ControllerLED_PlayerLED_MediumBrightnessBtn": {
+    "Value": "중간"
+  },
+  "HomePage_ControllerLED_PlayerLED_OneBtn": {
+    "Value": "1"
+  },
+  "HomePage_ControllerLED_PlayerLED_ThreeBtn": {
+    "Value": "3"
+  },
+  "HomePage_ControllerLED_PlayerLED_TwoBtn": {
+    "Value": "2"
+  },
+  "HomePage_ControllerLED_RainbowSpeedLabel": {
+    "Value": "무지개 속도"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Fast": {
+    "Value": "빠름"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Hyper": {
+    "Value": "초고속"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Medium": {
+    "Value": "매질"
+  },
+  "HomePage_ControllerLED_RainbowSpeed_Slow": {
+    "Value": "저속"
+  },
+  "HomePage_ControllerLED_TouchPadLEDLabel": {
+    "Value": "터치패드 LED"
+  },
+  "HomePage_ControllerModeLabel": {
+    "Value": "컨트롤러 모드"
+  },
+  "HomePage_ControllerMode_IntensityLabel": {
+    "Value": "강도"
+  },
+  "HomePage_ControllerMode_ModeLabel": {
+    "Value": "모드"
+  },
+  "HomePage_ControllerMode_RandomizeModeAndValues": {
+    "Value": "랜덤화 모드 + 값"
+  },
+  "HomePage_ControllerMode_RandomizeValues": {
+    "Value": "값 랜덤화"
+  },
+  "HomePage_ControllerMode_VibrationDurationLabel": {
+    "Value": "진동 지속 시간 (초)"
+  },
+  "HomePage_GameLabel": {
+    "Value": "게임"
+  },
+  "HomePage_TextFileLabel": {
+    "Value": "텍스트 파일"
+  },
+  "HomePage_TextFile_FileLocationLabel": {
+    "Value": "파일 위치 :"
+  },
+  "HomePage_TextFile_SlectFileBtn": {
+    "Value": "텍스트 파일 위치 선택"
+  },
+  "HomePage_TextFile_StatusActiveLabel": {
+    "Value": "활성화 됨"
+  },
+  "HomePage_TextFile_StatusLabel": {
+    "Value": "상태:"
+  },
+  "HomePage_TextFile_StatusNoMatchingTriggerValuesLabel": {
+    "Value": "활성화 됨 - 텍스트 파일에 일치하는 트리거 값이 없습니다!"
+  },
+  "HomePage_TextFile_StatusNotActiveDoesNotExistLabel": {
+    "Value": "활성화되지 않음- 선택한 파일이 없습니다!"
+  },
+  "HomePage_TextFile_StatusNotActiveLabel": {
+    "Value": "활성화되지 않음"
+  },
+  "HomePage_TextFile_StatusNotActiveNoFileSelectedLabel": {
+    "Value": "활성화되지 않음 - 파일이 선택되지 않았습니다!"
+  },
+  "HomePage_TextFile_StatusNotActiveNotATextFileLabel": {
+    "Value": "활성화되지 않음 - 텍스트 파일이 아닙니다. 다시 시도하십시오!"
+  },
+  "HomePage_TextFile_StopReadingBtn": {
+    "Value": "텍스트 파일 읽기 중지"
+  },
+  "InfoPage_CrashesOrBugsLabel": {
+    "Value": "충돌 또는 버그가 있나요?"
+  },
+  "InfoPage_Donate": {
+    "Value": "기부하기"
+  },
+  "InfoPage_JoinDiscordLabel": {
+    "Value": "디스코드 커뮤니티 가입"
+  },
+  "InfoPage_MoreInfoGitHubLabel": {
+    "Value": "GitHub에 대한 추가 정보"
+  },
+  "InfoPage_Social": {
+    "Value": "소셜"
+  },
+  "MenuGames_Label": {
+    "Value": "게임"
+  },
+  "MenuHome_Label": {
+    "Value": "홈"
+  },
+  "MenuInfo_Label": {
+    "Value": "정보"
+  },
+  "MenuInput_Label": {
+    "Value": "컨트롤러"
+  },
+  "MenuSense2Key_Label": {
+    "Value": "Sense2Key"
+  },
+  "MenuSettings_JoinBtn": {
+    "Value": "참여"
+  },
+  "MenuSettings_Label": {
+    "Value": "설정"
+  },
+  "MenuSettings_SubmitIssueBtn": {
+    "Value": "이슈 제출"
+  },
+  "MenuSettings_VisitBtn": {
+    "Value": "방문"
+  },
+  "Sense2Key_Configuration_HelpLabel1": {
+    "Value": "드롭다운에서 선택하거나 키보드에서 키를 누릅니다."
+  },
+  "Sense2Key_Configuration_HelpLabel2": {
+    "Value": "드롭다운을 선택한 경우"
+  },
+  "Sense2Key_Configuration_SaveConfigurationBtn": {
+    "Value": "구성 저장"
+  },
+  "Sense2Key_CreateProfileBtn": {
+    "Value": "프로필 생성"
+  },
+  "Sense2Key_DeleteProfileBtn": {
+    "Value": "삭제"
+  },
+  "Sense2Key_ExportProfileBtn": {
+    "Value": "프로필 내보내기"
+  },
+  "Sense2Key_GetStartedLabel": {
+    "Value": "새 프로필을 만들어 시작하기"
+  },
+  "Sense2Key_ImportProfileBtn": {
+    "Value": "프로필 가져오기"
+  },
+  "Sense2Key_NewProfile_CancelBtn": {
+    "Value": "취소"
+  },
+  "Sense2Key_NewProfile_SaveNewProfilelBtn": {
+    "Value": "새 프로필 저장"
+  },
+  "Sense2Key_NoProfilesAdded": {
+    "Value": "추가된 프로필 없음"
+  },
+  "Sense2Key_ProfileStatus_DelayCannotBeNegative": {
+    "Value": "지연시간은 음수일 수 없습니다."
+  },
+  "Sense2Key_ProfileStatus_DelayCantBeEmpty": {
+    "Value": "지연시간은 비워둘 수 없습니다."
+  },
+  "Sense2Key_ProfileStatus_DelayUpdated": {
+    "Value": "지연시간 업데이트됨"
+  },
+  "Sense2Key_ProfileStatus_ProfileCreated": {
+    "Value": "프로필 생성됨"
+  },
+  "Sense2Key_ProfileStatus_ProfileExists": {
+    "Value": "프로필이 이미 존재합니다"
+  },
+  "Sense2Key_ProfileStatus_ProfileNameCantBeEmpty": {
+    "Value": "프로필 이름은 비워둘 수 없습니다."
+  },
+  "Sense2Key_ProfileStatus_ProfileNameUpdated": {
+    "Value": "프로필 이름 업데이트됨"
+  },
+  "Sense2Key_ProfilesLabel": {
+    "Value": "프로필"
+  },
+  "Sense2Key_ProfilesWillShowHere": {
+    "Value": "프로필이 여기에 표시됩니다."
+  },
+  "Sense2Key_SelectedProfile_DelayLabel": {
+    "Value": "지연시간 (ms)"
+  },
+  "Sense2Key_SelectedProfile_DetailsLabel": {
+    "Value": "세부정보"
+  },
+  "Sense2Key_SelectedProfile_EditConfigurationBtn": {
+    "Value": "구성 편집"
+  },
+  "Sense2Key_SelectedProfile_EnterProfileNamePlaceholder": {
+    "Value": "프로필 이름 입력"
+  },
+  "Sense2Key_SelectedProfile_ProfileNameLabel": {
+    "Value": "프로필 이름"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_Active": {
+    "Value": "상태: 프로필 활성"
+  },
+  "Sense2Key_SelectedProfile_ProfileStatus_NotActive": {
+    "Value": "상태: 프로필 비활성화"
+  },
+  "Sense2Key_SelectedProfile_StartBtn": {
+    "Value": "시작"
+  },
+  "Sense2Key_SelectedProfile_StopBtn": {
+    "Value": "중지"
+  },
+  "Sense2Key_SelectedProfile_UpdateDelayBtn": {
+    "Value": "지연시간 업데이트"
+  },
+  "Sense2Key_SelectedProfile_UpdateProfileNameBtn": {
+    "Value": "이름 업데이트"
+  },
+  "SettingsPage_AppLabel": {
+    "Value": "앱"
+  },
+  "SettingsPage_AppSettings_BorderColorLabel": {
+    "Value": "테두리 색상"
+  },
+  "SettingsPage_AppSettings_Border_AlphaLabel": {
+    "Value": "알파 (투명도)"
+  },
+  "SettingsPage_AppSettings_Border_BlueLabel": {
+    "Value": "파랑"
+  },
+  "SettingsPage_AppSettings_Border_GreenLabel": {
+    "Value": "녹색"
+  },
+  "SettingsPage_AppSettings_Border_RedLabel": {
+    "Value": "빨강"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundBlurLabel": {
+    "Value": "흐림"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundLabel": {
+    "Value": "사용자 정의 배경 이미지"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundSelectImageBtn": {
+    "Value": "이미지 선택"
+  },
+  "SettingsPage_AppSettings_CustomBackgroundStretchComboBoxLabel": {
+    "Value": "늘리기"
+  },
+  "SettingsPage_AppSettings_DarkModeLabel": {
+    "Value": "다크 모드"
+  },
+  "SettingsPage_AppSettings_KeepInTrayLabel": {
+    "Value": "최소화할 때 앱을 트레이에 유지"
+  },
+  "SettingsPage_AppSettings_Label": {
+    "Value": "앱 설정"
+  },
+  "SettingsPage_AppSettings_LanguageLabel": {
+    "Value": "언어"
+  },
+  "SettingsPage_AppSettings_LaunchMinimizedCheckmark": {
+    "Value": "시작시 최소화"
+  },
+  "SettingsPage_AppSettings_LaunchWindowsStartupLabel": {
+    "Value": "윈도우 시작 시 DualSenseX 실행"
+  },
+  "SettingsPage_BackgroundLabel": {
+    "Value": "배경화면"
+  },
+  "SettingsPage_BackgroundSettings_Label": {
+    "Value": "배경화면 설정"
+  },
+  "SettingsPage_BackgroundSettings_SelectedBtn": {
+    "Value": "선택됨"
+  },
+  "SettingsPage_ControllerLabel": {
+    "Value": "컨트롤러"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault": {
+    "Value": "기본 오디오"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsDefault_RefreshList": {
+    "Value": "목록 새로고침"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Headset": {
+    "Value": "헤드셋"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetLeft": {
+    "Value": "헤드셋 왼쪽"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_HeadsetRight": {
+    "Value": "헤드셋 오른쪽"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_LeftMotor": {
+    "Value": "왼쪽 모터"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_RightMotor": {
+    "Value": "오른쪽 모터"
+  },
+  "SettingsPage_ControllerSettings_AudioHapticsVolume_Speaker": {
+    "Value": "스피커"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem": {
+    "Value": "컨트롤러 오디오 시스템 (USB 전용)"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_Headset": {
+    "Value": "헤드셋"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_HeadsetVolume": {
+    "Value": "헤드셋 볼륨"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_InternalSpeaker": {
+    "Value": "내장 스피커"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_MicVolume": {
+    "Value": "마이크 볼륨"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_OutputMode": {
+    "Value": "오디오 출력 모드"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerAndHeadset": {
+    "Value": "헤드셋과 내장 스피커 모두"
+  },
+  "SettingsPage_ControllerSettings_AudioSystem_SpeakerVolume": {
+    "Value": "스피커 볼륨"
+  },
+  "SettingsPage_ControllerSettings_AutoConnectWhenOpenLabel": {
+    "Value": "DualSenseX가 실행될 때 자동 연결"
+  },
+  "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
+    "Value": "모터 강도 조정"
+  },
+  "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
+    "Value": "컨트롤러 진동 비활성화"
+  },
+  "SettingsPage_ControllerSettings_EnableAudioHaptics": {
+    "Value": "오디오 햅틱 활성화 (USB만 해당)"
+  },
+  "SettingsPage_ControllerSettings_EnableHidHide": {
+    "Value": "HidHide 활성화"
+  },
+  "SettingsPage_ControllerSettings_EnableVibWhileDisabled": {
+    "Value": "비활성화된 상태에서 들어오는 진동 활성화"
+  },
+  "SettingsPage_ControllerSettings_KillSteamOnConnect": {
+    "Value": "연결시 스팀 강제종료"
+  },
+  "SettingsPage_ControllerSettings_Label": {
+    "Value": "컨트롤러 설정"
+  },
+  "SettingsPage_ControllerSettings_LeftTriggerThreshold": {
+    "Value": "왼쪽 트리거 임계값"
+  },
+  "SettingsPage_ControllerSettings_LoadLastActiveTrigger": {
+    "Value": "시작 시 마지막으로 활성화 된 트리거 불러오기"
+  },
+  "SettingsPage_ControllerSettings_PlayLightShowOnConnect": {
+    "Value": "연결시 라이트쇼 플레이"
+  },
+  "SettingsPage_ControllerSettings_PressMicAndUpXboxGameBar": {
+    "Value": "마이크+UP 버튼을 눌러 Xbox 게임 바 열기"
+  },
+  "SettingsPage_ControllerSettings_PreviewLightshowBtn": {
+    "Value": "라이트쇼 미리보기"
+  },
+  "SettingsPage_ControllerSettings_RightTriggerThreshold": {
+    "Value": "오른쪽 트리거 임계값"
+  },
+  "SettingsPage_ControllerSettings_SearchUntilControllerConnects": {
+    "Value": "컨트롤러가 연결될 때까지 검색"
+  },
+  "SettingsPage_ControllerSettings_UDPPortListen": {
+    "Value": "UDP 포트 리스너 사용"
+  },
+  "SettingsPage_ControllerSettings_UDPPortNumber": {
+    "Value": "수신할 UDP 포트 번호"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions": {
+    "Value": "볼륨 동기화 옵션"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_DontSync": {
+    "Value": "동기화 하지 않음"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncAll": {
+    "Value": "모두 동기화"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftMotorRightMotor": {
+    "Value": "왼쪽 모터와 오른쪽 모터 동기화"
+  },
+  "SettingsPage_ControllerSettings_VolumeSyncOptions_SyncLeftRightSpeakers": {
+    "Value": "왼쪽 및 오른쪽 스피커 동기화"
+  },
+  "SettingsPage_Settings_CheckForUpdatesLabel": {
+    "Value": "업데이트 확인"
+  },
+  "SettingsPage_Settings_ResetAppDescription": {
+    "Value": "DualSenseX를 기본 설정으로 다시 설정하시겠습니까?"
+  },
+  "SettingsPage_Settings_ResetAppLabel": {
+    "Value": "앱 설정 초기화"
+  },
+  "SettingsPage_Settings_ResetAppYesButton": {
+    "Value": "DualSenseX 재설정"
+  },
+  "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
+    "Value": "터치패드를 마우스로 사용"
+  },
+  "SettingsPage_TouchToMouse_FastSensiSpeed": {
+    "Value": "빠른 이동 속도 - 버튼 누르고 있기"
+  },
+  "SettingsPage_TouchToMouse_InvertScroll": {
+    "Value": "스크롤 반전"
+  },
+  "SettingsPage_TouchToMouse_LeftClickHold": {
+    "Value": "왼쪽 클릭 - 버튼을 누르고 있으면 클릭상태가 유지됨"
+  },
+  "SettingsPage_TouchToMouse_NormalSensiSpeed": {
+    "Value": "평상시 감도 속도"
+  },
+  "SettingsPage_TouchToMouse_RightClickHold": {
+    "Value": "오른쪽 클릭 - 버튼을 탭하거나 누르기"
+  },
+  "SettingsPage_TouchToMouse_ScrollSpeed": {
+    "Value": "스크롤 속도 - 두 손가락으로 탭한 다음 드래그"
+  },
+  "SettingsPage_TouchToMouse_SlowSensiSpeed": {
+    "Value": "느린 이동 속도 - 버튼 누르고 있기"
+  }
+}
