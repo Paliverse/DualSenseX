@@ -25,3 +25,4 @@
 (bg)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/bg.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/bg.json)
 (hu)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/hu.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/hu.json)
 (ms)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/ms.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/ms.json)
+(ko)(https://github.com/Paliverse/DualSenseX/raw/main/Localization/ko.png)(https://raw.githubusercontent.com/Paliverse/DualSenseX/main/Localization/LanguagesJson/ko.json)
