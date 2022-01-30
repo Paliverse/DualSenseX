@@ -23,7 +23,6 @@
 
 
 <div align="center">
-  <h3 align="center">Current Goal: 1K Discord Members by end of 2021!ㅤ</h3>
   <h3 align="center"></h3>
 <a href="https://www.paypal.com/paypalme/paliverse" alt="Contributors">
 <img src="https://img.shields.io/badge/PayPal-Support Me-red.svg?style=for-the-badge&color=ffffff&logo=PayPal" /></a>
