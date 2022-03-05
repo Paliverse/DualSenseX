@@ -32,6 +32,14 @@
 </div>
 </p>
 
+<h1 align="center"></h1>
+<div align="Center">
+    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" width="350" height="200"/></a>
+    <h3 align="center">DSX will be moving to Steam!</h3>
+    <h4 align="center">Join <a href="https://discord.gg/PUThpCFByn">Discord</a> server for more info</h4>
+    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/WishlistOnSteam.png" width="300" height="auto"/></a>
+</div>
+
 ## My other Work 
 All my Apple Apps (iOS) can be found [**here**](https://apps.apple.com/us/developer/paliverse-apps-llc/id949777640)
 <div align="left">
