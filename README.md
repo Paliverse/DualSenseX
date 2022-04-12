@@ -12,17 +12,17 @@
           <img src="https://img.shields.io/discord/836790685784211486?logo=discord&label=Discord&style=for-the-badge&color=228B22"
            alt="chat on Discord"></a>
      </p>
-<div align="center">
-    <a href="https://github.com/Paliverse/DualSenseX/releases"><img src="imgs/DualSenseX_Icon.png" width="auto" height="300"/></a>
-
-</div>
+</p>
 
 <h1 align="center"></h1>
+<div align="Center">
+    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="300"/></a>
+    <h3 align="center">DSX will be moving to Steam!</h3>
+    <h4 align="center">Join <a href="https://discord.gg/PUThpCFByn">Discord</a> server for more info</h4>
+    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/WishlistOnSteam.png" width="300" height="auto"/></a>
+</div>
+<h1 align="center"></h1>
 </p>
-
-</p>
-
-
 <div align="center">
   <h3 align="center"></h3>
 <a href="https://www.paypal.com/paypalme/paliverse" alt="Contributors">
@@ -32,14 +32,6 @@
           <img src="https://img.shields.io/badge/ko fi-Support Me-red.svg?style=for-the-badge&color=ffffff&logo=Ko-fi" /></a>⠀
 </div>
 </p>
-
-<h1 align="center"></h1>
-<div align="Center">
-    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" width="350" height="200"/></a>
-    <h3 align="center">DSX will be moving to Steam!</h3>
-    <h4 align="center">Join <a href="https://discord.gg/PUThpCFByn">Discord</a> server for more info</h4>
-    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/WishlistOnSteam.png" width="300" height="auto"/></a>
-</div>
 
 ## My other Work 
 All my Apple Apps (iOS) can be found [**here**](https://apps.apple.com/us/developer/paliverse-apps-llc/id949777640)
@@ -103,6 +95,13 @@ Once that's  done, the DualSense Controller should auto connect to the App.
 - Custom Border RGB Color with Transparency options
 - and many more...
 
+## **For Translators**
+
+Want to contribute in translating  the app? Click below:
+
+<a href="https://localazy.com/p/dualsensex" alt="langs">
+    <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=ffffff" /></a>
+
 ## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
 
 [![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner4)](https://discord.gg/PUThpCFByn)
@@ -110,13 +109,6 @@ Once that's  done, the DualSense Controller should auto connect to the App.
 - Report Bugs
 - Get support
 - Ask questions regarding the App and more!
-
-## **For Translators**
-
-Want to contribute in translating  the app? Click below:
-
-<a href="https://localazy.com/p/dualsensex" alt="langs">
-    <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=ffffff" /></a>
 
 ## **Screenshot:**
 ![Screenshot 2021-05-12 205945](https://user-images.githubusercontent.com/4289084/147269478-d8aae25a-45f0-43f7-b505-5d3c1bdb5b8c.png)
