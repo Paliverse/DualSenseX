@@ -63,9 +63,9 @@ Emulate with the following while also getting the functionality of a DualSense C
 `OFF (for no Emulation, reading only inside app)`
 
 
-Whether you're using Steam or a different platform, you will be able to use DualSenseX with all Games!
+Whether you're using Steam or a different platform, you will be able to use DualSenseX with all games!
 
-Connection type supports both USB and Bluetooth with full functionaliy!
+Connection type supports both USB and Bluetooth with full functionality!
 
 ## Download and Install
 
@@ -83,20 +83,20 @@ To use DualSenseX,
     * To install, double-click `HidHideMSI.msi` and follow the instructions presented.
     * **MAKE SURE YOU REBOOT TO TAKE EFFECT**
 
-Once thats done, the DualSense Controller should auto connect to the App.
+Once that's  done, the DualSense Controller should auto connect to the App.
 
  
 ## **Features:**
 - Support for 20+ Languages 
-- Self updating App, I will always strive to make the experience easy and hassle free
+- Self updating App, I will always strive to make the experience easy and hassle-free
 - Launch App with Windows Startup
 - Speaker/Headphone Jack audio (USB ONLY)
-- Test out the controller to make sure all the buttons and joysticks function as inteded
-- Get Battery life status of controller (Connecting throught USB cable will show 100% needs to be tweaked)
+- Test out the controller to make sure all the buttons and joysticks function as intended
+- Get Battery life status of controller (Connecting through  USB cable will show 100% needs to be tweaked)
 - Configure Controller LED to your liking
 - Test out different Adaptive Trigger Modes and controller vibration
 - See a list of supported games in the "Games" Tab (Work in progress)
-- Game doesnt support controller? Map keyboard button clicks to controller buttons to simulate key pressess.
+- Game doesn't  support controller? Map keyboard button clicks to controller buttons to simulate key presses.
 - Auto connect controller when app launches, with ability to also kill steam if it's running.
 - Change between different hand selected backgrounds for the App
 - Dark and Light Mode
@@ -111,14 +111,9 @@ Once thats done, the DualSense Controller should auto connect to the App.
 - Get support
 - Ask questions regarding the App and more!
 
-## **DualSenseX On Trello**
-<h5/>To-Do's, Things being worked on, what's been implemented and more!</h5>
-<a href="https://trello.com/b/mDUMw1sN" alt="Contributors">
-  <img src="https://img.shields.io/badge/Trello-5C2D91?style=for-the-badge&logoColor=white&logo=Trello" /></a>
-  
 ## **For Translators**
 
-Want to contribute in trasnlating the app? Click below:
+Want to contribute in translating  the app? Click below:
 
 <a href="https://localazy.com/p/dualsensex" alt="langs">
     <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=ffffff" /></a>
@@ -170,7 +165,7 @@ There are a few things this App will look for when reading this text file to app
 - `ForceRightTrigger=` 
 
 ---
-For the `LeftTrigger=` and `RightTrigger=`, there are 19 different state possibilites that you can set which are **CASE SENSITIVE**:
+For the `LeftTrigger=` and `RightTrigger=`, there are 19 different state possibilities that you can set, which are **CASE SENSITIVE**:
 
 - `Normal`
 - `CustomTriggerValue`
@@ -193,31 +188,31 @@ For the `LeftTrigger=` and `RightTrigger=`, there are 19 different state possibi
 - `VibrateTrigger`
 ---
 for `ForceLeftTrigger=` and `ForceRightTrigger=`
-  * When using CustomTriggerValue there are 7 different values that goes into each parentheses 0-255
+  * When using CustomTriggerValue there are 7 different values that goes into each parenthesis 0-255
     * Example: ForceLeftTrigger=(0)(0)(0)(0)(0)(0)(0) or ForceRightTrigger=(0)(0)(0)(0)(0)(0)(0)
   
-  * When using Resistance there are 2 different values that goes into each parentheses.
+  * When using Resistance, there are 2 different values that goes into each parenthesis.
     * `First: 0-9` `Second: 0-8`
     * Example: ForceLeftTrigger=(0)(0) or ForceRightTrigger=(0)(0)
 
-  * When using Bow there are 4 different values that goes into each parentheses.
+  * When using Bow, there are 4 different values that goes into each parenthesis.
     * `First: 0-8` `Second: 0-8` `Third: 0-8` `Fourth: 0-8`
     * Example: ForceLeftTrigger=(0)(0)(0)(0) or ForceRightTrigger=(0)(0)(0)(0)
 
-  * When using Galloping there are 5 different values that goes into each parentheses.
+  * When using Galloping, there are 5 different values that goes into each parenthesis.
     * `First: 0-8` `Second: 0-9` `Third: 0-6` `Fourth: 0-7` `Fifth: 0-255 NOT recomended to go over 40`
     * Example: ForceLeftTrigger=(0)(0)(0)(0)(0) or ForceRightTrigger=(0)(0)(0)(0)(0)
 
-  * When using SemiAutomaticGun there are 4 different values that goes into each parentheses.
+  * When using SemiAutomaticGun, there are 4 different values that goes into each parenthesis.
     * `First: 0-7` `Second: 0-8` `Third: 0-8`
     * Example: ForceLeftTrigger=(0)(0)(0) or ForceRightTrigger=(0)(0)(0)
 
-  * When using AutomaticGun there are 4 different values that goes into each parentheses.
+  * When using AutomaticGun, there are 4 different values that goes into each parenthesis.
     * `First: 0-9` `Second: 0-8` `Third: 0-255 NOT recomended to go over 40`
     * Example: ForceLeftTrigger=(0)(0)(0) or ForceRightTrigger=(0)(0)(0)
 
-  * When using Machine there are 6 different values that goes into each parentheses.
-    * `First: 0-8` `Second: 0-9` `Third: 0-7` `Fourth: 0-7` `Fifth: 0-255 NOT recomended to go over 40` `Sixth: 0-2 in Decimals, example: 0.1, 0.8, 1.0, 1.8, 2.0 etc..`
+  * When using Machine, there are 6 different values that goes into each parenthesis.
+    * `First: 0-8` `Second: 0-9` `Third: 0-7` `Fourth: 0-7` `Fifth: 0-255 NOT recomended to go over 40` `Sixth: 0-2 in Decimals, example: 0.1, 0.8, 1.0, 1.8, 2.0 etc...`
     * Example: ForceLeftTrigger=(0)(0)(0)(0)(0)(0) or ForceRightTrigger=(0)(0)(0)(0)(0)(0)
 ---
 When using CustomTriggerValue, there are 17 different mode possibilites that are **CASE SENSITIVE** you can apply for:
@@ -305,7 +300,7 @@ RightTrigger=Machine
 ForceLeftTrigger=(0)(9)(7)(7)(10)(0.0)
 ```
 ___________________
-### **AutomaticGun State for right Trigger and GameCube for left Trigger:**
+### **AutomaticGun State for right Trigger and GameCube for left trigger:**
 ```
 LeftTrigger=GameCube
 RightTrigger=AutomaticGun
@@ -317,21 +312,21 @@ ___________________
 
 You can mix and match between states to get the desired effect for your game.
 
-From previous testing, i believe you can write to text file every frame as the App will only read from that file.
+From previous testing, I believe you can write to a text file every frame, as the App will only read from that file.
 
-For best results i recommend you include the batch file with your game and have it execute when loading your game which is explained below.
+For best results, I recommend you include the batch file with your game and have it execute when loading your game, which is explained below.
 
 ## **Batch File:**
 This batch file will open the DualSenseX App and auto connect to the controller, and begin applying the trigger states from the text file.
 
-To get started download the zip file from above and attach the .Bat file in the directory of your game.
+To get started, download the zip file from above and attach the .Bat file in the directory of your game.
 Edit the batch file according to your Game Title and the name of the text file that your game will write to.
 
-Upon launching the game, you should execute this batch file which will open a new window
+Upon launching the game, you should execute this batch file, which will open a new window
 of DualSenseX that takes in 2 paramaters from the batch file explained below and inside the batch file:
 
 Both the batch file and the text file must be in the same directory with your game, the batch file gets the location of the 
-textfile depending on where the batch file is located.
+text file depending on where the batch file is located.
 
 - Replace `GAMENAME` with your Game Title.
 - Replace `TEXTFILENAME.txt` with your text file name, while also including the .txt extension at the end
@@ -344,7 +339,7 @@ This App would not be possible without:
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus)
 * [HidSharp](https://www.zer7.com/software/hidsharp)
 * [DualSense2Xbox](https://github.com/Solla/DualSense2Xbox)
-* [Dualsense, Haptics, Leds, and More (Hid Output Report)](https://www.reddit.com/r/gamedev/comments/jumvi5/dualsense_haptics_leds_and_more_hid_output_report/)
+* [Dualsense, Haptics, LEDs, and More (Hid Output Report)](https://www.reddit.com/r/gamedev/comments/jumvi5/dualsense_haptics_leds_and_more_hid_output_report/)
 * [BLE Inputs](https://gist.github.com/Ryochan7/91a9759deb5dff3096fc5afd50ba19e2)
 * [DualSense-Windows](https://github.com/Ohjurot/DualSense-Windows)
 * [DS4Windows](https://github.com/Ryochan7/DS4Windows)
