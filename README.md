@@ -63,7 +63,7 @@ Emulate with the following while also getting the functionality of a DualSense C
 `OFF (for no Emulation, reading only inside app)`
 
 
-Wheather you're using Steam or a different platform, you will be able to use DualSenseX with all Games!
+Whether you're using Steam or a different platform, you will be able to use DualSenseX with all Games!
 
 Connection type supports both USB and Bluetooth with full functionaliy!
 
