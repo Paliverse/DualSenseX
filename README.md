@@ -131,12 +131,6 @@ ____
 
 [![Alt text](https://img.youtube.com/vi/UaXPXgnK1N0/maxresdefault.jpg)](https://bit.ly/2Xd8nju)
 
-# **Game Demo**
-### [**View on Itch.io**](https://paliverse.itch.io/dualsensex-game-demo)
-### [**Watch Video on YouTube**](https://www.youtube.com/watch?v=VQABnviCeRw)
-
-![Screenshot 2021-05-12 205945](https://img.itch.zone/aW1nLzYwMTU0NzcucG5n/original/KQkDLv.png)
-
 # **For Game Devs**
 
 Support your game with DualSense Adaptive Trigger Capabilities With DualSenseX App, find out below how to get it setup, and get your game added within the App for all to see and play!
