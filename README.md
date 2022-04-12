@@ -14,7 +14,6 @@
      </p>
 </p>
 
-<h1 align="center"></h1>
 <div align="Center">
     <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="300"/></a>
     <h3 align="center">DSX will be moving to Steam!</h3>
