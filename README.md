@@ -16,8 +16,8 @@
 
 <div align="Center">
     <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="300"/></a>
-    <h3 align="center">DSX will be moving to <a href="https://discord.gg/PUThpCFByn">Steam!</a></h3>
-    <h4 align="center">Join <a href="https://store.steampowered.com/app/1812620/DSX/">Discord</a> server for more info</h4>
+    <h3 align="center">DSX will be moving to <a href="https://store.steampowered.com/app/1812620/DSX/">Steam!</a></h3>
+    <h4 align="center">Join <a href="https://discord.gg/PUThpCFByn">Discord</a> server for more info</h4>
     <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/WishlistOnSteam.png" width="300" height="auto"/></a>
 </div>
 <h1 align="center"></h1>
