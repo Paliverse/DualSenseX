@@ -1,9 +1,9 @@
 {
   "AppCommandArgs_FileLocationNotFound": {
-    "Value": "Имя игры найдено, но местоположение файла не найдено"
+    "Value": "Не найдено располжение файла "
   },
   "AppCommandArgs_GameNameNotFound": {
-    "Value": "Имя игры не найдено, но местоположение файла известно"
+    "Value": "Не найдено имя игры"
   },
   "AppCommandArgs_NoParamersFound": {
     "Value": "Параметры не найдены"
@@ -108,7 +108,7 @@
     "Value": "Перезагрузка"
   },
   "AppNotificationPopUp_UpdateProccess_UpdateInstalled": {
-    "Value": "Обновление установлено. "
+    "Value": "Обновление установлено."
   },
   "AppNotificationPopUp_UpdateProccess_UpdateVersion": {
     "Value": "Версия Обновления:"
@@ -159,16 +159,16 @@
     "Value": "Посмотреть игру"
   },
   "GamsPage_GamesLabel": {
-    "Value": "ИГРЫ"
+    "Value": "Список Игр "
   },
   "GamsPage_SearchbarPlaceholder": {
-    "Value": "Поиск игр по имени или метке"
+    "Value": "Поиск игры по имени или метке"
   },
   "GeneralStuff_Button": {
     "Value": "Кнопка"
   },
   "GeneralStuff_Sensitivity": {
-    "Value": "чуткость"
+    "Value": "Чувствительность"
   },
   "HomePage_ApplyModeLabel": {
     "Value": "Применить режим"
@@ -198,7 +198,7 @@
     "Value": "Эмулировать Xbox 360"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingDS4": {
-    "Value": "Эмуляция DualShock 4"
+    "Value": "Эмулировать DualShock 4"
   },
   "HomePage_ConnectionStatus_EmulationType_EmulatingNone": {
     "Value": "Без эмуляции"
@@ -207,7 +207,7 @@
     "Value": "Автоматическое подключение к контроллеру..."
   },
   "HomePage_ConnectionStatus_Status_Connecting": {
-    "Value": "Подключение…"
+    "Value": "Подключение..."
   },
   "HomePage_ConnectionStatus_Status_ConnectionLostAttemptingToReconnect": {
     "Value": "Соединение потеряно, попытка повторного подключения..."
@@ -267,7 +267,7 @@
     "Value": "Пять"
   },
   "HomePage_ControllerLED_PlayerLED_FlashWhileCharging": {
-    "Value": "Вспышка во время зарядки"
+    "Value": "Мигание во время зарядки"
   },
   "HomePage_ControllerLED_PlayerLED_FourBtn": {
     "Value": "Четыре"
@@ -297,7 +297,7 @@
     "Value": "Быстро"
   },
   "HomePage_ControllerLED_RainbowSpeed_Hyper": {
-    "Value": "Гипер"
+    "Value": "Быстрее"
   },
   "HomePage_ControllerLED_RainbowSpeed_Medium": {
     "Value": "Средняя"
@@ -360,7 +360,7 @@
     "Value": "Не активно - Это не текстовый файл, пожалуйста, повторите попытку!"
   },
   "HomePage_TextFile_StopReadingBtn": {
-    "Value": "чтение текстового файла"
+    "Value": "Чтение текстового файла"
   },
   "InfoPage_CrashesOrBugsLabel": {
     "Value": "Сбои или ошибки?"
@@ -408,7 +408,7 @@
     "Value": "Выберите из выпадающего списка или нажмите клавишу на клавиатуре"
   },
   "Sense2Key_Configuration_HelpLabel2": {
-    "Value": "пока выбран раскрывающийся список"
+    "Value": "Пока выбран раскрывающийся список"
   },
   "Sense2Key_Configuration_SaveConfigurationBtn": {
     "Value": "Сохранить конфигурацию"
@@ -684,13 +684,13 @@
     "Value": "Сброс настроек DualSenseX"
   },
   "SettingsPage_TouchToMouse_EnableTouchpadToMouse": {
-    "Value": "Включить сенсорную панель в мышь"
+    "Value": "Включить сенсорную панель как мышь"
   },
   "SettingsPage_TouchToMouse_FastSensiSpeed": {
     "Value": "Быстрая скорость чувствительности - кнопка удержания"
   },
   "SettingsPage_TouchToMouse_InvertScroll": {
-    "Value": "Инвертировать свиток"
+    "Value": "Инвертировать прокрутку"
   },
   "SettingsPage_TouchToMouse_LeftClickHold": {
     "Value": "Щелчок левой кнопкой мыши - удерживайте кнопку, чтобы удерживать нажатое состояние"
