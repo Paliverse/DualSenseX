@@ -22,7 +22,6 @@
     <h4 align="center"></h4>
     <h4 align="center">You can now Pre-Purchase a Steam Key on <a href="https://paliverse.itch.io/dsx-steam-key-pre-release">Itch.io</a>, by doing so you can redeem the key and have DSX be added to your library. 
 You will not be able to install DSX until it's officially released for everyone.</h4> 
-    <h4 align="center">Pre-Order DSX now for 50% OFF below on Itch.io</h4>
 <a href="https://paliverse.itch.io/dsx-steam-key-pre-release"><img src="https://user-images.githubusercontent.com/4289084/165476906-0fb50851-ebd5-4a58-82a0-30577a04e4ed.png" width="250" height="auto"/></a>
   
 </div>
