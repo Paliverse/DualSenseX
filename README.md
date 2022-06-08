@@ -105,9 +105,16 @@ Once that's  done, the DualSense Controller should auto connect to the App.
 ## **Game Mods with DualSenseX**
 List of available Game Mods using DualSenseX to communicate with the controller:
 
-[Cyperpunk 2077 Mod](https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description)
+[DualSenseAT Central Hub Mod App](https://github.com/josealissonbr/DualSenseAT)
 ```
-Game: Cyperpunk 2077:
+Central Hub Mod App: DualSenseAT
+Game: Many games supported
+Author: @TechZiN#7640
+```
+
+[Cyberpunk 2077 Mod](https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description)
+```
+Game: Cyberpunk 2077:
 Mod Name: DualSense Adaptive Trigger Effects (Nexusmods)
 Author: @Limai#4799 
 ```
@@ -144,13 +151,6 @@ Author: @ThaPhonk?#9118
 Game: Skyrim SE:
 Mod Name: Skyrim SE Dual Sense Adaptive Trigger Mod
 Author: @dvize#9382 
-```
-
-[DualSenseAT Central Hub Mod App](https://github.com/josealissonbr/DualSenseAT)
-```
-Central Hub Mod App: DualSenseAT
-Game: Many games supported
-Author: @TechZiN#7640
 ```
 
 ## **For Translators**
