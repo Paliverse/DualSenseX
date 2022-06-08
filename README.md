@@ -152,6 +152,7 @@ Game: Skyrim SE:
 Mod Name: Skyrim SE Dual Sense Adaptive Trigger Mod
 Author: @dvize#9382 
 ```
+Do NOT use these Mods in online games to avoid getting banned, doing so will be at your own risk. DSX will hold NO responsibility for using these Mods.
 
 ## **For Translators**
 
