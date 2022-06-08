@@ -99,6 +99,60 @@ Once that's  done, the DualSense Controller should auto connect to the App.
 - Custom Border RGB Color with Transparency options
 - and many more...
 
+## **Screenshot:**
+![Screenshot 2021-05-12 205945](https://user-images.githubusercontent.com/4289084/147269478-d8aae25a-45f0-43f7-b505-5d3c1bdb5b8c.png)
+
+## **Game Mods with DualSenseX**
+List of available Game Mods using DualSenseX to communicate with the controller:
+
+[Cyperpunk 2077 Mod](https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description)
+```
+Game: Cyperpunk 2077:
+Mod Name: DualSense Adaptive Trigger Effects (Nexusmods)
+Author: @Limai#4799 
+```
+
+[Forza Horizon 4 and 5 Mod](https://github.com/patmagauran/ForzaDualSense)
+```
+Game: Forza Horizon 4 and 5:
+Mod Name: ForzaDualSense (Github)
+Author: @rotatingFans#3125 
+```
+
+[Game: Assetto Corsa Mod](https://www.racedepartment.com/downloads/dualsensexlink-dualsense-adaptive-trigger-and-led-effects.48675)
+```
+Game: Assetto Corsa:
+Mod Name: DualSenseXLink (Race Department)
+Author: @ryunyun#0227
+```
+
+[GTA 5 Mod](https://github.com/zelmer69/dualsense4GTA5)
+```
+Game: GTA 5:
+Mod Name: DualSense4GTA5 (GitHub)
+Author: @John D.#3775 
+```
+
+[Duck Game Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2654985616)
+```
+Game: Duck Game:
+Mod Name: DualSense Adaptive Triggers (Steam)
+Author: @ThaPhonk?#9118 
+```
+[Skyrim SE Mod](https://www.nexusmods.com/skyrimspecialedition/mods/66165/)
+```
+Game: Skyrim SE:
+Mod Name: Skyrim SE Dual Sense Adaptive Trigger Mod
+Author: @dvize#9382 
+```
+
+[DualSenseAT Central Hub Mod App](https://github.com/josealissonbr/DualSenseAT)
+```
+Central Hub Mod App: DualSenseAT
+Game: Many games supported
+Author: @TechZiN#7640
+```
+
 ## **For Translators**
 
 Want to contribute in translating  the app? Click below:
@@ -113,9 +167,6 @@ Want to contribute in translating  the app? Click below:
 - Report Bugs
 - Get support
 - Ask questions regarding the App and more!
-
-## **Screenshot:**
-![Screenshot 2021-05-12 205945](https://user-images.githubusercontent.com/4289084/147269478-d8aae25a-45f0-43f7-b505-5d3c1bdb5b8c.png)
 
 ## **Reviews:**
 [**AJ Bants YouTube Channel**](https://www.youtube.com/channel/UCTofyjsFVYEXwcNvzwiTWyw)
