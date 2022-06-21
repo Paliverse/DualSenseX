@@ -15,16 +15,15 @@
 </p>
 
 <div align="Center">
+    <h2 align="center">DSX will be Released on June 24th, 2022 on  <a href="https://store.steampowered.com/app/1812620/DSX/">Steam!</a></h2>
     <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="300"/></a>
-    <h3 align="center">DSX will be moving to <a href="https://store.steampowered.com/app/1812620/DSX/">Steam!</a></h3>
     <h4 align="center">Join <a href="https://discord.gg/PUThpCFByn">Discord</a> server for more info</h4>
     <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/WishlistOnSteam.png" width="300" height="auto"/></a>
     <h4 align="center"></h4>
-    <h4 align="center">You can now Pre-Purchase a Steam Key on <a href="https://paliverse.itch.io/dsx-steam-key-pre-release">Itch.io</a>, by doing so you can redeem the key and have DSX be added to your library. 
-You will not be able to install DSX until it's officially released for everyone.</h4> 
+    <h4 align="center">Pre-Purchase a Steam Key on <a href="https://paliverse.itch.io/dsx-steam-key-pre-release">Itch.io</a></h4> 
 <a href="https://paliverse.itch.io/dsx-steam-key-pre-release"><img src="https://user-images.githubusercontent.com/4289084/165476906-0fb50851-ebd5-4a58-82a0-30577a04e4ed.png" width="250" height="auto"/></a>
-  
 </div>
+
 <h1 align="center"></h1>
 </p>
 <div align="center">
