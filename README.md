@@ -15,13 +15,11 @@
 </p>
 
 <div align="Center">
-    <h2 align="center">DSX will be Released on June 24th, 2022 on  <a href="https://store.steampowered.com/app/1812620/DSX/">Steam!</a></h2>
+    <h2 align="center">DSX has been officially released on Steam!</h2>
     <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="300"/></a>
-    <h4 align="center">Join <a href="https://discord.gg/PUThpCFByn">Discord</a> server for more info</h4>
-    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/WishlistOnSteam.png" width="300" height="auto"/></a>
-    <h4 align="center"></h4>
-    <h4 align="center">Pre-Purchase a Steam Key on <a href="https://paliverse.itch.io/dsx-steam-key-pre-release">Itch.io</a></h4> 
-<a href="https://paliverse.itch.io/dsx-steam-key-pre-release"><img src="https://user-images.githubusercontent.com/4289084/165476906-0fb50851-ebd5-4a58-82a0-30577a04e4ed.png" width="250" height="auto"/></a>
+    <h3 align="center"><a href="https://store.steampowered.com/app/1812620/DSX/">GET IT NOW WITH 33% OFF!</a></h3>
+    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="300" height="auto"/></a>
+    <h4 align="center">All future updates will be for the Steam Version.</h4>
 </div>
 
 <h1 align="center"></h1>
