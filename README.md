@@ -17,7 +17,7 @@
 <div align="Center">
     <h2 align="center">DSX has been officially released on Steam!</h2>
     <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="300"/></a>
-    <h3 align="center"><a href="https://store.steampowered.com/app/1812620/DSX/">GET IT NOW WITH 33% OFF!</a></h3>
+    <h3 align="center"><a href="https://store.steampowered.com/app/1812620/DSX/"> </a></h3>
     <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="300" height="auto"/></a>
     <h4 align="center">All future updates will be for the Steam Version.</h4>
 </div>
