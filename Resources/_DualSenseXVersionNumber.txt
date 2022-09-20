@@ -1,24 +1,22 @@
-(1.4.9)
-● Touchpad to Mouse *NEW*
-- Scroll with 2 fingers as well as adjusting scroll speed
-- Invert Scroll toggle
-- 3 different sensitivity speeds for mouse movement
-can choose any of the Controller buttons to activate them
-- Left Click in pressed state with any Controller Button
-- Right Click with any Controller Button then tap or press
+(1.5.0)
+--- NOT AN UPDATE ----
 
-● Audio Haptics
-- Delay slider has been implemented with adjustments from 1-20ms
-- Resolved issue not being able to toggle ON/OFF
-- Some internal changes to improve the experience
+DualSenseX is available on Steam as DSX
 
-● Other Changes
-- HidHide has been removed completely
-please use the `HidHide Configuration Client` instead
-- Settings Page elements have been adjusted for clarity
-- Minor Bug fixes and stability improvements
-- Improved connection with the controller for a better experience
+The GitHub version will no longer be supported or updated.
+Get the Steam version for the latest updates and features
+and bug fixes.
 
-Happy Holidays and Happy New Year! 🎉
+Here's a few things only available on the steam versoin:
+● Complete App Redesign
+● Accurate Battery percentage reading
+● Many Touchpad LED modes
+● Shortcuts to do things like switching emulation fast
+● HidHide to fix double input
+● Game Mod section for dynamic adaptive triggers
+● Steam Stats/Leaderboards/Achievements
+● System Notification about controller status
+● All controller Colors
+●  And more..
 
-If you enjoy this App, please consider checking out my other work
+-- Search DSX on Steam and get it now! --
