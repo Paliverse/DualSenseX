@@ -1,5 +1,6 @@
 (1.5.0)
---- NOT AN UPDATE ----
+
+---------------------- NOT AN UPDATE ---------------------
 
 DualSenseX is available on Steam as DSX
 
@@ -19,4 +20,4 @@ Here's a few things only available on the steam versoin:
 ● All controller Colors
 ●  And more..
 
--- Search DSX on Steam and get it now! --
+----------- Search DSX on Steam and get it now! ----------
