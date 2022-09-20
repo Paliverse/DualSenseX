@@ -17,7 +17,7 @@ Here are a few things only available on the steam version:
 ● Game Mod section for dynamic adaptive triggers
 ● Steam Stats/Leaderboards/Achievements
 ● System Notification about controller status
-● All controller Colors
+● Seperated L2 and R2 Trigger modes to apply eaiser
 ●  And more…
 
 ------------ Search DSX on Steam and get it now! ----------
