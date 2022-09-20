@@ -8,7 +8,7 @@ The GitHub version will no longer be supported or updated.
 Get the Steam version for the latest updates and features
 and bug fixes.
 
-Here's a few things only available on the steam versoin:
+Here are a few things only available on the steam version:
 ● Complete App Redesign
 ● Accurate Battery percentage reading
 ● Many Touchpad LED modes
@@ -18,6 +18,6 @@ Here's a few things only available on the steam versoin:
 ● Steam Stats/Leaderboards/Achievements
 ● System Notification about controller status
 ● All controller Colors
-●  And more..
+●  And more…
 
------------ Search DSX on Steam and get it now! ----------
+------------ Search DSX on Steam and get it now! ----------
