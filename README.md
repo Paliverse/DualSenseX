@@ -21,7 +21,7 @@
     <h3 align="center"><a href="https://store.steampowered.com/app/1812620/DSX/"> </a></h3>
     <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="300" height="auto"/></a>
     <h4 align="center">All future updates will be for the Steam Version.</h4>
-    <h3 align="center">🛑 DSX on STEAM has partial support for DualSense Edge on PC 🛑</h3>
+    <h3 align="center">🛑 DSX on STEAM supports the DualSense Edge on PC 🛑</h3>
 </div>
 
 <h1 align="center"></h1>
