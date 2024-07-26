@@ -14,15 +14,21 @@
      </p>
 </p>
 
-<div align="Center">
-    <h3 align="center">🛑 DualSenseX Does NOT have a website, please do NOT visit any sites except here.</h3>
-    <h2 align="center">DSX has been officially released on Steam!</h2>
-    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="300"/></a>
-    <h3 align="center"><a href="https://store.steampowered.com/app/1812620/DSX/"> </a></h3>
-    <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="300" height="auto"/></a>
-    <h4 align="center">All future updates will be for the Steam Version.</h4>
-    <h3 align="center">🛑 DSX on STEAM supports the DualSense Edge on PC 🛑</h3>
-</div>
+
+
+> [!IMPORTANT]
+><a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="300"/></a>
+>
+> DSX has been officially released on [Steam](https://store.steampowered.com/app/1812620/DSX/)
+>
+>  All future updates will be for the Steam Version.
+> 
+> <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="300" height="auto"/></a>
+>
+
+> [!WARNING]
+> 🛑 DualSenseX Does NOT have a website, please do NOT visit any sites except here.
+> 
 
 <h1 align="center"></h1>
 </p>
