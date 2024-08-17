@@ -159,31 +159,6 @@ Author: @dvize#9382
 ```
 Do NOT use these Mods in online games to avoid getting banned, doing so will be at your own risk. DSX will hold NO responsibility for using these Mods.
 
-## **For Translators**
-
-Want to contribute in translating  the app? Click below:
-
-<a href="https://localazy.com/p/dualsensex" alt="langs">
-    <img src="https://connect.localazy.com/status/dualsensex?style=for-the-badge&logo=ffffff" /></a>
-
-## Join [**Discord**](https://discord.gg/PUThpCFByn) Community!
-
-[![Discord Banner 2](https://discordapp.com/api/guilds/836790685784211486/widget.png?style=banner4)](https://discord.gg/PUThpCFByn)
-- Report Issues
-- Report Bugs
-- Get support
-- Ask questions regarding the App and more!
-
-## **Reviews:**
-[**AJ Bants YouTube Channel**](https://www.youtube.com/channel/UCTofyjsFVYEXwcNvzwiTWyw)
-
-[![Alt text](https://img.youtube.com/vi/qQVvUA7NJz4/maxresdefault.jpg)](https://www.youtube.com/watch?v=qQVvUA7NJz4)
-____
-
-[**JUST A BONE YouTube Channel**](https://bit.ly/3ax0I2B)
-
-[![Alt text](https://img.youtube.com/vi/UaXPXgnK1N0/maxresdefault.jpg)](https://bit.ly/2Xd8nju)
-
 # **For Game Devs**
 
 Support your game with DualSense Adaptive Trigger Capabilities With DualSenseX App, find out below how to get it setup, and get your game added within the App for all to see and play!
