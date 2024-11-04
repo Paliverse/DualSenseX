@@ -30,18 +30,6 @@
 > 🛑 DualSenseX Does NOT have a website, please do NOT visit any sites except here.
 > 
 
-<h1 align="center"></h1>
-</p>
-<div align="center">
-  <h3 align="center"></h3>
-<a href="https://www.paypal.com/paypalme/paliverse" alt="Contributors">
-<img src="https://img.shields.io/badge/PayPal-Support Me-red.svg?style=for-the-badge&color=ffffff&logo=PayPal" /></a>
-  <mark>ㅤ</mark>
-<a href="https://ko-fi.com/L4L14MUFI" alt="Contributors">
-          <img src="https://img.shields.io/badge/ko fi-Support Me-red.svg?style=for-the-badge&color=ffffff&logo=Ko-fi" /></a>⠀
-</div>
-</p>
-
 ## My other Work 
 All my Apple Apps (iOS) can be found [**here**](https://apps.apple.com/us/developer/paliverse-apps-llc/id949777640)
 <div align="left">
