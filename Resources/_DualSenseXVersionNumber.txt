@@ -1,23 +1,18 @@
 (1.5.0)
 
----------------------- NOT AN UPDATE ---------------------
+`---------------------- IMPORTANT NOTICE ---------------------
 
-DualSenseX is available on Steam as DSX
+Thank you for using DualSenseX! To continue improving and 
+providing the best possible experience, we’ve transitioned 
+to Steam as DSX.
 
-The GitHub version will no longer be supported or updated.
-Get the Steam version for the latest updates and features
-and bug fixes.
+The GitHub version (v1.4.9) is no longer supported or updated. 
+Moving to Steam allows us to deliver frequent updates, 
+faster fixes, and ongoing improvements—all made possible by 
+your support.
 
-Here are a few things only available on the steam version:
-● Complete App Redesign
-● Accurate Battery percentage reading
-● Many Touchpad LED modes
-● Shortcuts to do things like switching emulation fast
-● HidHide to fix double input
-● Game Mod section for dynamic adaptive triggers
-● Steam Stats/Leaderboards/Achievements
-● System Notification about controller status
-● Seperated L2 and R2 Trigger modes to apply eaiser
-●  And more…
+By upgrading to the Steam version, you’re helping us keep 
+DSX alive, growing, and evolving. Your support ensures 
+that we can continue to build the app you love.
 
------------- Search DSX on Steam and get it now! ----------
+------------ Search "DSX" on Steam to upgrade now! ----------`
