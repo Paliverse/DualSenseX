@@ -17,7 +17,7 @@
 
 
 > [!IMPORTANT]
-><a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="100"/></a>
+> <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="100"/></a>
 >
 >---------------------- **IMPORTANT NOTICE** ---------------------
 >
@@ -38,10 +38,9 @@
 > 
 >[View on Steam](https://store.steampowered.com/app/1812620/DSX/)
 > 
-> ------------ Search "DSX" on Steam to upgrade now! ----------
-> 
 > <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="200" height="auto"/></a>
-
+> 
+> ------------ Search "DSX" on Steam to upgrade now! ----------
 
 > [!WARNING]
 > 🛑 DualSenseX Does NOT have a website, please do NOT visit any sites except here.
