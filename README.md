@@ -12,14 +12,16 @@
           <img src="https://img.shields.io/discord/836790685784211486?logo=discord&label=Discord&style=for-the-badge&color=228B22"
            alt="chat on Discord"></a>
      </p>
-</p>
-
+  </p  align="center">
+    <p align="center">
+      <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="200"/></a>
+    </p>
+  </p>
 
 
 > [!IMPORTANT]
-> <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="100"/></a>
 >
->---------------------- **IMPORTANT NOTICE** ---------------------
+> ### ---------------------- **IMPORTANT NOTICE** ---------------------
 >
 > Thank you for using DualSenseX! To continue improving and 
 > providing the best possible experience, we’ve transitioned 
@@ -38,9 +40,9 @@
 > 
 >[View on Steam](https://store.steampowered.com/app/1812620/DSX/)
 > 
-> <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="200" height="auto"/></a>
+> ### ------------ Search "DSX" on Steam to upgrade now! ----------
 > 
-> ------------ Search "DSX" on Steam to upgrade now! ----------
+> <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="200" height="auto"/></a>
 
 > [!WARNING]
 > 🛑 DualSenseX Does NOT have a website, please do NOT visit any sites except here.
