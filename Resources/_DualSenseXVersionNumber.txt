@@ -1,6 +1,6 @@
 (1.5.0)
 
-`---------------------- IMPORTANT NOTICE ---------------------
+---------------------- IMPORTANT NOTICE ---------------------
 
 Thank you for using DualSenseX! To continue improving and 
 providing the best possible experience, we’ve transitioned 
@@ -15,4 +15,6 @@ By upgrading to the Steam version, you’re helping us keep
 DSX alive, growing, and evolving. Your support ensures 
 that we can continue to build the app you love.
 
------------- Search "DSX" on Steam to upgrade now! ----------`
+DSX is 20% OFF duing Winter Sale until JAN 3rd, 2025!
+
+------------ Search "DSX" on Steam to upgrade now! ----------
