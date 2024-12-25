@@ -17,25 +17,35 @@
 
 
 > [!IMPORTANT]
-><a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="300"/></a>
+><a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/MainCapsule_RoundedCorners.png" height="100"/></a>
 >
-> DSX has been officially released on [Steam](https://store.steampowered.com/app/1812620/DSX/)
+>---------------------- **IMPORTANT NOTICE** ---------------------
 >
->  All future updates will be for the Steam Version.
+> Thank you for using DualSenseX! To continue improving and 
+> providing the best possible experience, we’ve transitioned 
+> to Steam as DSX.
+>
+> The GitHub version (v1.4.9) is no longer supported or updated. 
+> Moving to Steam allows us to deliver frequent updates, 
+> faster fixes, and ongoing improvements—all made possible by 
+> your support.
+>
+> By upgrading to the Steam version, you’re helping us keep 
+> DSX alive, growing, and evolving. Your support ensures 
+> that we can continue to build the app you love.
+>
+> DSX is 20% OFF duing Winter Sale until JAN 3rd, 2025!
 > 
-> <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="300" height="auto"/></a>
->
+>[View on Steam](https://store.steampowered.com/app/1812620/DSX/)
+> 
+> ------------ Search "DSX" on Steam to upgrade now! ----------
+> 
+> <a href="https://store.steampowered.com/app/1812620/DSX/"><img src="imgs/AvailableOnSteam.png" width="200" height="auto"/></a>
+
 
 > [!WARNING]
 > 🛑 DualSenseX Does NOT have a website, please do NOT visit any sites except here.
 > 
-
-## My other Work 
-All my Apple Apps (iOS) can be found [**here**](https://apps.apple.com/us/developer/paliverse-apps-llc/id949777640)
-<div align="left">
-  <h4 align="left">DualSenseM for macOS</h4>
-  <a href="https://apps.apple.com/us/app/dualsensem/id1598693570"><img src="imgs/macOSAppStoreButton.png" width="auto" height="70"/></a>
-</div>
 
 
 # About App
