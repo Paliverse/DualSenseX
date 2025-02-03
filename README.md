@@ -35,8 +35,6 @@
 > By upgrading to the Steam version, you’re helping us keep 
 > DSX alive, growing, and evolving. Your support ensures 
 > that we can continue to build the app you love.
->
-> DSX is 20% OFF duing Winter Sale until JAN 3rd, 2025!
 > 
 >[View on Steam](https://store.steampowered.com/app/1812620/DSX/)
 > 
