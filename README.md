@@ -18,6 +18,8 @@
     </p>
   </p>
 
+DualSense and DualSense Edge Bluetooth Audio and Haptics is coming to PC via DSX on Steam!
+https://store.steampowered.com/news/app/1812620/view/523100892744909375?l=english
 
 > [!IMPORTANT]
 >
