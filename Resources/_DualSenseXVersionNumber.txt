@@ -2,6 +2,9 @@
 
 ---------------------- IMPORTANT NOTICE ---------------------
 
+BLUETOOTH AUDIO and HAPTIC FEEDBACK IS NOW SUPPORTED WITH DSX
+ON STEAM
+
 Thank you for using DualSenseX! To continue improving and 
 providing the best possible experience, we’ve transitioned 
 to Steam as DSX.
@@ -16,5 +19,6 @@ DSX alive, growing, and evolving. Your support ensures
 that we can continue to build the app you love.
 
 ------------ Search "DSX" on Steam to upgrade now! ----------
+
 
 
