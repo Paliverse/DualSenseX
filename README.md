@@ -1,4 +1,5 @@
-<h1 align="center">DualSenseX</h1>
+<h1 align="center">DualSenseX (DSX)</h1>
+<h2 align="center">Bluetooth Audio and Haptic Feedback is now supported with DSX on STEAM!</h2>
 <h3 align="center"></h3>
 </p>
 </p>
