@@ -1,4 +1,4 @@
-(1.5.0)
+
 
 ---------------------- IMPORTANT NOTICE ---------------------
 
@@ -19,6 +19,7 @@ DSX alive, growing, and evolving. Your support ensures
 that we can continue to build the app you love.
 
 ------------ Search "DSX" on Steam to upgrade now! ----------
+
 
 
 
