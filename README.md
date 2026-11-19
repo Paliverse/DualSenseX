@@ -131,6 +131,13 @@ Mod Name: ForzaDualSense (Github)
 Author: @rotatingFans#3125 
 ```
 
+[Forza Horizon 6 and 5 App](https://github.com/GefryV3/ForzaTriggers-DualSense-Forza-Horizon)
+```
+Game: Forza Horizon 6 and 5:
+Mod Name: ForzaTriggers (GitHub) - adaptive triggers + haptics via DSX UDP, or direct USB
+Author: @GefryV3
+```
+
 [Game: Assetto Corsa Mod](https://www.racedepartment.com/downloads/dualsensexlink-dualsense-adaptive-trigger-and-led-effects.48675)
 ```
 Game: Assetto Corsa:
